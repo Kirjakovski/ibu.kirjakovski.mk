@@ -1,0 +1,4 @@
+{{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+{{ range $paginator.Pages }}
+  &lt;!&dash;&dash; Post content such as title and summary goes here. &dash;&dash;&gt;
+{{ end }}

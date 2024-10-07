@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Prof. Kirjakovski IBU Blog</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2024 21:13:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human and Artificial Intelligence</title>
+      <link>http://localhost:1313/categories/human-and-artificial-intelligence/</link>
+      <pubDate>Mon, 07 Oct 2024 21:13:36 +0200</pubDate>
+      <guid>http://localhost:1313/categories/human-and-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/categories/statistics/</link>
+      <pubDate>Mon, 07 Oct 2024 20:44:55 +0200</pubDate>
+      <guid>http://localhost:1313/categories/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cognitive Process</title>
+      <link>http://localhost:1313/categories/cognitive-process/</link>
+      <pubDate>Mon, 07 Oct 2024 20:38:00 +0200</pubDate>
+      <guid>http://localhost:1313/categories/cognitive-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction to Psychology</title>
+      <link>http://localhost:1313/categories/introduction-to-psychology/</link>
+      <pubDate>Mon, 07 Oct 2024 16:57:36 +0200</pubDate>
+      <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General Discussion</title>
+      <link>http://localhost:1313/categories/general-discussion/</link>
+      <pubDate>Mon, 02 Sep 2024 12:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/categories/general-discussion/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

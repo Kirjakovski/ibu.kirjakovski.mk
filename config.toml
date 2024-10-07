@@ -1,0 +1,26 @@
+baseURL = "https://ibu.kirjakovski.mk"
+languageCode = "en-us"
+title = "Prof. Kirjakovski IBU Blog"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+googleAnalytics = "UA-177760906-1"
+# Enable for syntax highlighting
+pygmentsUseClasses = true
+
+#[author]
+#  name = "profKirjakovski"
+#  homepage = "https://twitter.com/profKirjakovski"
+
+[languages]
+  [languages.en]
+    contentDir = "content"
+    languageName = "English"
+    weight = 1
+
+[params]
+  mainSections = ["posts"]
+  headTitle = "Prof. Kirjakovski IBU Blog"
+  disqus = "Kirjakovski" # disqus account name
+  deadline = ""
+#  name = "profKirjakovski"
+#  homepage = "https://twitter.com/profKirjakovski"

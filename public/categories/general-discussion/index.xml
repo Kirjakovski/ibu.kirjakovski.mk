@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Discussion on Prof. Kirjakovski IBU Blog</title>
+    <link>http://localhost:1313/categories/general-discussion/</link>
+    <description>Recent content in General Discussion on Prof. Kirjakovski IBU Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Sep 2024 12:38:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general-discussion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grading System Information</title>
+      <link>http://localhost:1313/posts/general-discussion/grading/</link>
+      <pubDate>Mon, 02 Sep 2024 12:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/posts/general-discussion/grading/</guid>
+      <description>&lt;p&gt;Students at IBU can enter their exams the following ways:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Midterm/final model of exams&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Grade structure&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Midterm exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Final Exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Activity 20 CP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Midterm Exam&lt;/em&gt;: Student will be allowed to enter the midterm exam, if s/he has completed their debt obligations&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Final Exam&lt;/em&gt;: The student will be allowed to enter the final exam if they meet the minimum attendance&#xA;criteria, have no debt obligations and if they have gained a minimum of 10 CP in the midterm&#xA;exam&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to your professor&#39;s blog!</title>
+      <link>http://localhost:1313/posts/general-discussion/welcome/</link>
+      <pubDate>Mon, 02 Sep 2024 12:38:14 +0200</pubDate>
+      <guid>http://localhost:1313/posts/general-discussion/welcome/</guid>
+      <description>&lt;p&gt;Hello Students,&lt;/p&gt;&#xA;&lt;p&gt;Welcome to my IBU Blog. We are about to begin a new 2024/2025 academic year at the International Balkan University. I created this blog to facilitate our communication and to reduce the number of emails. This should help us prevent misunderstandings.&lt;/p&gt;&#xA;&lt;p&gt;When many individuals attempt to communicate via email, it can become confusing and slow. This happens because a single email account can become overloaded, making it difficult to keep track of all the messages. Teachers are also occupied with other responsibilities and may not always be able to respond promptly. That&amp;rsquo;s why I chose to consolidate all my updates in one place online—this blog—for everyone to access.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
