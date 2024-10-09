@@ -16,7 +16,7 @@ Psychology has evolved, influenced by various perspectives. Structuralism focuse
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UNFdDVlo4WUhCRFFSMjBWR1pXVFpWWFYwUy4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
-#### Related reading:
+#### Reading materials:
 
 Mandatory:
 
