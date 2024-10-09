@@ -1,5 +1,5 @@
 ---
-title: "'Statistics' Course Reading Materials"
+title: "'Statistics' Course Materials"
 date: 2024-10-07T20:44:55+02:00
 deadline: ""
 categories: ["Statistics"]

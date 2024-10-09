@@ -1,5 +1,5 @@
 ---
-title: "'Introduction to Psychology' Course Reading Materials"
+title: "'Introduction to Psychology' Course Materials"
 date: 2024-10-07T16:49:54+02:00
 deadline: ""
 categories: ["Introduction to Psychology"]

@@ -1,5 +1,5 @@
 ---
-title: "'Cognitive Process' Course Reading Materials"
+title: "'Cognitive Process' Course Materials"
 date: 2024-10-07T20:38:00+02:00
 deadline: ""
 categories: ["Cognitive Process"]

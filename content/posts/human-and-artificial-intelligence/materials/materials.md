@@ -1,5 +1,5 @@
 ---
-title: "'Human and Artificial Intelligence' Course Reading Materials"
+title: "'Human and Artificial Intelligence' Course Materials"
 date: 2024-10-07T21:13:36+02:00
 deadline: ""
 categories: ["Human and Artificial Intelligence"]
