@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;Statistics&#39; Course Reading Materials</title>
-      <link>http://localhost:1313/posts/statistics/materials/2024-10-07-204439/</link>
+      <link>http://localhost:1313/posts/statistics/materials/materials/</link>
       <pubDate>Mon, 07 Oct 2024 20:44:55 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/materials/2024-10-07-204439/</guid>
+      <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>
       <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
     </item>
   </channel>
