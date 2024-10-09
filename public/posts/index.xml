@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:18:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:41:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 1: Introduction to the Concept of Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</link>
+      <pubDate>Wed, 09 Oct 2024 14:41:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</guid>
+      <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course explores the nature of intelligence, both human and artificial. Topics include theoretical frameworks, types of human intelligence, and the impact of biological and environmental factors on its development. The course also introduces artificial intelligence, examining functional aspects, machine learning, and large language models. By comparing human and artificial intelligence, students will explore concepts like machine consciousness and the ethical and societal implications of AI, fostering critical insights into this evolving field.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
       <link>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</link>
       <pubDate>Wed, 09 Oct 2024 14:18:43 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;h4 id=&#34;homework-assignment&#34;&gt;Homework assignment:&lt;/h4&gt;&#xA;&lt;h4 id=&#34;reading-materials&#34;&gt;Reading materials:&lt;/h4&gt;&#xA;&lt;p&gt;Main textbook:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;Chapter 1&lt;/u&gt;&lt;/strong&gt; from &amp;ldquo;Aron, A., Coups, E. J., &amp;amp; Aron, E. N. (2013). &lt;em&gt;Statistics for psychology&lt;/em&gt; (6th ed.). Pearson.&amp;rdquo; &lt;a href=&#34;https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&amp;amp;dl=0&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Supplementary textbook:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;Chapter 1&lt;/u&gt;&lt;/strong&gt; from &amp;ldquo;Howitt, D., &amp;amp; Cramer, D. (2014). &lt;em&gt;Introduction to statistics in psychology: With SPSS&lt;/em&gt; (6th Edition). Pearson.&amp;rdquo; &lt;a href=&#34;https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&amp;amp;dl=0&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered foundational concepts in statistics, focusing on measurement, data, distributions, tables, and graphs. It began by emphasizing the importance of statistics for conducting research, understanding scientific literature, and developing critical thinking. The field of statistics was divided into two main areas: descriptive statistics, which involves summarizing and organizing data, and inferential statistics, which focuses on drawing conclusions from sample data to generalize about populations.&lt;/p&gt;&#xA;&lt;p&gt;Key definitions were introduced, such as data, variables, and different levels of measurement. Variables were classified as either discrete or continuous, and the types of data—qualitative and quantitative—were explained. The levels of measurement were outlined, including nominal, ordinal, interval, and ratio, each providing different levels of information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Introduction to Cognitive Psychology</title>
@@ -28,13 +35,6 @@
       <pubDate>Wed, 09 Oct 2024 12:47:01 +0200</pubDate>
       <guid>http://localhost:1313/posts/introduction-to-psychology/lecture-1/itp-post-lecture-1/</guid>
       <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Psychology is the scientific study of mental processes and behavior. It systematically examines how the brain operates, its structure, and how it influences observable actions. To understand behavior, psychologists analyze three levels: the brain, the individual, and group dynamics. Psychological inquiry often contrasts scientific methods with intuition. Science relies on empirical data and systematic experimentation, while intuition involves more automatic and emotional thinking. Psychologists prefer empirical methods to ensure objectivity and accuracy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>&#39;Human and Artificial Intelligence&#39; Course Materials</title>
-      <link>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</link>
-      <pubDate>Mon, 07 Oct 2024 21:13:36 +0200</pubDate>
-      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</guid>
-      <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course explores the nature of intelligence, both human and artificial. Topics include theoretical frameworks, types of human intelligence, and the impact of biological and environmental factors on its development. The course also introduces artificial intelligence, examining functional aspects, machine learning, and large language models. By comparing human and artificial intelligence, students will explore concepts like machine consciousness and the ethical and societal implications of AI, fostering critical insights into this evolving field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#39;Statistics&#39; Course Materials</title>
