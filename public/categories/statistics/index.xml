@@ -6,10 +6,17 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Oct 2024 20:44:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:18:43 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&#39;Statistics&#39; Course Reading Materials</title>
+      <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
+      <link>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</link>
+      <pubDate>Wed, 09 Oct 2024 14:18:43 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;h4 id=&#34;homework-assignment&#34;&gt;Homework assignment:&lt;/h4&gt;&#xA;&lt;h4 id=&#34;reading-materials&#34;&gt;Reading materials:&lt;/h4&gt;&#xA;&lt;p&gt;Main textbook:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;Chapter 1&lt;/u&gt;&lt;/strong&gt; from &amp;ldquo;Aron, A., Coups, E. J., &amp;amp; Aron, E. N. (2013). &lt;em&gt;Statistics for psychology&lt;/em&gt; (6th ed.). Pearson.&amp;rdquo; &lt;a href=&#34;https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&amp;amp;dl=0&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Supplementary textbook:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;Chapter 1&lt;/u&gt;&lt;/strong&gt; from &amp;ldquo;Howitt, D., &amp;amp; Cramer, D. (2014). &lt;em&gt;Introduction to statistics in psychology: With SPSS&lt;/em&gt; (6th Edition). Pearson.&amp;rdquo; &lt;a href=&#34;https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&amp;amp;dl=0&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>&#39;Statistics&#39; Course Materials</title>
       <link>http://localhost:1313/posts/statistics/materials/materials/</link>
       <pubDate>Mon, 07 Oct 2024 20:44:55 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>

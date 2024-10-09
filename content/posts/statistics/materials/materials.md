@@ -14,8 +14,8 @@ This course introduces students to the fundamental concepts of statistics in psy
 
 Main textbook:
 
-* Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(PDF)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0" >}}
+* Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0" >}}
 
 Supplementary textbook:
 
-* Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(PDF)" url="https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&dl=0" >}}
+* Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&dl=0" >}}
