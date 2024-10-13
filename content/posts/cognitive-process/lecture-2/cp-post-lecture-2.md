@@ -18,10 +18,14 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 #### Reading materials:
 
-Mandatory:
+###### Mandatory:
 
-* **{{< underline "Chapter 2: Cognitive Neuroscience" >}}** from "Goldstein, E. B. (2019). *Cognitive psychology: Connecting mind, research, and everyday experience* (5th ed.). Cengage Learning." {{< a_blank title="(.pdf)" url="https://www.dropbox.com/s/2h12zgk69fuliyu/cognitive-psychology-connecting-mind-research-and-everyday-experience.pdf?dl=0" >}}
+Goldstein, E. B. (2019). *Cognitive psychology: Connecting mind, research, and everyday experience* (5th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/s/2h12zgk69fuliyu/cognitive-psychology-connecting-mind-research-and-everyday-experience.pdf?dl=0" >}}
 
-Optional:
+* Chapter 2: Cognitive Neuroscience
 
-* **{{< underline "Chapter 2: Cognitive Neuroscience" >}}** from "Sternberg, R. J., & Sternberg, K. (2017). *Cognitive psychology* (7th ed.). Cengage Learning." {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/gmkqe115xmhpe2fcy9xi7/cognitive-psychology.pdf?rlkey=6fx71txlfh50yzvpmdtyuzn3c&dl=0" >}}
+###### Optional:
+
+Sternberg, R. J., & Sternberg, K. (2017). *Cognitive psychology* (7th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/gmkqe115xmhpe2fcy9xi7/cognitive-psychology.pdf?rlkey=6fx71txlfh50yzvpmdtyuzn3c&dl=0" >}}
+
+* Chapter 2: Cognitive Neuroscience

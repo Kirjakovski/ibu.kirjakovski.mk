@@ -18,9 +18,11 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 #### Reading materials:
 
-Mandatory:
+###### Mandatory:
 
-* **{{< underline "Chapter 2" >}}** from "Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press." {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/9j92zbdog0zi7diqe3yun/the-science-of-human-intelligence.pdf?rlkey=c2p9uy692v63p7rdindq0i297&dl=0" >}}
+Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/9j92zbdog0zi7diqe3yun/the-science-of-human-intelligence.pdf?rlkey=c2p9uy692v63p7rdindq0i297&dl=0" >}}
+
+* Chapter 2: Basic Concepts
 
 <!-- Optional:
 

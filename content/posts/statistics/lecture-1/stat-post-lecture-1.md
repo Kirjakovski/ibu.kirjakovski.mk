@@ -24,13 +24,11 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 #### Reading materials:
 
-Mandatory:
+###### Mandatory:
 
-* **{{< underline "Chapter 1" >}}** from "Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson." {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0" >}}
+Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0" >}}
 
-<!-- Optional:
-
-* **{{< underline "Chapter 1" >}}** from "Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson." {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&dl=0" >}} -->
+* Chapter 1: Displaying the Order in a Group of Numbers Using Tables and Graphs
 
 #### Practice files:
 

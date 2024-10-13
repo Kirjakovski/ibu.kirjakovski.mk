@@ -6,8 +6,15 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:18:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 20:13:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 2: Central Tendency and Variability</title>
+      <link>http://localhost:1313/posts/statistics/lecture-2/stat-post-lecture-2/</link>
+      <pubDate>Sun, 13 Oct 2024 20:13:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-2/stat-post-lecture-2/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered the concepts of central tendency and variability, essential tools in descriptive statistics. Central tendency refers to finding a single value that represents a set of scores. The three primary measures are the mean, mode, and median. The mean is the arithmetic average, calculated by summing all values and dividing by the number of values. It is sensitive to outliers, while the median is a more robust measure, representing the middle score when data is ordered. The mode is the most frequent score in a distribution and is typically used for nominal data.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
       <link>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</link>

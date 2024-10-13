@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:41:58 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 17:40:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 2: Cognitive Neuroscience</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-2/cp-post-lecture-2/</link>
+      <pubDate>Sun, 13 Oct 2024 17:40:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-2/cp-post-lecture-2/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The human brain contains approximately 86 billion neurons, each connected to thousands of others via synapses. Neurons come in various types, including sensory, motor, and interneurons. Sensory neurons transmit signals from sensory organs to the brain, while motor neurons control movement. Interneurons facilitate communication between other neurons. The central nervous system (CNS) comprises the brain and spinal cord, while the peripheral nervous system (PNS) connects the body’s organs and limbs to the CNS. The PNS is divided into the autonomic nervous system (ANS), controlling involuntary functions like digestion, and the sensory-somatic nervous system (SSNS), which manages voluntary movements and sensory information.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 1: Introduction to the Concept of Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-1/haai-post-lecture-1/</link>
