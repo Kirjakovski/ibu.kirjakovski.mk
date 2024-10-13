@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LECTURE 1: Introduction to the Concept of Intelligence</title>
-      <link>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</link>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-1/haai-post-lecture-1/</link>
       <pubDate>Wed, 09 Oct 2024 14:41:58 +0200</pubDate>
-      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</guid>
-      <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course explores the nature of intelligence, both human and artificial. Topics include theoretical frameworks, types of human intelligence, and the impact of biological and environmental factors on its development. The course also introduces artificial intelligence, examining functional aspects, machine learning, and large language models. By comparing human and artificial intelligence, students will explore concepts like machine consciousness and the ethical and societal implications of AI, fostering critical insights into this evolving field.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-1/haai-post-lecture-1/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduced the concept of intelligence by highlighting its complexity and various aspects. Intelligence can be both general and specific, and it involves adaptability, learning, problem-solving, reasoning, memory, perception, language comprehension, and emotional intelligence. Definitions of intelligence vary, but it generally refers to the ability to solve problems and understand complex material. Intelligence is often measured through IQ tests, which assess multiple abilities, but these tests do not fully capture cognitive capacity. Several metaphors help explain intelligence, including the geographic, computational, biological, epistemological, sociological, and anthropological models. These metaphors offer different perspectives, such as viewing intelligence as a cultural invention or a cognitive map of the brain. The systems metaphor attempts to combine aspects from multiple models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
@@ -35,6 +35,13 @@
       <pubDate>Wed, 09 Oct 2024 12:47:01 +0200</pubDate>
       <guid>http://localhost:1313/posts/introduction-to-psychology/lecture-1/itp-post-lecture-1/</guid>
       <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Psychology is the scientific study of mental processes and behavior. It systematically examines how the brain operates, its structure, and how it influences observable actions. To understand behavior, psychologists analyze three levels: the brain, the individual, and group dynamics. Psychological inquiry often contrasts scientific methods with intuition. Science relies on empirical data and systematic experimentation, while intuition involves more automatic and emotional thinking. Psychologists prefer empirical methods to ensure objectivity and accuracy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>&#39;Human and Artificial Intelligence&#39; Course Materials</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</link>
+      <pubDate>Mon, 07 Oct 2024 21:13:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</guid>
+      <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course explores the nature of intelligence, both human and artificial. Topics include theoretical frameworks, types of human intelligence, and the impact of biological and environmental factors on its development. The course also introduces artificial intelligence, examining functional aspects, machine learning, and large language models. By comparing human and artificial intelligence, students will explore concepts like machine consciousness and the ethical and societal implications of AI, fostering critical insights into this evolving field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#39;Statistics&#39; Course Materials</title>
