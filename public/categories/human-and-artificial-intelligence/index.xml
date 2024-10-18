@@ -6,8 +6,15 @@
     <description>Recent content in Human and Artificial Intelligence on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2024 21:28:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:05:17 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/human-and-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 3: Theoretical Frameworks of Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-3/haai-post-lecture-3/</link>
+      <pubDate>Fri, 18 Oct 2024 21:05:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-3/haai-post-lecture-3/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Intelligence theories provide frameworks for understanding cognitive abilities across different dimensions. Scientific theories are supported by empirical evidence, are falsifiable, and have predictive power. Proximal explanations address immediate causes, while distal ones offer long-term reasoning. Psychometric theories of intelligence summarize cognitive performance variations using a small number of dimensions, such as reasoning, verbal skills, and visuospatial abilities. Factor analysis helps identify underlying variables, like Spearman’s “g” factor, which represents general intelligence. Correlations between test scores reveal these factors, with mental processing speed and working memory often linked to intelligence.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 2: Measuring Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-2/haai-post-lecture-2/</link>
