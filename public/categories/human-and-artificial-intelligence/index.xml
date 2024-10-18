@@ -6,8 +6,15 @@
     <description>Recent content in Human and Artificial Intelligence on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:41:58 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 21:28:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/human-and-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 2: Measuring Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-2/haai-post-lecture-2/</link>
+      <pubDate>Sun, 13 Oct 2024 21:28:59 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-2/haai-post-lecture-2/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covers the concept of measuring intelligence, differentiating between physical, biological, and psychological dimensions. It outlines key scales of measurement: nominal, ordinal, interval, and ratio, explaining their use in categorizing data, ranking, and performing statistical analysis. Various definitions of intelligence by figures like Spearman, Binet, and Wechsler emphasize reasoning, adaptation, and behavior.&lt;/p&gt;&#xA;&lt;p&gt;Psychological tests, like intelligence, aptitude, and personality tests, are standardized to assess behavior. Intelligence tests sample abilities such as verbal comprehension and visuospatial reasoning, with a positive correlation across tasks (positive manifold). Spearman’s principle highlights that all cognitive tests measure intelligence to some extent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 1: Introduction to the Concept of Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-1/haai-post-lecture-1/</link>
