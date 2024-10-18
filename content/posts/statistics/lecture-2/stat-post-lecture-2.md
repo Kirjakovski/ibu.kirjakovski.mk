@@ -1,7 +1,7 @@
 ---
 title: "LECTURE 2: Central Tendency and Variability"
 date: 2024-10-13T20:13:54+02:00
-deadline: "Deadline: Oct 27 2024"
+deadline: "Deadline: 27 Oct 2024"
 categories: ["Statistics"]
 draft: false
 ---

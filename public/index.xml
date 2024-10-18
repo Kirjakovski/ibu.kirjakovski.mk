@@ -6,8 +6,22 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 20:02:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:05:17 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 3: Theoretical Frameworks of Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-3/haai-post-lecture-3/</link>
+      <pubDate>Fri, 18 Oct 2024 21:05:17 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-3/haai-post-lecture-3/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Intelligence theories provide frameworks for understanding cognitive abilities across different dimensions. Scientific theories are supported by empirical evidence, are falsifiable, and have predictive power. Proximal explanations address immediate causes, while distal ones offer long-term reasoning. Psychometric theories of intelligence summarize cognitive performance variations using a small number of dimensions, such as reasoning, verbal skills, and visuospatial abilities. Factor analysis helps identify underlying variables, like Spearman’s “g” factor, which represents general intelligence. Correlations between test scores reveal these factors, with mental processing speed and working memory often linked to intelligence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 3: Basics of Inferential Statistics</title>
+      <link>http://localhost:1313/posts/statistics/lecture-3/stat-post-lecture-3/</link>
+      <pubDate>Fri, 18 Oct 2024 20:32:42 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-3/stat-post-lecture-3/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Inferential statistics allow researchers to make general conclusions based on sample data, extending their findings beyond the participants in a study. Key concepts include scores, outliers, and measures of central tendency (mean, median, mode). Variability is measured using variance and standard deviation, which reflect how spread out the scores are from the mean. A normal distribution follows a bell-shaped curve, which is symmetric and unimodal. The central limit theorem explains that, with enough random influences, a precise normal curve results. Z-scores express how far a particular score is from the mean in terms of standard deviations, offering insight into its position within the distribution. The normal curve allows us to predict the percentage of scores falling above or below any point.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 3: Perception</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-3/cp-post-lecture-3/</link>

@@ -1,7 +1,7 @@
 ---
 title: "LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs"
 date: 2024-10-09T14:18:43+02:00
-deadline: "Deadline: Oct 20 2024"
+deadline: "Deadline: 20 Oct 2024"
 categories: ["Statistics"]
 draft: false
 ---

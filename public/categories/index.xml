@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 19:46:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 20:02:06 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Process</title>
+      <link>http://localhost:1313/categories/cognitive-process/</link>
+      <pubDate>Fri, 18 Oct 2024 20:02:06 +0200</pubDate>
+      <guid>http://localhost:1313/categories/cognitive-process/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Introduction to Psychology</title>
       <link>http://localhost:1313/categories/introduction-to-psychology/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/categories/statistics/</link>
       <pubDate>Sun, 13 Oct 2024 20:13:54 +0200</pubDate>
       <guid>http://localhost:1313/categories/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cognitive Process</title>
-      <link>http://localhost:1313/categories/cognitive-process/</link>
-      <pubDate>Sun, 13 Oct 2024 17:40:22 +0200</pubDate>
-      <guid>http://localhost:1313/categories/cognitive-process/</guid>
       <description></description>
     </item>
     <item>
