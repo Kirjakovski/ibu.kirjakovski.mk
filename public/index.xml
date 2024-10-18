@@ -6,8 +6,15 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 19:46:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 20:02:06 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 3: Perception</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-3/cp-post-lecture-3/</link>
+      <pubDate>Fri, 18 Oct 2024 20:02:06 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-3/cp-post-lecture-3/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Perception is the process by which the brain organizes and interprets sensory signals, enabling us to interact with our environment. It starts with sensation, where physical energy stimulates receptor cells, but perception involves interpreting these signals to understand shapes, objects, and events. Perception is influenced by both bottom-up processing, which begins with stimuli received by sensory organs, and top-down processing, shaped by prior knowledge and expectations. Challenges in perception arise due to the ambiguous nature of stimuli. Objects may be hidden, blurred, or viewed from different angles, making perception complex. Humans use unconscious inference, as proposed by Helmholtz, to perceive the most likely scenario based on sensory input. Gestalt principles such as proximity, similarity, and good continuation help organize visual information into coherent forms.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 2: Brain and Behavior</title>
       <link>http://localhost:1313/posts/introduction-to-psychology/lecture-2/itp-post-lecture-2/</link>
