@@ -6,8 +6,22 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Oct 2024 17:57:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 12:37:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 4: Attention</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-post-lecture-4/</link>
+      <pubDate>Sat, 26 Oct 2024 12:37:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-4/cp-post-lecture-4/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Attention, a key cognitive process, is essential for selecting and focusing on specific stimuli. William James described attention as the mind’s process of vividly highlighting certain elements while filtering others. Broadbent’s Filter Model emphasized that attention filters input based on physical characteristics, while Treisman modified this to suggest a more flexible approach, allowing some unattended information through if it’s significant, such as one’s name (the “cocktail party effect”). Later models proposed that attention could also occur at a later processing stage, selecting information by meaning. Processing capacity and perceptual load influence attention’s effectiveness; easier tasks allow for more distraction processing, while complex tasks limit this. Load Theory posits that high-load tasks consume all cognitive resources, reducing susceptibility to distractions, as shown in the Stroop Effect and Lavie’s work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 3: Sensation and Perception</title>
+      <link>http://localhost:1313/posts/introduction-to-psychology/lecture-3/itp-post-lecture-3/</link>
+      <pubDate>Sat, 26 Oct 2024 11:25:38 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-psychology/lecture-3/itp-post-lecture-3/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture on sensation and perception covered the processes that enable us to sense and interpret our environment. Sensation involves detecting physical energy through receptor cells before the brain organizes and interprets it. Perception is the neural process of organizing sensory input into coherent units, identifying objects and locations. We explored various senses beyond sight, including balance, body position, pain, and temperature. Psychophysics was introduced, discussing thresholds for detecting stimuli and how subliminal messaging works. Signal Detection Theory explained how people discern signals amid noise, highlighting sensitivity and bias.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>WEEKS 3 and 4: Reading Materials</title>
       <link>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-3-4/crda-post-weeks-1-2/</link>
