@@ -6,8 +6,15 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Oct 2024 16:19:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 13:02:23 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 4: Introduction to Hypothesis Testing</title>
+      <link>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</link>
+      <pubDate>Sat, 26 Oct 2024 13:02:23 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Hypothesis testing is a systematic method to evaluate whether a sample’s results support a particular theory or innovation. It starts with forming hypotheses: the null hypothesis, which suggests no difference between groups, and the research (or alternative) hypothesis, which predicts a difference. Hypothesis testing follows a structured process. First, the question is reformulated as hypotheses about populations. Next, the characteristics of the comparison distribution are identified, typically assuming a normal distribution if the null hypothesis is true. Researchers then set a critical value, the threshold for rejecting the null hypothesis, often using conventional significance levels (e.g., p &amp;lt; .05 or p &amp;lt; .01).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IMPORTANT: For the Statistics Course, Submit Homework via Microsoft Forms Only</title>
       <link>http://localhost:1313/posts/statistics/notices/homework-submission/</link>

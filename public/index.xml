@@ -6,8 +6,22 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 12:37:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 13:17:05 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 4: Kinds of Human Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-4/haai-post-lecture-4/</link>
+      <pubDate>Sat, 26 Oct 2024 13:17:05 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-4/haai-post-lecture-4/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on alternative models of intelligence beyond the traditional “g-factor.” This general intelligence factor, suggested by Charles Spearman, proposes that cognitive abilities correlate with one another, indicating a common underlying intelligence. However, theories like Gardner’s Multiple Intelligences argue for distinct, independent intelligences such as linguistic, logical-mathematical, and spatial, though critics challenge its lack of empirical support and practical application.&lt;/p&gt;&#xA;&lt;p&gt;Emotional Intelligence (EI), popularized by Salovey, Mayer, and later Goleman, involves the capacity to perceive, use, and regulate emotions. EI is linked to various life domains, from social relationships to health. Tests like the MSCEIT assess EI based on the four-branch model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 4: Introduction to Hypothesis Testing</title>
+      <link>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</link>
+      <pubDate>Sat, 26 Oct 2024 13:02:23 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Hypothesis testing is a systematic method to evaluate whether a sample’s results support a particular theory or innovation. It starts with forming hypotheses: the null hypothesis, which suggests no difference between groups, and the research (or alternative) hypothesis, which predicts a difference. Hypothesis testing follows a structured process. First, the question is reformulated as hypotheses about populations. Next, the characteristics of the comparison distribution are identified, typically assuming a normal distribution if the null hypothesis is true. Researchers then set a critical value, the threshold for rejecting the null hypothesis, often using conventional significance levels (e.g., p &amp;lt; .05 or p &amp;lt; .01).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Attention</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-post-lecture-4/</link>
