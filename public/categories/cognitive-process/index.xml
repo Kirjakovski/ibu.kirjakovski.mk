@@ -6,8 +6,15 @@
     <description>Recent content in Cognitive Process on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 12:37:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 13:40:03 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cognitive-process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 5: Memory</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-5/cp-post-lecture-5/</link>
+      <pubDate>Sat, 02 Nov 2024 13:40:03 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-5/cp-post-lecture-5/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on memory processes within cognitive psychology, examining models, types, and key experiments. The Modal Model of Memory, by Atkinson and Shiffrin, introduces three stages: sensory memory, which briefly holds all incoming sensory input; short-term memory (STM), retaining small bits for about 15-20 seconds; and long-term memory (LTM), storing extensive information over years.&lt;/p&gt;&#xA;&lt;p&gt;STM was explored through experiments by Peterson and Peterson, who demonstrated STM’s limited duration and reliance on rehearsal, and by George Miller, who proposed its capacity as 5-9 items. Techniques like chunking were shown to extend STM’s capacity, while Luck and Vogel’s change detection method suggested STM’s retention of about four items. Working memory, distinct from STM, involves holding and manipulating information for complex tasks. Baddeley’s model includes the phonological loop for verbal data, the visuospatial sketchpad for spatial data, and the central executive for coordination. Later, the episodic buffer was added as a storage that interacts with LTM. Episodic and semantic memory are differentiated within LTM; episodic enables mental time travel to past experiences, while semantic involves general knowledge without specific recall. Studies on priming and procedural memory reveal the influence of implicit memory on behavior, even without conscious recall.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Attention</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-post-lecture-4/</link>

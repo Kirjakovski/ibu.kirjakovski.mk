@@ -1,6 +1,6 @@
 ---
 title: "IMPORTANT: For the Statistics Course, Submit Homework via Microsoft Forms Only"
-date: 2024-10-19T16:19:40+02:00
+date: 2024-10-08T16:19:40+02:00
 deadline: ""
 categories: ["Statistics"]
 draft: false

@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 13:17:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 11:03:47 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Psychology</title>
+      <link>http://localhost:1313/categories/introduction-to-psychology/</link>
+      <pubDate>Sat, 02 Nov 2024 11:03:47 +0200</pubDate>
+      <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Human and Artificial Intelligence</title>
       <link>http://localhost:1313/categories/human-and-artificial-intelligence/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/categories/cognitive-process/</link>
       <pubDate>Sat, 26 Oct 2024 12:37:44 +0200</pubDate>
       <guid>http://localhost:1313/categories/cognitive-process/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Introduction to Psychology</title>
-      <link>http://localhost:1313/categories/introduction-to-psychology/</link>
-      <pubDate>Sat, 26 Oct 2024 11:25:38 +0200</pubDate>
-      <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
       <description></description>
     </item>
     <item>

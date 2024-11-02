@@ -6,21 +6,21 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 13:02:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 13:54:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 5: Hypothesis Tests with Means of Samples</title>
+      <link>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</link>
+      <pubDate>Sat, 02 Nov 2024 13:54:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduces hypothesis testing with sample means, focusing on the comparison of a sample to a population. It starts with the basics of the research and null hypotheses, where the research hypothesis suggests a specific effect or difference, while the null hypothesis assumes no effect. Hypothesis testing follows a structured process, requiring restating the question in hypothesis terms, identifying comparison distribution characteristics, determining a rejection cutoff, and calculating sample scores to decide on rejecting the null hypothesis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Introduction to Hypothesis Testing</title>
       <link>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</link>
       <pubDate>Sat, 26 Oct 2024 13:02:23 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</guid>
       <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Hypothesis testing is a systematic method to evaluate whether a sample’s results support a particular theory or innovation. It starts with forming hypotheses: the null hypothesis, which suggests no difference between groups, and the research (or alternative) hypothesis, which predicts a difference. Hypothesis testing follows a structured process. First, the question is reformulated as hypotheses about populations. Next, the characteristics of the comparison distribution are identified, typically assuming a normal distribution if the null hypothesis is true. Researchers then set a critical value, the threshold for rejecting the null hypothesis, often using conventional significance levels (e.g., p &amp;lt; .05 or p &amp;lt; .01).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IMPORTANT: For the Statistics Course, Submit Homework via Microsoft Forms Only</title>
-      <link>http://localhost:1313/posts/statistics/notices/homework-submission/</link>
-      <pubDate>Sat, 19 Oct 2024 16:19:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/notices/homework-submission/</guid>
-      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;&#xA;&lt;p&gt;I’ve noticed that some of you are still sending your homework assignments through email for the Statistics course, despite my multiple reminders and instructions. Please remember that &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;all homework must be submitted via Microsoft Forms&lt;/u&gt;&lt;/strong&gt;. The links to the assignment forms are available on my blog in each of the lecture posts.&lt;/p&gt;&#xA;&lt;p&gt;I won’t be accepting any assignments sent by email, so make sure to use the correct submission method. For this, you need a working university-issued &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;@ibu.edu.mk email address&lt;/u&gt;&lt;/strong&gt;. This ensures that your work is properly tracked and graded.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 3: Basics of Inferential Statistics</title>
@@ -42,6 +42,13 @@
       <pubDate>Wed, 09 Oct 2024 14:18:43 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</guid>
       <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered foundational concepts in statistics, focusing on measurement, data, distributions, tables, and graphs. It began by emphasizing the importance of statistics for conducting research, understanding scientific literature, and developing critical thinking. The field of statistics was divided into two main areas: descriptive statistics, which involves summarizing and organizing data, and inferential statistics, which focuses on drawing conclusions from sample data to generalize about populations.&lt;/p&gt;&#xA;&lt;p&gt;Key definitions were introduced, such as data, variables, and different levels of measurement. Variables were classified as either discrete or continuous, and the types of data—qualitative and quantitative—were explained. The levels of measurement were outlined, including nominal, ordinal, interval, and ratio, each providing different levels of information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IMPORTANT: For the Statistics Course, Submit Homework via Microsoft Forms Only</title>
+      <link>http://localhost:1313/posts/statistics/notices/homework-submission/</link>
+      <pubDate>Tue, 08 Oct 2024 16:19:40 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/notices/homework-submission/</guid>
+      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;&#xA;&lt;p&gt;I’ve noticed that some of you are still sending your homework assignments through email for the Statistics course, despite my multiple reminders and instructions. Please remember that &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;all homework must be submitted via Microsoft Forms&lt;/u&gt;&lt;/strong&gt;. The links to the assignment forms are available on my blog in each of the lecture posts.&lt;/p&gt;&#xA;&lt;p&gt;I won’t be accepting any assignments sent by email, so make sure to use the correct submission method. For this, you need a working university-issued &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;@ibu.edu.mk email address&lt;/u&gt;&lt;/strong&gt;. This ensures that your work is properly tracked and graded.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#39;Statistics&#39; Course Materials</title>
