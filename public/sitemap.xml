@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-11-04T21:36:09+02:00</lastmod>
+    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cognitive-process/</loc>
+    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-6/cp-post-lecture-6/</loc>
+    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
     <lastmod>2024-11-04T21:36:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-5/itp-post-lecture-5/</loc>
-    <lastmod>2024-11-04T21:36:09+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-04T21:36:09+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-04T21:36:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/statistics/</loc>
     <lastmod>2024-11-02T13:54:44+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cognitive-process/</loc>
-    <lastmod>2024-11-02T13:40:03+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-5/cp-post-lecture-5/</loc>
     <lastmod>2024-11-02T13:40:03+02:00</lastmod>

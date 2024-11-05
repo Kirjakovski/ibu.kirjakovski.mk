@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 21:36:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 16:11:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 6: Conceptual Knowledge</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-6/cp-post-lecture-6/</link>
+      <pubDate>Tue, 05 Nov 2024 16:11:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-6/cp-post-lecture-6/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture on conceptual knowledge covered key aspects of how humans categorize and process information about objects and ideas. Concepts serve as mental representations for individual objects or abstract ideas, while categories group these objects based on shared features. The definitional approach to categorization relies on strict criteria, but the concept of family resemblance, proposed by Wittgenstein, suggests that category members can vary yet still share core similarities. Two major categorization approaches were discussed: the prototype approach, which uses an averaged representation of a category, and the exemplar approach, which considers multiple specific examples. While prototypes streamline category recognition, exemplars maintain detailed information, aiding in handling diverse categories.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 5: Memory and Cognition</title>
       <link>http://localhost:1313/posts/introduction-to-psychology/lecture-5/itp-post-lecture-5/</link>
