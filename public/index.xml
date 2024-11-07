@@ -6,8 +6,15 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 16:11:41 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 15:38:49 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 6: Decision Errors, Effect Size, and Statistical Power</title>
+      <link>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</link>
+      <pubDate>Thu, 07 Nov 2024 15:38:49 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Decision errors, effect size, and statistical power are key concepts in hypothesis testing. Decision errors include Type I errors, where the null hypothesis is wrongly rejected (false positive), and Type II errors, where it is wrongly retained (false negative). The probability of a Type I error aligns with the significance level (α), while the probability of a Type II error is denoted by beta (β). Statistical power, calculated as , is the likelihood of correctly rejecting the null hypothesis when the research hypothesis is true.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 6: Conceptual Knowledge</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-6/cp-post-lecture-6/</link>
