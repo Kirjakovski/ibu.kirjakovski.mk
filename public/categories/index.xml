@@ -6,19 +6,26 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 16:11:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 21:51:57 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/categories/statistics/</link>
+      <pubDate>Sat, 30 Nov 2024 21:51:57 +0200</pubDate>
+      <guid>http://localhost:1313/categories/statistics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cognitive Process</title>
       <link>http://localhost:1313/categories/cognitive-process/</link>
-      <pubDate>Tue, 05 Nov 2024 16:11:41 +0200</pubDate>
+      <pubDate>Sat, 30 Nov 2024 21:34:18 +0200</pubDate>
       <guid>http://localhost:1313/categories/cognitive-process/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction to Psychology</title>
       <link>http://localhost:1313/categories/introduction-to-psychology/</link>
-      <pubDate>Mon, 04 Nov 2024 21:36:09 +0200</pubDate>
+      <pubDate>Sat, 30 Nov 2024 21:14:49 +0200</pubDate>
       <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
       <description></description>
     </item>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/categories/human-and-artificial-intelligence/</link>
       <pubDate>Sat, 02 Nov 2024 14:27:34 +0200</pubDate>
       <guid>http://localhost:1313/categories/human-and-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Statistics</title>
-      <link>http://localhost:1313/categories/statistics/</link>
-      <pubDate>Sat, 02 Nov 2024 13:54:44 +0200</pubDate>
-      <guid>http://localhost:1313/categories/statistics/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,29 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Nov 2024 13:54:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 22:13:31 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 8: Introduction to Analysis of Variance (ANOVA)</title>
+      <link>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</link>
+      <pubDate>Sat, 30 Nov 2024 22:13:31 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduced the fundamental concepts of Analysis of Variance (ANOVA), a statistical method used to evaluate differences between the means of three or more independent groups. ANOVA operates under the null hypothesis that all groups share the same mean, and tests whether observed differences exceed what would be expected by chance. This is achieved by comparing two variance estimates: within-group variance (variation among scores within each group) and between-group variance (variation among group means).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 7: Introduction to t Tests</title>
+      <link>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</link>
+      <pubDate>Sat, 30 Nov 2024 21:51:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered the use of the t-test in hypothesis testing, focusing on its application when the population variance is unknown. The t-test compares sample means to a population mean or between groups. The session highlighted three types of t-tests: single sample, dependent means, and independent means.&lt;/p&gt;&#xA;&lt;p&gt;A t-test for a single sample compares a sample mean to a known population mean using an estimated population variance. A dependent means t-test examines differences within the same group by comparing scores across conditions or time points, using difference scores and assuming a mean difference of zero under the null hypothesis. Lastly, the independent means t-test compares means from two separate groups, relying on pooled variance estimates and assuming equal population variances.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 6: Decision Errors, Effect Size, and Statistical Power</title>
+      <link>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</link>
+      <pubDate>Thu, 07 Nov 2024 15:38:49 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Decision errors, effect size, and statistical power are key concepts in hypothesis testing. Decision errors include Type I errors, where the null hypothesis is wrongly rejected (false positive), and Type II errors, where it is wrongly retained (false negative). The probability of a Type I error aligns with the significance level (α), while the probability of a Type II error is denoted by beta (β). Statistical power, calculated as , is the likelihood of correctly rejecting the null hypothesis when the research hypothesis is true.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 5: Hypothesis Tests with Means of Samples</title>
       <link>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</link>

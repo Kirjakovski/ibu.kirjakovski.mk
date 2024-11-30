@@ -6,8 +6,22 @@
     <description>Recent content in Human and Artificial Intelligence on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Nov 2024 14:27:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 22:30:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/human-and-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 7: Introduction to Artificial Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-7/haai-post-lecture-7/</link>
+      <pubDate>Sat, 30 Nov 2024 22:30:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-7/haai-post-lecture-7/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduced Artificial Intelligence (AI) as the development of machines capable of performing tasks traditionally associated with human and animal intelligence, such as reasoning, perception, planning, and motor control. AI applications span diverse fields, from daily life (smart homes, autonomous cars) to specialized domains like finance, healthcare, robotics, and creative arts.&lt;/p&gt;&#xA;&lt;p&gt;It outlined key types of AI, including symbolic AI, artificial neural networks, evolutionary programming, cellular automata, and dynamical systems. Symbolic AI focuses on logic-based problem solving, while neural networks mimic brain functions for pattern recognition. Evolutionary programming imitates biological evolution, cellular automata explore simple rule-based models, and dynamical systems study time-dependent changes. The historical context highlighted Ada Lovelace&amp;rsquo;s foundational ideas, Alan Turing’s universal machine and Turing Test, and McCulloch-Pitts’ neuron-based computation models. Early milestones showcased AI’s ability to solve logical problems, learn from data, and mimic neural patterns, with cybernetics emphasizing feedback loops and adaptive systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 6: Biological and Genetic Factors in Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-6/haai-post-lecture-6/</link>
+      <pubDate>Sat, 30 Nov 2024 22:20:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-6/haai-post-lecture-6/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture explored the biological and genetic factors influencing intelligence, focusing on the brain&amp;rsquo;s role in cognitive abilities. Larger brain sizes, both across species and within humans, correlate with higher intelligence. Modern neuroimaging techniques, such as MRI, have established robust connections between brain size and IQ, emphasizing the significance of gray and white matter in problem-solving and information processing.&lt;/p&gt;&#xA;&lt;p&gt;Intelligence is not localized to a single brain region but arises from distributed functions across areas like the frontal, parietal, temporal, and occipital lobes. The Parieto-Frontal Integration Theory (P-FIT) identifies key processes, such as sensory integration, abstraction, and response evaluation, involving specific regions like the dorsolateral prefrontal cortex and anterior cingulate gyrus. Efficient connectivity among these areas enhances cognitive performance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 5: Development of Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-5/haai-post-lecture-5/</link>
