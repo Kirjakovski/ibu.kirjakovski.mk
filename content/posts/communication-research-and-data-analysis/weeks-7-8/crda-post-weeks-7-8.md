@@ -10,6 +10,6 @@ draft: false
 
 Weeks 7 and 8 involve studying the concept of qualitative methods of research, including case studies. The following online materials are related to the content:
 
-**Week 5 and 6**
+**Week 7 and 8**
 
 * {{< a_blank title="Qualitative Methods and Case Study" url="https://courses.lumenlearning.com/suny-introductiontocommunication/chapter/qualitative-methods/" >}}
