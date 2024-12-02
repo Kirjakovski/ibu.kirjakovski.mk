@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-11-30T21:51:57+02:00</lastmod>
+    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</loc>
-    <lastmod>2024-11-30T21:51:57+02:00</lastmod>
+    <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
+    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-30T21:51:57+02:00</lastmod>
+    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-30T21:51:57+02:00</lastmod>
+    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-7-8/crda-post-weeks-7-8/</loc>
+    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/human-and-artificial-intelligence/</loc>
+    <lastmod>2024-11-30T22:30:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-7/haai-post-lecture-7/</loc>
+    <lastmod>2024-11-30T22:30:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-6/haai-post-lecture-6/</loc>
+    <lastmod>2024-11-30T22:20:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</loc>
+    <lastmod>2024-11-30T22:13:31+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/statistics/</loc>
+    <lastmod>2024-11-30T22:13:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</loc>
     <lastmod>2024-11-30T21:51:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cognitive-process/</loc>
@@ -44,14 +62,8 @@
     <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-5/itp-post-lecture-5/</loc>
     <lastmod>2024-11-04T21:36:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
-    <lastmod>2024-11-02T14:47:48+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-5-6/crda-post-weeks-5-6/</loc>
     <lastmod>2024-11-02T14:47:48+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/human-and-artificial-intelligence/</loc>
-    <lastmod>2024-11-02T14:27:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-5/haai-post-lecture-5/</loc>
     <lastmod>2024-11-02T14:27:34+02:00</lastmod>
