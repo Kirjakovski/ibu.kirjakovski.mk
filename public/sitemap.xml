@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-02T21:21:13+02:00</lastmod>
+    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
-    <lastmod>2024-12-02T21:21:13+02:00</lastmod>
+    <loc>http://localhost:1313/categories/cognitive-process/</loc>
+    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-9/cp-post-lecture-9/</loc>
+    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-02T21:21:13+02:00</lastmod>
+    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
+    <lastmod>2024-12-10T17:52:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-8/itp-post-lecture-8/</loc>
+    <lastmod>2024-12-10T17:52:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
     <lastmod>2024-12-02T21:21:13+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-9-10/crda-post-weeks-9-10/</loc>
@@ -38,17 +50,11 @@
     <loc>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</loc>
     <lastmod>2024-11-30T21:51:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cognitive-process/</loc>
-    <lastmod>2024-11-30T21:34:18+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-8/cp-post-lecture-8/</loc>
     <lastmod>2024-11-30T21:34:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-7/cp-post-lecture-7/</loc>
     <lastmod>2024-11-30T21:26:59+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
-    <lastmod>2024-11-30T21:14:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-7/itp-post-lecture-7/</loc>
     <lastmod>2024-11-30T21:14:49+02:00</lastmod>

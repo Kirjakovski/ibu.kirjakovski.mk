@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 21:21:13 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 19:02:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Process</title>
+      <link>http://localhost:1313/categories/cognitive-process/</link>
+      <pubDate>Tue, 10 Dec 2024 19:02:12 +0200</pubDate>
+      <guid>http://localhost:1313/categories/cognitive-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction to Psychology</title>
+      <link>http://localhost:1313/categories/introduction-to-psychology/</link>
+      <pubDate>Tue, 10 Dec 2024 17:52:17 +0200</pubDate>
+      <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Communication Research and Data Analysis</title>
       <link>http://localhost:1313/categories/communication-research-and-data-analysis/</link>
@@ -27,20 +41,6 @@
       <link>http://localhost:1313/categories/statistics/</link>
       <pubDate>Sat, 30 Nov 2024 22:13:31 +0200</pubDate>
       <guid>http://localhost:1313/categories/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cognitive Process</title>
-      <link>http://localhost:1313/categories/cognitive-process/</link>
-      <pubDate>Sat, 30 Nov 2024 21:34:18 +0200</pubDate>
-      <guid>http://localhost:1313/categories/cognitive-process/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Introduction to Psychology</title>
-      <link>http://localhost:1313/categories/introduction-to-psychology/</link>
-      <pubDate>Sat, 30 Nov 2024 21:14:49 +0200</pubDate>
-      <guid>http://localhost:1313/categories/introduction-to-psychology/</guid>
       <description></description>
     </item>
     <item>
