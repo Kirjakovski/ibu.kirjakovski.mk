@@ -6,8 +6,15 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 22:13:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 22:11:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 9: Correlation and Regression</title>
+      <link>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</link>
+      <pubDate>Tue, 10 Dec 2024 22:11:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship&amp;rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to +1, indicating the strength and direction of the correlation.&lt;/p&gt;&#xA;&lt;p&gt;Key concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation&amp;rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman&amp;rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 8: Introduction to Analysis of Variance (ANOVA)</title>
       <link>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</link>

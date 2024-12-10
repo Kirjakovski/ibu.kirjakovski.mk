@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.139.4">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/" />
+  <link rel="canonical" href="http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 9: Correlation and Regression",
+      "headline" : "LECTURE 9: Correlation and Regression",
+      "description" : "\u003ch4 id=\u0022lecture-summary\u0022\u003eLecture summary:\u003c\/h4\u003e\n\u003cp\u003eThe lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship\u0026rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to \u002b1, indicating the strength and direction of the correlation.\u003c\/p\u003e\n\u003cp\u003eKey concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation\u0026rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman\u0026rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2024",
+      "datePublished": "2024-12-10 22:11:36 \u002b0200 \u002b0200",
+      "dateModified" : "2024-12-10 22:11:36 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/statistics\/lecture-9\/stat-post-lecture-9\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 9: Correlation and Regression - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 9: Correlation and Regression - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Lecture summary:
+The lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship&rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to &#43;1, indicating the strength and direction of the correlation.
+Key concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation&rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman&rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers." />
+  <meta name="description" content="Lecture summary:
+The lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship&rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to &#43;1, indicating the strength and direction of the correlation.
+Key concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation&rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman&rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 9: Correlation and Regression</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2024-12-10 22:11:36 &#43;0200">
+                Posted: 10 Dec 2024
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+              <time class="post-date">
+               Deadline: 22 December 2024
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/statistics/">
+                  Statistics
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="lecture-summary">Lecture summary:</h4>
+<p>The lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship&rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to +1, indicating the strength and direction of the correlation.</p>
+<p>Key concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation&rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman&rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers.</p>
+<p>Regression analysis was presented as a method for making predictions based on one or more variables. The linear prediction rule was discussed, detailing how to derive the regression line, which visually represents predicted values. The least squares criterion was emphasized as a means to minimize prediction errors. Multiple regression was introduced, allowing predictions based on multiple predictor variables, with the multiple correlation coefficient reflecting the overall relationship between the criterion and predictors. The lecture concluded with practical applications of these statistical methods, encouraging the use of software tools for analysis and interpretation in research contexts.</p>
+<h4 id="homework-assignment">Homework assignment:</h4>
+<p>You can access and submit your assignment at the following <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9URDQzNUdQRVNLQllYM1BMOExLTDkyUTA3QS4u" target="_blank">LINK</a>. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.</p>
+<u class="text-underline">IMPORTANT: For the Statistics course, you can submit your homework assignment only via your university-issued @ibu.edu.mk email address.</u>
+<h4 id="reading-materials">Reading materials:</h4>
+<h6 id="mandatory">Mandatory:</h6>
+<p>Aron, A., Coups, E. J., &amp; Aron, E. N. (2013). <em>Statistics for psychology</em> (6th ed.). Pearson. <a href="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&amp;dl=0" target="_blank">(.pdf)</a></p>
+<ul>
+<li>Chapter 10: Correlation</li>
+<li>Chapter 11: Prediction</li>
+</ul>
+<h6 id="optional">Optional:</h6>
+<p>Howitt, D., &amp; Cramer, D. (2014). <em>Introduction to statistics in psychology: With SPSS</em> (6th Edition). Pearson. <a href="https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&amp;dl=0" target="_blank">(.pdf)</a></p>
+<ul>
+<li>Chapter 8: Correlation Coefficients: Pearson Correlation and Spearman’s Rho</li>
+<li>Chapter 9: Regression: Prediction with Precision</li>
+</ul>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Home</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>

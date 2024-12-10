@@ -6,8 +6,22 @@
     <description>Recent content in Human and Artificial Intelligence on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 22:30:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 23:31:27 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/human-and-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 9: Human vs. Artificial Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</link>
+      <pubDate>Tue, 10 Dec 2024 23:31:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on the distinctions between human intelligence (HI) and artificial intelligence (AI). Human intelligence is characterized by cognitive processes shaped by biological evolution, encompassing emotional intelligence, empathy, and social interaction. In contrast, AI relies on algorithms and data processing, lacking emotions and inherent empathy. Key differences highlighted include learning processes, creativity, and decision-making. Humans excel in one-shot learning and can generalize from few examples, while AI requires extensive datasets for effective learning. Creativity is an innate human trait, whereas AI generates outputs based on existing patterns without true innovation. Decision-making in humans is influenced by emotions and ethics, while AI operates on objective data interpretation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: Functional Aspects of AI</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-8/haai-post-lecture-8/</link>
+      <pubDate>Tue, 10 Dec 2024 23:09:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-8/haai-post-lecture-8/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on the functional aspects of artificial intelligence (AI) and its comparison with human intelligence. Key topics included the core functionalities of AI, such as learning, reasoning, problem-solving, and perception. AI systems learn from data, improving their performance over time through pattern recognition and feedback. They utilize logical rules and algorithms for decision-making, essential in applications like writing assistants and games. Problem-solving capabilities allow AI to explore solutions similarly to humans, while perception enables AI to process sensory information, crucial for technologies like self-driving cars.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 7: Introduction to Artificial Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-7/haai-post-lecture-7/</link>
