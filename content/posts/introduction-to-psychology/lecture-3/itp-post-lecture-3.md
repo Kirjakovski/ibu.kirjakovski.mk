@@ -18,6 +18,6 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 #### Reading materials:
 
-Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/34fl7ifbtzzr499phvjmp/psychology-2e.pdf?rlkey=4k4id9eahrzyurg4uh2xvf4rl&dl=0" >}}
+Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EQ4Y09acZ3xOl2HptTNPPNQBz8t9yBWWaS3RAW0gKPIRSQ?e=POTuG8" >}}
 
 * Chapter 5: Sensation and Perception

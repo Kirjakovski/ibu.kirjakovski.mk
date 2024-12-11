@@ -22,12 +22,12 @@ Due to the midterms, no homework assignments will be given. Use the time product
 
 ###### Mandatory: 
 
-Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0">}}
+Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0BJXGBAPEKL8k-AoSJ_B_0qw?e=rKYxaV">}}
 
 * Chapter 6: Making Sense of Statistical Significance – Decision Errors, Effect Size, and Statistical Power
 
 ###### Optional:
 
-Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/dvzq58xf7gr3lymcsvosh/introduction-to-statistics-in-psychology-with-spss.pdf?rlkey=8ftmcwuj31rz7zxbi211s950u&dl=0" >}}
+Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBkVRlx7CBdAc8rrkygoK4IQ?e=UvcWLM" >}}
 
 * Chapter 11: Statistical significance for  the correlation coefficient – A practical introduction to statistical inference

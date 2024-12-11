@@ -26,7 +26,7 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory:
 
-Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/91ggno556eeaqaxemc6zi/statistics-for-psychology.pdf?rlkey=1a5z8tojccqtwsfpo414vjiml&dl=0" >}}
+Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0BJXGBAPEKL8k-AoSJ_B_0qw?e=rKYxaV" >}}
 
 * Chapter 1: Displaying the Order in a Group of Numbers Using Tables and Graphs
 

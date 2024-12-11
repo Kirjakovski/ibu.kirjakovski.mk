@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2024 22:11:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 23:37:39 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WEEKS 11 and 12: Reading Materials</title>
+      <link>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-11-12/crda-post-weeks-11-12/</link>
+      <pubDate>Tue, 10 Dec 2024 23:37:39 +0200</pubDate>
+      <guid>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-11-12/crda-post-weeks-11-12/</guid>
+      <description>&lt;h4 id=&#34;reading-materials&#34;&gt;Reading materials:&lt;/h4&gt;&#xA;&lt;p&gt;Weeks 11 and 12 involve content analysis and communicating research data. The following materials are related to the content:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Week 11 and 12&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hansen, A., &amp;amp; Machin, D. (2019). &lt;em&gt;Media and communication research methods&lt;/em&gt; (2nd ed.). Red Globe Press. &lt;a href=&#34;http://localhost:1313/posts/communication-research-and-data-analysis/materials/crda-mandatory-textbook.pdf&#34; target=&#34;_blank&#34;&gt;(.pdf)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chapter 5: Content analysis&lt;/li&gt;&#xA;&lt;li&gt;Chapter 11: Managing and analysing communication research data&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Human vs. Artificial Intelligence</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</link>
+      <pubDate>Tue, 10 Dec 2024 23:31:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on the distinctions between human intelligence (HI) and artificial intelligence (AI). Human intelligence is characterized by cognitive processes shaped by biological evolution, encompassing emotional intelligence, empathy, and social interaction. In contrast, AI relies on algorithms and data processing, lacking emotions and inherent empathy. Key differences highlighted include learning processes, creativity, and decision-making. Humans excel in one-shot learning and can generalize from few examples, while AI requires extensive datasets for effective learning. Creativity is an innate human trait, whereas AI generates outputs based on existing patterns without true innovation. Decision-making in humans is influenced by emotions and ethics, while AI operates on objective data interpretation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: Functional Aspects of AI</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-8/haai-post-lecture-8/</link>
+      <pubDate>Tue, 10 Dec 2024 23:09:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-8/haai-post-lecture-8/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on the functional aspects of artificial intelligence (AI) and its comparison with human intelligence. Key topics included the core functionalities of AI, such as learning, reasoning, problem-solving, and perception. AI systems learn from data, improving their performance over time through pattern recognition and feedback. They utilize logical rules and algorithms for decision-making, essential in applications like writing assistants and games. Problem-solving capabilities allow AI to explore solutions similarly to humans, while perception enables AI to process sensory information, crucial for technologies like self-driving cars.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 9: Correlation and Regression</title>
       <link>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</link>

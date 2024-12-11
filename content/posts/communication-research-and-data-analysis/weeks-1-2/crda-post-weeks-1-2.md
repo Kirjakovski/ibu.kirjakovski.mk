@@ -12,13 +12,13 @@ Weeks 1 and 2 involve studying the research process itself and the concepts of m
 
 **Week 1**
 
-Hansen, A., & Machin, D. (2019). *Media and communication research methods* (2nd ed.). Red Globe Press. {{< a_blank title="(.pdf)" url="/posts/communication-research-and-data-analysis/materials/crda-mandatory-textbook.pdf" >}}
+Hansen, A., & Machin, D. (2019). *Media and communication research methods* (2nd ed.). Red Globe Press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EUaXXorb3ZVCg_4rXxnmoHQBI-anmns1zhumGCDNu41MQQ?e=T1oONP" >}}
 
 * Chapter 2: The Research Process
 
 **Week 2**
 
 Bandalos, D. L. (2018). *Measurement theory and applications for the social sciences*. The Guilford Press.
- {{< a_blank title="(.pdf)" url="/posts/communication-research-and-data-analysis/materials/week-2-reading.pdf" >}}
+ {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ee7Hm2N_CzlHml-6H_aT4CQBCTPEGSxa_CwkIF2-VvWljA?e=2dj73F" >}}
  
  * Chapter 1: Introduction

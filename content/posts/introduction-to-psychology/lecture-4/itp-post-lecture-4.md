@@ -20,12 +20,12 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory:
 
-Lally, A. M., & Valentine-French, S. (2018). *Introduction to psychology.* [CC BY-NC-SA 3.0]. College of Lake County. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/a4s1e9b7oti9g6055bwj2/introduction-to-psychology.pdf?rlkey=uc899032x3rx9xjr832pgx5r8&dl=0" >}}
+Lally, A. M., & Valentine-French, S. (2018). *Introduction to psychology.* [CC BY-NC-SA 3.0]. College of Lake County. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYwLlGsFaqNFvP5BU41M5QwB0PbbqUOOFeqoeWmACTYAgA?e=e7kssD" >}}
 
 * Chapter 4: Learning
 
 ###### Optional:
 
-Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/34fl7ifbtzzr499phvjmp/psychology-2e.pdf?rlkey=4k4id9eahrzyurg4uh2xvf4rl&dl=0" >}}
+Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EQ4Y09acZ3xOl2HptTNPPNQBz8t9yBWWaS3RAW0gKPIRSQ?e=POTuG8" >}}
 
 * Chapter 6: Learning

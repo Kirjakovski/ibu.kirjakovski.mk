@@ -22,13 +22,13 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory:
 
-<!-- Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/9j92zbdog0zi7diqe3yun/the-science-of-human-intelligence.pdf?rlkey=c2p9uy692v63p7rdindq0i297&dl=0" >}}
+<!-- Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcEXuBAPDuZGgPqaK9ehxEABHvAfva5S9L5IwSvWRpR5nA?e=K5RopS" >}}
 
 * Chapter 5: Intelligence and the Brain
 * Chapter 6: The Genetic Basis of Intelligence-->
 
 <!-- Optional: -->
 
-Boden, M. A. (2016). *AI: Its nature and future.* Oxford University Press. {{< a_blank title="(.pdf)" url="https://www.dropbox.com/scl/fi/uutvait9fzlmnciwq4cq1/ai-its-nature-and-future.pdf?rlkey=87d3xhgas707o7yhj1szhffxh&dl=0" >}}
+Boden, M. A. (2016). *AI: Its nature and future.* Oxford University Press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EWxTY72ZMS5ErkFPlQ_CMGsB6Ifx3WgcFJuPdPPXGtF6cg?e=wlBo7W" >}}
 
 * Chapter 1: What is Artificial Intelligence?
