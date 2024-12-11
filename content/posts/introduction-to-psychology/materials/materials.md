@@ -14,8 +14,8 @@ This course provides a broad overview of key concepts in psychology, exploring t
 
 Main textbook:
 
-* Lally, A. M., & Valentine-French, S. (2018). *Introduction to psychology.* [CC BY-NC-SA 3.0]. College of Lake County. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYwLlGsFaqNFvP5BU41M5QwB0PbbqUOOFeqoeWmACTYAgA?e=e7kssD" >}}
+* Lally, A. M., & Valentine-French, S. (2018). *Introduction to psychology.* [CC BY-NC-SA 3.0]. College of Lake County. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYwLlGsFaqNFvP5BU41M5QwB0PbbqUOOFeqoeWmACTYAgA?e=kyqJ8w" >}}
 
 Supplementary textbook:
 
-* Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EQ4Y09acZ3xOl2HptTNPPNQBz8t9yBWWaS3RAW0gKPIRSQ?e=POTuG8" >}}
+* Spielman, R. M., Jenkins, W. J., & Lovett, M. (2020). *Psychology 2e* (2nd ed.). [CC BY 4.0]. OpenStax, Rice University. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EQ4Y09acZ3xOl2HptTNPPNQBz8t9yBWWaS3RAW0gKPIRSQ?e=WgOKsI" >}}

@@ -13,7 +13,7 @@ Weeks 3 and 4 involve studying the concept of working with data and the quantita
 **Week 3 and 4**
 
 Hayes, A. F. (Ed.). (2005). *Statistical methods for communication science*. Lawrence Erlbaum Associates.
- {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EU9MH8xTAcdOt5ggJRNMUjsBBh14-LTl-YuTrzt8sFBwNQ?e=k1VWPL" >}}
+ {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EU9MH8xTAcdOt5ggJRNMUjsBBh14-LTl-YuTrzt8sFBwNQ?e=UdLfkl" >}}
 
 * Chapter 1: Statistics and Communication Science
 * Chapter 2: Fundamentals of Measurement

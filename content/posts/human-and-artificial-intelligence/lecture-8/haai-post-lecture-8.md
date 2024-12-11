@@ -22,15 +22,15 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory:
 
-{{< a_blank title="Funcional Aspects of AI – Keynote" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ec8XsAIKEUVJr39EQrP8oyoBMf0NWyRLPO2saRjOkqZPSg?e=zMpEC3" >}}
+{{< a_blank title="Funcional Aspects of AI – Keynote" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ec8XsAIKEUVJr39EQrP8oyoBMf0NWyRLPO2saRjOkqZPSg?e=INrQPm" >}}
 
-<!-- Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcEXuBAPDuZGgPqaK9ehxEABHvAfva5S9L5IwSvWRpR5nA?e=K5RopS" >}}
+<!-- Haier, R. J., Colom Marañón, R., & Hunt, E. B. (2024). *The science of human intelligence* (2nd ed.). Cambridge University press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcEXuBAPDuZGgPqaK9ehxEABHvAfva5S9L5IwSvWRpR5nA?e=yHHw3d" >}}
 
 * Chapter:-->
 <!-- Optional: -->
 
 ###### Optional:
 
-Boden, M. A. (2016). *AI: Its nature and future.* Oxford University Press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EWxTY72ZMS5ErkFPlQ_CMGsB6Ifx3WgcFJuPdPPXGtF6cg?e=wlBo7W" >}}
+Boden, M. A. (2016). *AI: Its nature and future.* Oxford University Press. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EWxTY72ZMS5ErkFPlQ_CMGsB6Ifx3WgcFJuPdPPXGtF6cg?e=FRFfdT" >}}
 
 * Chapter 4: Artificial Neural Networks

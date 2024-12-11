@@ -22,12 +22,12 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory:
 
-Goldstein, E. B. (2019). *Cognitive psychology: Connecting mind, research, and everyday experience* (5th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYG80CtYuvpMijLNa6OTey4BqCPYN67gIYNZDeXFZmLCxw?e=LW4fII" >}}
+Goldstein, E. B. (2019). *Cognitive psychology: Connecting mind, research, and everyday experience* (5th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYG80CtYuvpMijLNa6OTey4BqCPYN67gIYNZDeXFZmLCxw?e=2tyrP5" >}}
 
 * Chapter 1: Introduction to Cognitive Psychology
 
 ###### Optional:
 
-Sternberg, R. J., & Sternberg, K. (2017). *Cognitive psychology* (7th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ERiMyzJ-LotFqEk0Z-J7C8YBtWEfSvELdtfNbQ8B1T6RsA?e=fvVMkY" >}}
+Sternberg, R. J., & Sternberg, K. (2017). *Cognitive psychology* (7th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ERiMyzJ-LotFqEk0Z-J7C8YBtWEfSvELdtfNbQ8B1T6RsA?e=JBOlVH" >}}
 
 * Chapter 1: Introduction to Cognitive Psychology

@@ -24,12 +24,12 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 ###### Mandatory: 
 
-Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0BJXGBAPEKL8k-AoSJ_B_0qw?e=rKYxaV">}}
+Aron, A., Coups, E. J., & Aron, E. N. (2013). *Statistics for psychology* (6th ed.). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0BJXGBAPEKL8k-AoSJ_B_0qw?e=wdi6Us">}}
 
 * Chapter 5: Hypothesis Tests with Means of Samples
 
 ###### Optional:
 
-Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBkVRlx7CBdAc8rrkygoK4IQ?e=UvcWLM" >}}
+Howitt, D., & Cramer, D. (2014). *Introduction to statistics in psychology: With SPSS* (6th Edition). Pearson. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBkVRlx7CBdAc8rrkygoK4IQ?e=asv9DR" >}}
 
 * Chapter 18: One-Tailed Versus Twotailed Significance Testing
