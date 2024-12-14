@@ -6,8 +6,22 @@
     <description>Recent content in Human and Artificial Intelligence on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2024 23:31:27 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 21:56:02 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/human-and-artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 10: Machine Learning and Large Language Models</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-10/haai-post-lecture-10/</link>
+      <pubDate>Sat, 14 Dec 2024 21:56:02 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-10/haai-post-lecture-10/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Machine learning (ML), a vital branch of artificial intelligence (AI), empowers systems to learn from data, identify patterns, and make autonomous decisions. It drives innovations in sectors like healthcare, customer service, and psychological assessment through automation and intelligent decision-making. Key types of ML include supervised learning, which uses labeled data, unsupervised learning, which uncovers hidden patterns in unlabeled data, and reinforcement learning, which learns through trial and error. In psychology, these approaches enhance diagnostics by predicting mental health outcomes based on various data sources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Class Debate</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/activity/debate/</link>
+      <pubDate>Wed, 11 Dec 2024 15:43:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/activity/debate/</guid>
+      <description>&lt;p&gt;Tomorrow during the Human and Artificial Intelligence class you will have opportunity to debate the thought-provoking question in today’s tech-driven world:&lt;/p&gt;&#xA;&lt;h5 id=&#34;should-ai-be-granted-rights-similar-to-humans-if-it-achieves-consciousness&#34;&gt;SHOULD AI BE GRANTED RIGHTS SIMILAR TO HUMANS IF IT ACHIEVES CONSCIOUSNESS?&lt;/h5&gt;&#xA;&lt;p&gt;As we continue to witness rapid advancements in artificial intelligence, this topic has become more relevant than ever. If a machine can think, feel, or experience a sense of self, does it deserve legal protection and moral consideration? How might this impact society’s understanding of personhood, and what responsibilities would we have toward such beings?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 9: Human vs. Artificial Intelligence</title>
       <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</link>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.139.4">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/statistics/lecture-10/stat-post-lecture-10/" />
+  <link rel="canonical" href="http://localhost:1313/posts/statistics/lecture-10/stat-post-lecture-10/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 10: Chi-square Tests",
+      "headline" : "LECTURE 10: Chi-square Tests",
+      "description" : "\u003ch4 id=\u0022lecture-summary\u0022\u003eLecture summary:\u003c\/h4\u003e\n\u003cp\u003eThe lecture on Chi-Square Tests covered statistical methods for analyzing nominal (categorical) data. Two primary tests were discussed:\u003c\/p\u003e\n\u003cp\u003eChi-Square Test for Goodness of Fit: This test evaluates whether the observed frequency distribution of a single nominal variable matches an expected distribution. An example involved the gender representation on cereal boxes, where the observed and expected distributions were compared to determine if discrepancies were due to chance.\u003c\/p\u003e\n\u003cp\u003eChi-Square Test for Independence: This test assesses whether two nominal variables are independent. A case study analyzed whether the age distribution of male and female characters on cereal boxes was related, using a contingency table and calculated expected frequencies.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2024",
+      "datePublished": "2024-12-14 21:31:53 \u002b0200 \u002b0200",
+      "dateModified" : "2024-12-14 21:31:53 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/statistics\/lecture-10\/stat-post-lecture-10\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 10: Chi-square Tests - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 10: Chi-square Tests - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Lecture summary:
+The lecture on Chi-Square Tests covered statistical methods for analyzing nominal (categorical) data. Two primary tests were discussed:
+Chi-Square Test for Goodness of Fit: This test evaluates whether the observed frequency distribution of a single nominal variable matches an expected distribution. An example involved the gender representation on cereal boxes, where the observed and expected distributions were compared to determine if discrepancies were due to chance.
+Chi-Square Test for Independence: This test assesses whether two nominal variables are independent. A case study analyzed whether the age distribution of male and female characters on cereal boxes was related, using a contingency table and calculated expected frequencies." />
+  <meta name="description" content="Lecture summary:
+The lecture on Chi-Square Tests covered statistical methods for analyzing nominal (categorical) data. Two primary tests were discussed:
+Chi-Square Test for Goodness of Fit: This test evaluates whether the observed frequency distribution of a single nominal variable matches an expected distribution. An example involved the gender representation on cereal boxes, where the observed and expected distributions were compared to determine if discrepancies were due to chance.
+Chi-Square Test for Independence: This test assesses whether two nominal variables are independent. A case study analyzed whether the age distribution of male and female characters on cereal boxes was related, using a contingency table and calculated expected frequencies." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 10: Chi-square Tests</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2024-12-14 21:31:53 &#43;0200">
+                Posted: 14 Dec 2024
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+              <time class="post-date">
+               Deadline: 29 December 2024
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/statistics/">
+                  Statistics
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="lecture-summary">Lecture summary:</h4>
+<p>The lecture on Chi-Square Tests covered statistical methods for analyzing nominal (categorical) data. Two primary tests were discussed:</p>
+<p>Chi-Square Test for Goodness of Fit: This test evaluates whether the observed frequency distribution of a single nominal variable matches an expected distribution. An example involved the gender representation on cereal boxes, where the observed and expected distributions were compared to determine if discrepancies were due to chance.</p>
+<p>Chi-Square Test for Independence: This test assesses whether two nominal variables are independent. A case study analyzed whether the age distribution of male and female characters on cereal boxes was related, using a contingency table and calculated expected frequencies.</p>
+<p>Key terms explained included observed frequency, expected frequency, degrees of freedom, and the chi-square statistic. The assumptions for these tests were minimal, focusing on the independence of observations. Effect size measures, such as the phi coefficient and Cramer’s V, were introduced for interpreting the strength of relationships in chi-square analyses.</p>
+<h4 id="homework-assignment">Homework assignment:</h4>
+<p>You can access and submit your assignment at the following <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UNkQwUDFQWkdUN0RVM05IU0NSRENYR1JJQS4u" target="_blank">LINK</a>. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.</p>
+<u class="text-underline">IMPORTANT: For the Statistics course, you can submit your homework assignment only via your university-issued @ibu.edu.mk email address.</u>
+<h4 id="reading-materials">Reading materials:</h4>
+<h6 id="mandatory">Mandatory:</h6>
+<p>Aron, A., Coups, E. J., &amp; Aron, E. N. (2013). <em>Statistics for psychology</em> (6th ed.). Pearson. <a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0BJXGBAPEKL8k-AoSJ_B_0qw?e=wdi6Us" target="_blank">(.pdf)</a></p>
+<ul>
+<li>Chapter 13: Chi-square Tests</li>
+</ul>
+<h6 id="optional">Optional:</h6>
+<p>Howitt, D., &amp; Cramer, D. (2014). <em>Introduction to statistics in psychology: With SPSS</em> (6th Edition). Pearson. <a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBkVRlx7CBdAc8rrkygoK4IQ?e=asv9DR" target="_blank">(.pdf)</a></p>
+<ul>
+<li>Chapter 15: Chi-square – Differences between samples of  frequency data</li>
+</ul>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Home</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>
