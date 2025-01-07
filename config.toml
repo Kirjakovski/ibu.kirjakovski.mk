@@ -1,7 +1,7 @@
 baseURL = "https://ibu.kirjakovski.mk"
 languageCode = "en-us"
 title = "Prof. Kirjakovski IBU Blog"
-theme = "yinyang"
+theme = "hugo-theme-yinyang"
 DefaultContentLanguage = "en"
 googleAnalytics = "UA-177760906-1"
 # Enable for syntax highlighting
