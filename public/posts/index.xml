@@ -6,14 +6,42 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jan 2025 19:03:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 19:30:53 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 10: Psychological Disorders</title>
+      <link>http://localhost:1313/posts/introduction-to-psychology/lecture-10/itp-post-lecture-9/</link>
+      <pubDate>Fri, 27 Dec 2024 19:30:53 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-psychology/lecture-10/itp-post-lecture-9/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Psychological disorders encompass abnormal thoughts, emotions, and behaviors that cause distress or disrupt daily functioning. Diagnosed primarily through clinical observations and the DSM, these disorders lack definitive biological markers. Abnormality is assessed based on deviance from societal norms, dysfunction impairing life activities, distress, or risk of harm.&lt;/p&gt;&#xA;&lt;p&gt;The biopsychosocial model highlights the interplay of biological (genetics, brain function), psychological (negative thought patterns, stress), and social (socioeconomic factors, discrimination) contributors. Disorders are classified into categories such as anxiety (e.g., OCD, PTSD), mood (e.g., depression, bipolar disorder), personality (e.g., borderline, antisocial), and conditions like schizophrenia, characterized by psychosis. Developmental disorders like ADHD and autism emerge in childhood, influenced by genetic and environmental factors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 11: Machine Consciousness</title>
+      <link>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-11/haai-post-lecture-11/</link>
+      <pubDate>Fri, 27 Dec 2024 19:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-11/haai-post-lecture-11/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture on &amp;ldquo;Machine Consciousness&amp;rdquo; explored the nature of consciousness, its dimensions, and its relevance to both human cognition and artificial intelligence. Consciousness was defined as the state of awareness and the ability to experience thoughts and sensations, distinguished by phenomenal (subjective experiences) and access (reportable and processable information) consciousness. Key philosophical frameworks included Thomas Nagel&amp;rsquo;s emphasis on the subjectivity of experience and David Chalmers&amp;rsquo; distinction between the easy (cognitive functions) and hard (subjective experience) problems of consciousness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 12: Cognitive Disorders</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-12/cp-post-lecture-12/</link>
+      <pubDate>Fri, 27 Dec 2024 19:19:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-12/cp-post-lecture-12/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture explored a range of cognitive disorders, detailing their origins, characteristics, and implications. Synesthesia was presented as a unique condition where sensory input in one modality evokes experiences in another. It is typically unidirectional, with varying prevalence among individuals. Blindsight, resulting from primary visual cortex damage, allows patients to detect visual stimuli in impaired regions despite nominal vision loss.&lt;/p&gt;&#xA;&lt;p&gt;Unilateral spatial neglect, often caused by strokes, involves an inability to respond to stimuli from one side of space, influenced by spatial frameworks. Visual agnosias, including prosopagnosia, disrupt object and face recognition despite intact sensory function. Patients often compensate using non-visual cues, with specific brain areas like the fusiform face area implicated.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 11: Non-parametric Statistics</title>
       <link>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</link>
-      <pubDate>Sun, 12 Jan 2025 19:03:09 +0200</pubDate>
+      <pubDate>Fri, 27 Dec 2024 19:15:44 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</guid>
       <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Non-parametric tests are hypothesis-testing methods that do not require assumptions about the population parameters, making them robust alternatives to parametric tests, especially when data violate standard assumptions such as normal distribution and equal variances. Common challenges include ceiling or floor effects, skewness, and the presence of outliers.&lt;/p&gt;&#xA;&lt;p&gt;To address these issues, data transformations—such as square root, logarithmic, or inverse transformations—are employed to normalize distributions. For negatively skewed data, a reflection transformation precedes these adjustments. Alternatively, rank-order transformations convert scores to ranks, resulting in uniform distributions and facilitating rank-order tests. These tests compare group medians rather than means and are advantageous when scores are inherently ranks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Livespan Development</title>
+      <link>http://localhost:1313/posts/introduction-to-psychology/lecture-9/itp-post-lecture-9/</link>
+      <pubDate>Fri, 27 Dec 2024 19:12:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-psychology/lecture-9/itp-post-lecture-9/</guid>
+      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Lifespan development explores the changes in physiology, behavior, cognition, and emotions across human life. Development begins at conception, where genetic material combines to form a zygote, progressing through germinal, embryonic, and fetal stages. Key influences include teratogens, maternal health, and environmental factors, with timing and dosage of exposure significantly affecting outcomes.&lt;/p&gt;&#xA;&lt;p&gt;Physical development proceeds from infancy, marked by rapid growth and motor skill acquisition, through adolescence, where puberty triggers dramatic changes, to late adulthood, where physical decline becomes prominent. Cognitive development, shaped by experiences and neurological maturation, evolves from Piaget&amp;rsquo;s sensorimotor exploration in infancy to postformal reasoning in adulthood.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 11: Human Intelligence (NO CLASS)</title>
@@ -377,7 +405,7 @@
       <link>http://localhost:1313/posts/general-discussion/grading/</link>
       <pubDate>Mon, 02 Sep 2024 12:38:33 +0200</pubDate>
       <guid>http://localhost:1313/posts/general-discussion/grading/</guid>
-      <description>&lt;p&gt;Students at IBU can enter their exams the following ways:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Midterm/final model of exams&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Grade structure&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Midterm exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Final Exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Activity 20 CP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Midterm Exam&lt;/em&gt;: Student will be allowed to enter the midterm exam, if s/he has completed their debt obligations&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Final Exam&lt;/em&gt;: The student will be allowed to enter the final exam if they meet the minimum attendance&#xA;criteria, have no debt obligations and if they have gained a minimum of 10 CP in the midterm&#xA;exam&lt;/p&gt;</description>
+      <description>&lt;p&gt;Students at IBU can enter their exams the following ways:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Midterm/final model of exams&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Grade structure&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Midterm exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Final Exam 40 CP&lt;/li&gt;&#xA;&lt;li&gt;Activity 20 CP&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Midterm Exam&lt;/em&gt;: Student will be allowed to enter the midterm exam, if s/he has completed their debt obligations&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Final Exam&lt;/em&gt;: The student will be allowed to enter the final exam if they meet the minimum attendance&#xA;criteria, have no debt obligations and if they have gained a minimum of 10 CP in the midterm&#xA;exam&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to your professor&#39;s blog!</title>

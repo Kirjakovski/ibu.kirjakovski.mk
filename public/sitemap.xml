@@ -3,28 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-12T19:03:09+02:00</lastmod>
+    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</loc>
-    <lastmod>2025-01-12T19:03:09+02:00</lastmod>
+    <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
+    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-10/itp-post-lecture-9/</loc>
+    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-12T19:03:09+02:00</lastmod>
+    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-12T19:03:09+02:00</lastmod>
+    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/statistics/</loc>
-    <lastmod>2025-01-12T19:03:09+02:00</lastmod>
+    <loc>http://localhost:1313/categories/human-and-artificial-intelligence/</loc>
+    <lastmod>2024-12-27T19:25:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-11/haai-post-lecture-11/</loc>
+    <lastmod>2024-12-27T19:25:30+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cognitive-process/</loc>
-    <lastmod>2024-12-14T22:01:35+02:00</lastmod>
+    <lastmod>2024-12-27T19:19:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-12/cp-post-lecture-12/</loc>
+    <lastmod>2024-12-27T19:19:26+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</loc>
+    <lastmod>2024-12-27T19:15:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/statistics/</loc>
+    <lastmod>2024-12-27T19:15:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-9/itp-post-lecture-9/</loc>
+    <lastmod>2024-12-27T19:12:27+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-11/cp-post-lecture-11/</loc>
     <lastmod>2024-12-14T22:01:35+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/human-and-artificial-intelligence/</loc>
-    <lastmod>2024-12-14T21:56:02+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-10/haai-post-lecture-10/</loc>
     <lastmod>2024-12-14T21:56:02+02:00</lastmod>
@@ -55,9 +70,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-9/cp-post-lecture-9/</loc>
     <lastmod>2024-12-10T19:02:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
-    <lastmod>2024-12-10T17:52:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-8/itp-post-lecture-8/</loc>
     <lastmod>2024-12-10T17:52:17+02:00</lastmod>
