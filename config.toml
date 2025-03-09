@@ -16,6 +16,10 @@ pygmentsUseClasses = true
     contentDir = "content"
     languageName = "English"
     weight = 1
+    
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
   mainSections = ["posts"]

@@ -3,205 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+    <lastmod>2025-03-09T17:54:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/introduction-to-psychology/</loc>
-    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+    <loc>http://localhost:1313/categories/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/</loc>
+    <lastmod>2025-03-09T17:54:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-10/itp-post-lecture-9/</loc>
-    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-3/week-3-elpihss-post/</loc>
+    <lastmod>2025-03-09T17:54:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+    <lastmod>2025-03-09T17:54:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-27T19:30:53+02:00</lastmod>
+    <lastmod>2025-03-09T17:54:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/human-and-artificial-intelligence/</loc>
-    <lastmod>2024-12-27T19:25:30+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-3/week-3-sp-man-post/</loc>
+    <lastmod>2025-03-09T17:52:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-11/haai-post-lecture-11/</loc>
-    <lastmod>2024-12-27T19:25:30+02:00</lastmod>
+    <loc>http://localhost:1313/categories/social-psychology-/-man-prmc/</loc>
+    <lastmod>2025-03-09T17:52:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cognitive-process/</loc>
-    <lastmod>2024-12-27T19:19:26+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-3/week-3-sp-psy-post/</loc>
+    <lastmod>2025-03-09T17:34:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-12/cp-post-lecture-12/</loc>
-    <lastmod>2024-12-27T19:19:26+02:00</lastmod>
+    <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
+    <lastmod>2025-03-09T17:34:06+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</loc>
-    <lastmod>2024-12-27T19:15:44+02:00</lastmod>
+    <loc>http://localhost:1313/categories/computer-aided-education/</loc>
+    <lastmod>2025-03-09T17:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/statistics/</loc>
-    <lastmod>2024-12-27T19:15:44+02:00</lastmod>
+    <loc>http://localhost:1313/posts/computer-aided-education/week-3/week-3-cae-post/</loc>
+    <lastmod>2025-03-09T17:28:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-9/itp-post-lecture-9/</loc>
-    <lastmod>2024-12-27T19:12:27+02:00</lastmod>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-2/week-2-elpihss-post/</loc>
+    <lastmod>2025-03-09T17:16:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-11/cp-post-lecture-11/</loc>
-    <lastmod>2024-12-14T22:01:35+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-2/week-2-sp-man-post/</loc>
+    <lastmod>2025-03-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-10/haai-post-lecture-10/</loc>
-    <lastmod>2024-12-14T21:56:02+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-2/week-2-sp-psy-post/</loc>
+    <lastmod>2025-03-09T16:50:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-10/stat-post-lecture-10/</loc>
-    <lastmod>2024-12-14T21:31:53+02:00</lastmod>
+    <loc>http://localhost:1313/posts/computer-aided-education/week-2/week-2-cae-post/</loc>
+    <lastmod>2025-03-09T16:50:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-10/cp-post-lecture-10/</loc>
-    <lastmod>2024-12-14T21:13:34+02:00</lastmod>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-1/week-1-elpihss-post/</loc>
+    <lastmod>2025-03-09T16:49:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/activity/debate/</loc>
-    <lastmod>2024-12-11T15:43:46+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-1/week-1-sp-man-post/</loc>
+    <lastmod>2025-03-09T16:49:43+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/communication-research-and-data-analysis/</loc>
-    <lastmod>2024-12-10T23:37:39+02:00</lastmod>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-1/week-1-sp-psy-post/</loc>
+    <lastmod>2025-03-09T16:49:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-11-12/crda-post-weeks-11-12/</loc>
-    <lastmod>2024-12-10T23:37:39+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-9/haai-post-lecture-9/</loc>
-    <lastmod>2024-12-10T23:31:27+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-8/haai-post-lecture-8/</loc>
-    <lastmod>2024-12-10T23:09:08+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</loc>
-    <lastmod>2024-12-10T22:11:36+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-9/cp-post-lecture-9/</loc>
-    <lastmod>2024-12-10T19:02:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-8/itp-post-lecture-8/</loc>
-    <lastmod>2024-12-10T17:52:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-9-10/crda-post-weeks-9-10/</loc>
-    <lastmod>2024-12-02T21:21:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-7-8/crda-post-weeks-7-8/</loc>
-    <lastmod>2024-11-30T22:35:24+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-7/haai-post-lecture-7/</loc>
-    <lastmod>2024-11-30T22:30:46+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-6/haai-post-lecture-6/</loc>
-    <lastmod>2024-11-30T22:20:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</loc>
-    <lastmod>2024-11-30T22:13:31+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</loc>
-    <lastmod>2024-11-30T21:51:57+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-8/cp-post-lecture-8/</loc>
-    <lastmod>2024-11-30T21:34:18+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-7/cp-post-lecture-7/</loc>
-    <lastmod>2024-11-30T21:26:59+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-7/itp-post-lecture-7/</loc>
-    <lastmod>2024-11-30T21:14:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-6/itp-post-lecture-6/</loc>
-    <lastmod>2024-11-30T20:35:30+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</loc>
-    <lastmod>2024-11-07T15:38:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-6/cp-post-lecture-6/</loc>
-    <lastmod>2024-11-05T16:11:41+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-5/itp-post-lecture-5/</loc>
-    <lastmod>2024-11-04T21:36:09+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-5-6/crda-post-weeks-5-6/</loc>
-    <lastmod>2024-11-02T14:47:48+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-5/haai-post-lecture-5/</loc>
-    <lastmod>2024-11-02T14:27:34+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</loc>
-    <lastmod>2024-11-02T13:54:44+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-5/cp-post-lecture-5/</loc>
-    <lastmod>2024-11-02T13:40:03+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-4/itp-post-lecture-4/</loc>
-    <lastmod>2024-11-02T11:03:47+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-4/haai-post-lecture-4/</loc>
-    <lastmod>2024-10-26T13:17:05+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</loc>
-    <lastmod>2024-10-26T13:02:23+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-4/cp-post-lecture-4/</loc>
-    <lastmod>2024-10-26T12:37:44+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-3/itp-post-lecture-3/</loc>
-    <lastmod>2024-10-26T11:25:38+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-3-4/crda-post-weeks-3-4/</loc>
-    <lastmod>2024-10-23T17:57:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/communication-research-and-data-analysis/weeks-1-2/crda-post-weeks-1-2/</loc>
-    <lastmod>2024-10-23T17:40:11+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-3/haai-post-lecture-3/</loc>
-    <lastmod>2024-10-18T21:05:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-3/stat-post-lecture-3/</loc>
-    <lastmod>2024-10-18T20:32:42+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-3/cp-post-lecture-3/</loc>
-    <lastmod>2024-10-18T20:02:06+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-2/itp-post-lecture-2/</loc>
-    <lastmod>2024-10-18T19:46:02+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-2/haai-post-lecture-2/</loc>
-    <lastmod>2024-10-13T21:28:59+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-2/stat-post-lecture-2/</loc>
-    <lastmod>2024-10-13T20:13:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-2/cp-post-lecture-2/</loc>
-    <lastmod>2024-10-13T17:40:22+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/lecture-1/haai-post-lecture-1/</loc>
-    <lastmod>2024-10-09T14:41:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</loc>
-    <lastmod>2024-10-09T14:18:43+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/lecture-1/cp-post-lecture-1/</loc>
-    <lastmod>2024-10-09T13:48:30+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/lecture-1/itp-post-lecture-1/</loc>
-    <lastmod>2024-10-09T12:47:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/notices/homework-submission/</loc>
-    <lastmod>2024-10-08T16:19:40+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/human-and-artificial-intelligence/materials/materials/</loc>
-    <lastmod>2024-10-07T21:13:36+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/statistics/materials/materials/</loc>
-    <lastmod>2024-10-07T20:44:55+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/materials/materials/</loc>
-    <lastmod>2024-10-07T20:38:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction-to-psychology/materials/materials/</loc>
-    <lastmod>2024-10-07T16:49:54+02:00</lastmod>
+    <loc>http://localhost:1313/posts/computer-aided-education/week-1/week-1-cae-post/</loc>
+    <lastmod>2025-03-09T16:49:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/general-discussion/</loc>
-    <lastmod>2024-09-02T12:38:33+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/general-discussion/grading/</loc>
-    <lastmod>2024-09-02T12:38:33+02:00</lastmod>
+    <lastmod>2025-02-17T13:56:27+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/general-discussion/welcome/</loc>
-    <lastmod>2024-09-02T12:38:14+02:00</lastmod>
+    <lastmod>2025-02-17T13:56:27+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
