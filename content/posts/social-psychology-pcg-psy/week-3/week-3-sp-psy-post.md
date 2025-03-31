@@ -6,7 +6,7 @@ categories: ["Social Psychology / PCG, PCG (NP), PSY, PSY (NP)"]
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 The lecture explored the concept of self, focusing on self-concept, self-awareness, and self-perception. Self-concept is defined as the beliefs individuals hold about their personal attributes, with self-schema acting as a cognitive framework guiding perception and evaluation. The development of self-concept begins in early childhood, with human self-recognition emerging between 18-24 months. Cultural influences shape self-concept, with independent and interdependent views of self highlighting differences in self-definition based on personal attributes versus relationships.
 
@@ -18,19 +18,19 @@ Social comparison theory was discussed, emphasizing how individuals learn about 
 
 Self-control and impression management were addressed, highlighting strategies for maintaining self-control and managing how others perceive us. Finally, self-esteem was examined, including its role in terror management theory and the rise of narcissism.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9URDVTR0laVVRCMVo1MzhUSTBGRlNDOVAwRi4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
 * {{< a_blank title="Chapter 5: The Self: Understanding Ourselves in a Social Context" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
 
-###### Optional:
+#### Optional:
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 

@@ -6,7 +6,7 @@ categories: ["Social Psychology / PCG, PCG (NP), PSY, PSY (NP)"]
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 The lecture on social psychology explored various questions about human behavior and social interactions, such as how people perceive and reason about the social world, the dynamics of group membership, factors influencing aggression and prejudice, and the reasons behind interpersonal attraction and cooperation. It also examined the effectiveness of political advertisements and the motivations for helping behavior.
 
@@ -20,19 +20,19 @@ Qualitative research methods like interviews, focus groups, and observational de
 
 Finally, ethical considerations in social psychology research were highlighted, including informed consent, deception, and debriefing. The lecture concluded with guidance on preparing for research and encouraged critical thinking to evaluate scientific claims.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UQTZJNUtZWERTSTdZN1ZYQlhURUJGWjBBTC4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
 * {{< a_blank title="Chapter 2: Methodology: How Social Psychologists Do Research" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
 
-###### Optional:
+#### Optional:
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 

@@ -6,7 +6,7 @@ categories: ["Ethical, Legal, and Professional Issues in Humanities and Social S
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 Self-awareness is crucial for therapists to maintain ethical practice, as a lack of it can hinder client progress and shift focus from client needs to therapist inadequacies. Therapists must recognize their personal needs, unresolved issues, and vulnerabilities. Many counselors are motivated by their own life struggles, but their needs should not overshadow client growth. It's unrealistic to expect therapists to have resolved all personal issues; the key is how they manage them. Personal therapy offers therapists insight into client experiences, promotes self-care, and enhances empathy and competence. Graduate clinicians who undergo personal therapy develop stronger therapeutic alliances and gain valuable insights.
 
@@ -16,19 +16,19 @@ Temporary client dependence is not necessarily problematic, but ethical issues a
 
 Self-care is an ethical obligation, as neglecting it can impact professional competence. Strategies for self-care include exercise, nutrition, mindfulness, and positive psychology principles. Personal development and ongoing self-exploration enhance therapists' ability to focus on client welfare, while self-care is essential for maintaining vitality and preventing burnout. Ethical practice requires attention to both professional competence and personal wellness.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9URVFINjMxR1JJN1VSQlczN1NQTDJNRFYwNi4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Corey, G., Corey, M. S., & Corey, C. (2019). *Issues & ethics in the helping professions* (10th ed.). Cengage.
 
 * {{< a_blank title="Chapter 2: The Counselor as a Person and as a Professional" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
 
-<!-- ###### Optional:
+<!-- #### Optional:
 
 O’Donohue, W. T., & Lilienfeld, S. O. (Eds.). (2013). *Case studies in clinical psychological science: Bridging the gap from science to practice*. Oxford University Press.
 

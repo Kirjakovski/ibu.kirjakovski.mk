@@ -6,7 +6,7 @@ categories: ["Computer Aided Education"]
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 The lecture focused on the role of Graphical User Interfaces (GUIs) in modern computing, emphasizing their visual interaction through windows, icons, and menus. It highlighted the importance of informing learners about the nature of their educational experience and outlined key components for building effective computer learning materials, such as introductions, study time advice, and context-sensitive help.
 
@@ -16,21 +16,21 @@ The design of learning materials must consider the learner's characteristics, th
 
 Finally, the use of metaphors was highlighted as a tool to help learners understand new concepts by relating them to familiar objects, enhancing the transfer of knowledge.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UNDdTMVc5STc1RDI2VUsyQ0FCSllWRDhVRi4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
 **{{< underline "IMPORTANT: For Computer Aided Education course, you MUST use your university issued email address (@ibu.edu.mk)." >}}**
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Clarke, A. (2018). *Designing computer-based learning materials*. Routledge.
 
 * {{< a_blank title="Chapter 2: Communication Styles" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}
 
-<!-- ###### Optional:
+<!-- #### Optional:
 
 Sternberg, R. J., & Sternberg, K. (2017). *Cognitive psychology* (7th ed.). Cengage Learning. {{< a_blank title="(.pdf)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ERiMyzJ-LotFqEk0Z-J7C8YBtWEfSvELdtfNbQ8B1T6RsA?e=JBOlVH" >}}
 

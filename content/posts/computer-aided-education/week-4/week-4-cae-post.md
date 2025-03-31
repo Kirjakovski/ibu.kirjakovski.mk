@@ -6,7 +6,7 @@ categories: ["Computer Aided Education"]
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 The lecture focused on various types of computer-based learning materials. It highlighted the diversity of these materials, which depend on the design strategy, medium, and delivery approach. Key types include computer-based training (CBT), computer-managed learning (CML), integrated learning systems (ILS), intelligent tutoring systems (ITS), electronic performance support systems (EPSS), and computer-aided assessment (CAA).
 
@@ -18,15 +18,15 @@ The lecture also covered drill and practice programs, which offer tutorials foll
 
 Online learning facilitates downloading packages, accessing hypermedia tutorials, and enhancing communication among learners and tutors. It also enables participation in virtual seminars and conferences globally. The lecture concluded with a discussion on using computers to teach practical task through various computer-based learning methods.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9URE1BVElVQUhTN0dZV1AzVzNNSVg0WFczQi4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
 **{{< underline "IMPORTANT: For Computer Aided Education course, you MUST use your university issued email address (@ibu.edu.mk)." >}}**
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Clarke, A. (2018). *Designing computer-based learning materials*. Routledge.
 

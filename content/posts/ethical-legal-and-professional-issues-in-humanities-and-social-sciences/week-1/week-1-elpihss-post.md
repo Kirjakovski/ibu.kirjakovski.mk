@@ -6,7 +6,7 @@ categories: ["Ethical, Legal, and Professional Issues in Humanities and Social S
 draft: false
 ---
 
-#### Lecture summary:
+## Lecture summary:
 
 The lecture explores ethics, a philosophical branch examining moral judgments and their nature, divided into subfields like normative, applied, metaethics, and descriptive ethics. Professional ethics dictate acceptable conduct within professions, often guided by a code of ethics. These codes provide guidelines for ethical conduct, decision-making, and professional behavior, ensuring accountability and client welfare. Ethical dilemmas, such as confidentiality versus the duty to warn, illustrate the challenges faced by professionals. Common themes in ethics codes include client welfare, competence, cultural respect, and confidentiality. However, these codes have limitations, being broad and sometimes conflicting with laws or cultural norms.
 
@@ -14,19 +14,19 @@ Ethics differ from laws; ethics are aspirational, while laws are enforceable. Et
 
 Professional monitoring ensures adherence to ethical standards, with licensing boards and ethics committees playing key roles. Despite the importance of ethics codes, they are insufficient alone; critical thinking, self-reflection, and consultation are essential for ethical practice.
 
-#### Homework assignment:
+## Homework assignment:
 
 You can access and submit your assignment at the following {{< a_blank title="LINK" url="https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UMFBPNlVUS1JBMDFBUTREWDJLSDZRTzhVTi4u" >}}. Each assignment has a deadline. Once the deadline has passed, the system will no longer accept any additional submissions.
 
-#### Reading materials:
+## Reading materials:
 
-###### Mandatory:
+#### Mandatory:
 
 Corey, G., Corey, M. S., & Corey, C. (2019). *Issues & ethics in the helping professions* (10th ed.). Cengage.
 
 * {{< a_blank title="Chapter 1: Introduction to Professional Ethics" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
 
-###### Optional:
+#### Optional:
 
 O’Donohue, W. T., & Lilienfeld, S. O. (Eds.). (2013). *Case studies in clinical psychological science: Bridging the gap from science to practice*. Oxford University Press.
 
