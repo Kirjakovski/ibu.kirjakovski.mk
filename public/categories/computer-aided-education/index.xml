@@ -6,8 +6,22 @@
     <description>Recent content in Computer Aided Education on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Mar 2025 14:50:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 10:28:34 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer-aided-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIDTERM: Computer Aided Education</title>
+      <link>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</link>
+      <pubDate>Mon, 07 Apr 2025 10:28:34 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</guid>
+      <description>&lt;h2 id=&#34;midterm-project-content&#34;&gt;Midterm Project Content:&lt;/h2&gt;&#xA;&lt;p&gt;LECTURE 1: Introduction to Computer Aided Education &lt;br&gt;&#xA;LECTURE 2: Computers, Interactions, and Learning &lt;br&gt;&#xA;LECTURE 3: Communication Styles &lt;br&gt;&#xA;LECTURE 4: Types of Computer-Based Material &lt;br&gt;&#xA;LECTURE 5: Assessment Methods &lt;br&gt;&#xA;LECTURE 6: Text &lt;br&gt;&#xA;LECTURE 7: Color&lt;/p&gt;&#xA;&lt;h2 id=&#34;midterm-project-upload&#34;&gt;Midterm Project Upload:&lt;/h2&gt;&#xA;&lt;p&gt;You can access and submit your midterm project at the following &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UMzlLQVZMNFM0OFZEVzBIV0tIRlVLMVVSRy4u&#34; target=&#34;_blank&#34;&gt;LINK&lt;/a&gt;. &lt;strong&gt;The deadline for submission is 11 April, 15:15.&lt;/strong&gt; Once the deadline has passed, the system will no longer accept any additional submissions. The allowed maximum file size is 100 Mb.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 7: Color</title>
+      <link>http://localhost:1313/posts/computer-aided-education/week-7/week-7-cae-post/</link>
+      <pubDate>Mon, 07 Apr 2025 09:29:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/week-7/week-7-cae-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture focused on the role of color in computer-aided education, emphasizing its impact on user engagement, comprehension, and interface design. Color is defined through three variables: hue, saturation, and intensity. Computers use the RGB model to generate colors, and effective use of color can attract attention, reinforce key points, and organize information.&lt;/p&gt;&#xA;&lt;p&gt;Color must be applied systematically to support learning objectives. Random or excessive use can distract or confuse learners. Consistency in color usage helps users develop a visual code, improving navigation and understanding. Designers are advised to limit the number of colors, maintain high contrast for readability, and consider color blindness by testing interfaces in monochrome. Cultural differences influence color perception, making audience testing essential. Specific colors carry common associations—red for danger, green for calm—but these meanings vary. Highlighting with color, especially when combined with graphics or layout elements, enhances clarity and focus.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 6: Text</title>
       <link>http://localhost:1313/posts/computer-aided-education/week-6/week-6-cae-post/</link>
