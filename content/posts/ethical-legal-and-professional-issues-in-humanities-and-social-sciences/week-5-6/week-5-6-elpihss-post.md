@@ -26,11 +26,5 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Corey, G., Corey, M. S., & Corey, C. (2019). *Issues & ethics in the helping professions* (10th ed.). Cengage.
 
-* {{< a_blank title="Chapter 6: Confidentiality: Ethical and Legal Issues" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
-* {{< a_blank title="Chapter 7: Managing Boundaries and Multiple Relationships" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
-
-<!-- #### Optional:
-
-O’Donohue, W. T., & Lilienfeld, S. O. (Eds.). (2013). *Case studies in clinical psychological science: Bridging the gap from science to practice*. Oxford University Press.
-
-*  {{< a_blank title="Introduction: Case Formulation and Clinical Science" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EZIScR0VIlBEjh5B-E06Fk8BwTdcARwozrSu5F2wGNY2xw?e=qW3uCW" >}} -->
+* {{< a_blank title="Confidentiality: Ethical and Legal Issues (Chapter 6)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
+* {{< a_blank title="Managing Boundaries and Multiple Relationships (Chapter 7)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}

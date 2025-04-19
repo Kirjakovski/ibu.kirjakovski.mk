@@ -30,4 +30,4 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Clarke, A. (2018). *Designing computer-based learning materials*. Routledge.
 
-* {{< a_blank title="Chapter 3: Types of Computer-Based Learning Material" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}
+* {{< a_blank title="Types of Computer-Based Learning Material (Chapter 3)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}

@@ -26,10 +26,10 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
-* {{< a_blank title="Chapter 1: Introducing Social Psychology" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=ecfZ5H" >}}
+* {{< a_blank title="Introducing Social Psychology (Chapter 1)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=ecfZ5H" >}}
 
 #### Optional:
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 
-*  {{< a_blank title="Chapter 1: What is Social Psychology?" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=Gnktql" >}}
+*  {{< a_blank title="What is Social Psychology? (Chapter 1)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=Gnktql" >}}

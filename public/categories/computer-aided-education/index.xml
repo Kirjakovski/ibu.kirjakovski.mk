@@ -6,8 +6,15 @@
     <description>Recent content in Computer Aided Education on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Apr 2025 10:28:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 14:46:02 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer-aided-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 8: Graphics</title>
+      <link>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</link>
+      <pubDate>Sat, 19 Apr 2025 14:46:02 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture on Graphics emphasized the critical role of illustrations in enhancing learning and retention. It highlighted that images can convey complex information efficiently, especially given the limitations of computer screens compared to printed text. Various types of illustrations were discussed: representational (realistic images like photographs), analogical (images that draw comparisons to aid understanding), and logical (abstract representations such as charts and graphs). Each type serves distinct educational purposes, from motivating learners and contextualizing content to presenting large volumes of data for analysis.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>MIDTERM: Computer Aided Education</title>
       <link>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</link>

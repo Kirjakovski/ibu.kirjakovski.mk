@@ -32,8 +32,8 @@ Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psych
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
-* {{< a_blank title="Chapter 4: Social Perception – How We Come to Understand Other People" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
+* {{< a_blank title="Social Perception – How We Come to Understand Other People (Chapter 4)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 
-*  {{< a_blank title="Chapter 4: Perceiving Persons" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}
+*  {{< a_blank title="Perceiving Persons (Chapter 4)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}

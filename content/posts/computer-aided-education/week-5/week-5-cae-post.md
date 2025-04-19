@@ -28,4 +28,4 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Clarke, A. (2018). *Designing computer-based learning materials*. Routledge.
 
-* {{< a_blank title="Chapter 4: Assessment Methods" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}
+* {{< a_blank title="Assessment Methods (Chapter 4)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}

@@ -30,10 +30,10 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
-* {{< a_blank title="Chapter2: Methodology: How Social Psychologists Do Research" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
+* {{< a_blank title="Methodology: How Social Psychologists Do Research (Chapter2)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
 
 #### Optional:
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 
-*  {{< a_blank title="Chapter 2: Doing Social Psychology Research" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}
+*  {{< a_blank title="Doing Social Psychology Research (Chapter 2)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}

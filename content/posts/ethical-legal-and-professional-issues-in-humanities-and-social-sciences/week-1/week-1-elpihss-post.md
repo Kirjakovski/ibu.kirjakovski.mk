@@ -24,7 +24,7 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Corey, G., Corey, M. S., & Corey, C. (2019). *Issues & ethics in the helping professions* (10th ed.). Cengage.
 
-* {{< a_blank title="Chapter 1: Introduction to Professional Ethics" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
+* {{< a_blank title="Introduction to Professional Ethics (Chapter 1)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ESjqb1s3G-1Fm6tnMPKTFQABZDZUC1LXZ3mMi8mVZUSDnw?e=neim8O" >}}
 
 #### Optional:
 

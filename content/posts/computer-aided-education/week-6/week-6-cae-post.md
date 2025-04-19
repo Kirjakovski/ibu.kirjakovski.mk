@@ -30,4 +30,4 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Clarke, A. (2018). *Designing computer-based learning materials*. Routledge.
 
-* {{< a_blank title="Chapter 5: Use of Text" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}
+* {{< a_blank title="Use of Text (Chapter 5)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=ZbRu35" >}}

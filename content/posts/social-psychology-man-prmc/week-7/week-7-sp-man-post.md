@@ -30,10 +30,10 @@ You can access and submit your assignment at the following {{< a_blank title="LI
 
 Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R. (2016). *Social psychology* (9th ed.). Pearson.
 
-* {{< a_blank title="(Chapter 9) Group Processes: Influence in Social Groups" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
+* {{< a_blank title="Group Processes: Influence in Social Groups (Chapter 9)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYayjCAl9oZEq5YFpmRdJu4BAvsS5vKLoCwlNW2s2cEgxQ?e=8isCkd" >}}
 
 #### Optional:
 
 Kassin, S., Fein, S., & Markus, H. R. (2017). *Social psychology* (10th ed.). Cengage.
 
-*  {{< a_blank title="(Chapter 8) Group Processes" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}
+*  {{< a_blank title="Group Processes (Chapter 8)" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EcrEcBV4SlpNsVmEHyeaAPIBrkbFTw24LMeqX3vZAAS8tA?e=wHWl9y" >}}
