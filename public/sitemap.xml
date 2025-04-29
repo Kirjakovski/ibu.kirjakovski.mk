@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-19T14:46:02+02:00</lastmod>
+    <lastmod>2025-04-19T15:29:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-8/week-8-sp-psy-post/</loc>
+    <lastmod>2025-04-19T15:29:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-19T15:29:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-19T15:29:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
+    <lastmod>2025-04-19T15:29:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/computer-aided-education/</loc>
     <lastmod>2025-04-19T14:46:02+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</loc>
-    <lastmod>2025-04-19T14:46:02+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-19T14:46:02+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-19T14:46:02+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-man-prmc/midterm/sp-nonpsy-midterm/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2025-04-07T11:16:29+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-pcg-psy/midterm/sp-psy-midterm/</loc>
-    <lastmod>2025-04-07T10:48:40+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
     <lastmod>2025-04-07T10:48:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</loc>

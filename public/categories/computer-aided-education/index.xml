@@ -6,8 +6,15 @@
     <description>Recent content in Computer Aided Education on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Apr 2025 14:46:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 12:35:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer-aided-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 9: Multimedia</title>
+      <link>http://localhost:1313/posts/computer-aided-education/week-9/week-9-cae-post/</link>
+      <pubDate>Tue, 29 Apr 2025 12:35:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/week-9/week-9-cae-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;Multimedia in computer-aided education engages multiple senses—sight, hearing, touch, taste, and smell—to enhance learning effectiveness. Defined as a combination of at least three elements such as video, sound, graphics, text, animation, and photographs, multimedia enriches educational experiences.&lt;/p&gt;&#xA;&lt;p&gt;Hypermedia extends this concept by enabling navigation through linked multimedia elements, supporting clear learning goals while requiring careful design to avoid learner confusion. Video is pervasive and motivating but demands interactive use and careful consideration due to high production costs and technical constraints; it excels in demonstrating actions, interactions, and processes. Still images, though less costly and easier to produce, have limited capacity to show motion but can effectively illustrate detailed content and support engagement when combined with narration.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 8: Graphics</title>
       <link>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</link>
