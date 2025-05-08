@@ -6,8 +6,22 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 May 2025 17:10:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 17:23:34 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 11: Prosocial Behavior</title>
+      <link>http://localhost:1313/posts/social-psychology-pcg-psy/week-11/week-11-sp-psy-post/</link>
+      <pubDate>Thu, 08 May 2025 17:23:34 +0200</pubDate>
+      <guid>http://localhost:1313/posts/social-psychology-pcg-psy/week-11/week-11-sp-psy-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;A lecture on prosocial behaviour examined why individuals help others. The core of helping behaviour stems from several foundational motivations. Evolutionary psychology suggests that instincts drive helping, primarily through kin selection, favouring genetic relatives to ensure gene propagation. The norm of reciprocity, the expectation of future aid, and the contested idea of group selection, where altruistic groups might out-survive selfish ones, also contribute to this perspective. The Chernobyl disaster provided a stark example of extreme altruism.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 11: Screen Layout</title>
+      <link>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</link>
+      <pubDate>Thu, 08 May 2025 17:18:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture examined fundamental screen elements and their organization. The design of computer-based learning often draws upon three primary metaphors: frames, which denote single, sequential displays typical in computer-based training; cards, a concept from early hypertext systems linking discrete units of information; and pages, a metaphor that gained prominence with the World Wide Web, facilitating material viewing through a standardized browser interface.&lt;/p&gt;&#xA;&lt;p&gt;Effective screen design considers how users naturally process visual information. Typically, attention moves from the top-left corner clockwise, a pattern that designers can utilize or intentionally disrupt with elements like color or multimedia. Achieving a balanced display is paramount, fostering clarity and predictability through the consistent application of visual tools such as color and graphics. The organization of content through grouping significantly aids perception and retention. Objects are perceived as grouped if they are close, share similar visual characteristics, intersect, or are enclosed by borders.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 9: Issues in Theory and Practice</title>
       <link>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-10/week-10-elpihss-post/</link>
