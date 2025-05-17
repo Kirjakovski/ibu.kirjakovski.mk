@@ -6,8 +6,15 @@
     <description>Recent content in Computer Aided Education on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 May 2025 17:18:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 20:19:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer-aided-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 12: Content</title>
+      <link>http://localhost:1313/posts/computer-aided-education/week-12/week-12-cae-post/</link>
+      <pubDate>Sat, 17 May 2025 20:19:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/week-12/week-12-cae-post/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;In the design of computer-aided learning materials, the emphasis often falls on presentation, interaction, and technology, while the actual content can be overlooked. Yet, from a learner’s perspective, the content is central to the educational experience. Overlooking this leads to visually appealing but ultimately empty educational packages. Effective development of computer-based materials requires systematic content gathering, ideally by a subject matter expert who can ensure that essential information and valuable new ideas are included.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 11: Screen Layout</title>
       <link>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</link>

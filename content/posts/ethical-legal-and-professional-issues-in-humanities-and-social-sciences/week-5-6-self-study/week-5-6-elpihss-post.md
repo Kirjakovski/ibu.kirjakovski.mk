@@ -14,7 +14,7 @@ This chapter covers the essential aspects of maintaining confidentiality within 
 
 **Managing Boundaries and Multiple Relationships (WEEK 6)**
 
-This section addresses the complexities of maintaining professional boundaries and handling multiple relationships. It provides guidance on avoiding conflicts of interest and ensuring ethical interactions.
+This chapter addresses the complexities of maintaining professional boundaries and handling multiple relationships. It provides guidance on avoiding conflicts of interest and ensuring ethical interactions.
 
 ## Homework assignment:
 
