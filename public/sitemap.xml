@@ -3,36 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-08T17:23:34+02:00</lastmod>
+    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/final/sp-nonpsy-final/</loc>
+    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social-psychology-/-man-prmc/</loc>
+    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/final/sp-psy-final/</loc>
+    <lastmod>2025-05-17T22:00:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
+    <lastmod>2025-05-17T22:00:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/computer-aided-education/</loc>
+    <lastmod>2025-05-17T21:53:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/computer-aided-education/final/cae-final/</loc>
+    <lastmod>2025-05-17T21:53:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/</loc>
+    <lastmod>2025-05-17T21:51:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/final/elpihss-final/</loc>
+    <lastmod>2025-05-17T21:51:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-12/week-12-elpihss-post/</loc>
+    <lastmod>2025-05-17T21:40:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-12/week-12-sp-man-post/</loc>
+    <lastmod>2025-05-17T21:22:51+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-12/week-12-sp-psy-post/</loc>
+    <lastmod>2025-05-17T21:20:47+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/computer-aided-education/week-12/week-12-cae-post/</loc>
+    <lastmod>2025-05-17T20:19:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-11-self-study/week-11-elpihss-post/</loc>
+    <lastmod>2025-05-08T21:36:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-11/week-11-sp-man-post/</loc>
+    <lastmod>2025-05-08T21:28:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-11/week-11-sp-psy-post/</loc>
     <lastmod>2025-05-08T17:23:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-08T17:23:34+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-08T17:23:34+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
-    <lastmod>2025-05-08T17:23:34+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/computer-aided-education/</loc>
-    <lastmod>2025-05-08T17:18:35+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</loc>
     <lastmod>2025-05-08T17:18:35+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/</loc>
-    <lastmod>2025-05-08T17:10:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-10/week-10-elpihss-post/</loc>
     <lastmod>2025-05-08T17:10:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-10/week-10-sp-man-post/</loc>
-    <lastmod>2025-05-08T13:03:52+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/social-psychology-/-man-prmc/</loc>
     <lastmod>2025-05-08T13:03:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-pcg-psy/week-10/week-10-sp-psy-post/</loc>
@@ -89,7 +119,7 @@
     <loc>http://localhost:1313/posts/computer-aided-education/week-6/week-6-cae-post/</loc>
     <lastmod>2025-03-31T14:50:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-5-6/week-5-6-elpihss-post/</loc>
+    <loc>http://localhost:1313/posts/ethical-legal-and-professional-issues-in-humanities-and-social-sciences/week-5-6-self-study/week-5-6-elpihss-post/</loc>
     <lastmod>2025-03-31T14:15:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology-man-prmc/week-5/week-5-sp-man-post/</loc>
