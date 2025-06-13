@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+    <lastmod>2025-05-26T14:20:53+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/social-psychology-man-prmc/final/sp-nonpsy-final/</loc>
-    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+    <loc>http://localhost:1313/categories/computer-aided-education/</loc>
+    <lastmod>2025-05-26T14:20:53+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/computer-aided-education/makeup/cae-makeup/</loc>
+    <lastmod>2025-05-26T14:20:53+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-17T22:02:05+02:00</lastmod>
+    <lastmod>2025-05-26T14:20:53+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-26T14:20:53+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology-man-prmc/final/sp-nonpsy-final/</loc>
     <lastmod>2025-05-17T22:02:05+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/social-psychology-/-man-prmc/</loc>
@@ -22,9 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</loc>
     <lastmod>2025-05-17T22:00:46+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/computer-aided-education/</loc>
-    <lastmod>2025-05-17T21:53:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/computer-aided-education/final/cae-final/</loc>
     <lastmod>2025-05-17T21:53:46+02:00</lastmod>

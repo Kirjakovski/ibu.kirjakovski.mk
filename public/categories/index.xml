@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 May 2025 22:02:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:20:53 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Aided Education</title>
+      <link>http://localhost:1313/categories/computer-aided-education/</link>
+      <pubDate>Mon, 26 May 2025 14:20:53 +0200</pubDate>
+      <guid>http://localhost:1313/categories/computer-aided-education/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social Psychology / MAN, PRMC</title>
       <link>http://localhost:1313/categories/social-psychology-/-man-prmc/</link>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</link>
       <pubDate>Sat, 17 May 2025 22:00:46 +0200</pubDate>
       <guid>http://localhost:1313/categories/social-psychology-/-pcg-pcg-np-psy-psy-np/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computer Aided Education</title>
-      <link>http://localhost:1313/categories/computer-aided-education/</link>
-      <pubDate>Sat, 17 May 2025 21:53:46 +0200</pubDate>
-      <guid>http://localhost:1313/categories/computer-aided-education/</guid>
       <description></description>
     </item>
     <item>
