@@ -16,4 +16,4 @@ I’m really looking forward to seeing each other and make this semester a great
 
 Welcome aboard—let’s get started!
 
-— Asst. Prof. Atanas Kirjakovski
+— Assoc. Prof. Atanas Kirjakovski
