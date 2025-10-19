@@ -299,13 +299,13 @@ pre {
     border-radius: 5px;
     margin-bottom: 3px;
 }
-}
 
 .post-category {
-    display: inline-block;
-    font-weight: 900;
-    text-align: center;
-    padding: 2px 5px;
+    display: -webkit-inline-box;
+    font-size: 0.8rem;
+    text-align: left;
+    padding: 6px 6px;
     border: #000 2px solid;
     border-radius: 5px;
+    margin-bottom: 3px;
 }
