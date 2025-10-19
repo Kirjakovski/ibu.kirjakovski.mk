@@ -6,14 +6,28 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:47:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 14:49:31 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>LECTURE 2: Central Tendency and Variability</title>
+      <link>http://localhost:1313/posts/statistics/week-2/stat-2025-10-14/</link>
+      <pubDate>Tue, 14 Oct 2025 14:49:31 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/week-2/stat-2025-10-14/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Descriptive statistics provide a way to quantify and describe the basic characteristics of a data set. A fundamental aspect of this is identifying a single, representative value that best summarises the entire group of scores. This concept is known as central tendency, and it is measured in three primary ways: the mean, the median, and the mode.&lt;/p&gt;&#xA;&lt;p&gt;The mean represents the arithmetic average of all scores, calculated by summing the scores and dividing by the total number of scores. It acts as the mathematical balance point of the distribution but can be significantly influenced by extreme scores, or outliers. The mode is simply the most frequently occurring value in a data set. It is particularly useful for describing nominal variables. The median is the middle value when all scores are arranged in ascending order. Unlike the mean, the median is not affected by outliers, making it a more robust measure of central tendency for distributions that are skewed or contain extreme values. In a perfectly symmetrical, unimodal distribution, the mean, median, and mode will all be the same.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
+      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</link>
+      <pubDate>Tue, 07 Oct 2025 14:21:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistics is a branch of mathematics focused on organizing, analyzing, and interpreting numerical data, primarily divided into two main areas. Descriptive statistics are used to summarize and make sense of a group of scores, while inferential statistics allow for drawing broader conclusions from the data collected in a study. Understanding statistics is crucial for conducting effective research, comprehending scientific literature, and developing critical thinking skills.&lt;/p&gt;&#xA;&lt;p&gt;The foundation of statistical analysis begins with data, which are observations or measurements. A characteristic that can have different values is known as a variable, and a specific person&amp;rsquo;s value on that variable is a score. These variables can be measured on different scales, or levels of measurement. Nominal variables use categories or names, such as gender or ethnicity. Ordinal variables represent a rank order, like competition placements. Interval variables have equal intervals between values but lack a true zero, such as temperature in Celsius. Ratio variables possess all the properties of interval scales plus a true zero point, including measures like age, height, and income.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Statistics Course Description and Materials</title>
-      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</link>
+      <link>http://localhost:1313/posts/statistics/materials/materials/</link>
       <pubDate>Wed, 01 Oct 2025 13:47:11 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</guid>
-      <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>
+      <description>&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

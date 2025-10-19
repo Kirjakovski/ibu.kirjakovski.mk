@@ -6,13 +6,34 @@
     <description>Recent content in Cognitive Process on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:18:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 17:02:14 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cognitive-process/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cognitive Process Course Description and Materials</title>
+      <title>LECTURE 3: Perception</title>
+      <link>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</link>
+      <pubDate>Wed, 15 Oct 2025 17:02:14 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Perception is the complex process of organizing and interpreting sensory information to understand the environment, going beyond simple sensation, which is the initial neural response to physical energy. This interpretive process is challenging because the sensory information received by our receptors is often ambiguous. For instance, a single two-dimensional image on the retina could correspond to numerous three-dimensional objects in the world. Furthermore, objects can be partially hidden, blurred, or viewed from various angles, yet we can typically still identify them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 2: Cognitive Neuroscience</title>
+      <link>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</link>
+      <pubDate>Wed, 08 Oct 2025 14:34:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The study of cognitive neuroscience begins with the brain&amp;rsquo;s fundamental unit, the neuron. Early theories imagined a continuous &amp;ldquo;nerve net,&amp;rdquo; but it was discovered that the nervous system is composed of individual cells. These neurons, with their distinct cell bodies, dendrites, and axons, transmit signals throughout the body. Communication between neurons occurs at the synapse, where an electrical impulse, or action potential, causes the release of chemical neurotransmitters that excite or inhibit the next neuron.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 1: Introduction to Cognitive Psychology</title>
       <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
-      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2025 14:01:47 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychology is the scientific study of mental processes, viewing the mind as a system that creates representations of the world to control functions like perception, attention, memory, and reasoning. The field&amp;rsquo;s roots are in philosophy, with thinkers like René Descartes proposing mind-body dualism and John Locke suggesting the mind is a &amp;ldquo;tabula rasa,&amp;rdquo; shaped by experience.&lt;/p&gt;&#xA;&lt;p&gt;The scientific study began with Wilhelm Wundt&amp;rsquo;s structuralism, which aimed to identify the basic elements of consciousness through analytic introspection. This was followed by William James&amp;rsquo;s functionalism, which focused on how the mind helps individuals adapt to their environment. Gestalt psychology, founded by Max Wertheimer, shifted focus to how the mind organizes perceptions into meaningful wholes, asserting that the whole is more than the sum of its parts. However, the rise of behaviorism, championed by John B. Watson and B. F. Skinner, led to a period where psychology abandoned the study of the mind in favor of observable stimulus-response behaviors, analyzed through classical and operant conditioning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cognitive Process Course Description and Materials</title>
+      <link>http://localhost:1313/posts/cognitive-process/materials/materials/</link>
+      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/materials/materials/</guid>
       <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
     </item>
   </channel>

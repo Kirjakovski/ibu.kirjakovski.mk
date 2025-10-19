@@ -6,13 +6,34 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:18:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 14:21:16 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cognivite  Process Course Description and Materials</title>
+      <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
+      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</link>
+      <pubDate>Sun, 19 Oct 2025 14:21:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</guid>
+      <description>&lt;p&gt;Statistics is a branch of mathematics focused on organizing, analyzing, and interpreting numerical data, primarily divided into two main areas. Descriptive statistics are used to summarize and make sense of a group of scores, while inferential statistics allow for drawing broader conclusions from the data collected in a study. Understanding statistics is crucial for conducting effective research, comprehending scientific literature, and developing critical thinking skills.&lt;/p&gt;&#xA;&lt;p&gt;The foundation of statistical analysis begins with data, which are observations or measurements. A characteristic that can have different values is known as a variable, and a specific person&amp;rsquo;s value on that variable is a score. These variables can be measured on different scales, or levels of measurement. Nominal variables use categories or names, such as gender or ethnicity. Ordinal variables represent a rank order, like competition placements. Interval variables have equal intervals between values but lack a true zero, such as temperature in Celsius. Ratio variables possess all the properties of interval scales plus a true zero point, including measures like age, height, and income.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 1: Introduction to Cognitive Psychology</title>
       <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
-      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
+      <pubDate>Sun, 19 Oct 2025 14:01:47 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
+      <description>&lt;p&gt;Cognitive psychology is the scientific study of mental processes, viewing the mind as a system that creates representations of the world to control functions like perception, attention, memory, and reasoning. The field&amp;rsquo;s roots are in philosophy, with thinkers like René Descartes proposing mind-body dualism and John Locke suggesting the mind is a &amp;ldquo;tabula rasa,&amp;rdquo; shaped by experience.&lt;/p&gt;&#xA;&lt;p&gt;The scientific study began with Wilhelm Wundt&amp;rsquo;s structuralism, which aimed to identify the basic elements of consciousness through analytic introspection. This was followed by William James&amp;rsquo;s functionalism, which focused on how the mind helps individuals adapt to their environment. Gestalt psychology, founded by Max Wertheimer, shifted focus to how the mind organizes perceptions into meaningful wholes, asserting that the whole is more than the sum of its parts. However, the rise of behaviorism, championed by John B. Watson and B. F. Skinner, led to a period where psychology abandoned the study of the mind in favor of observable stimulus-response behaviors, analyzed through classical and operant conditioning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Statistics Course Description and Materials</title>
+      <link>http://localhost:1313/posts/statistics/materials/materials/</link>
+      <pubDate>Wed, 01 Oct 2025 13:47:11 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>
+      <description>&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cognitive Process Course Description and Materials</title>
+      <link>http://localhost:1313/posts/cognitive-process/materials/materials/</link>
+      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/materials/materials/</guid>
       <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
     </item>
     <item>
