@@ -6,98 +6,14 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Dec 2024 19:15:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 13:47:11 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LECTURE 11: Non-parametric Statistics</title>
-      <link>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</link>
-      <pubDate>Fri, 27 Dec 2024 19:15:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-11/stat-post-lecture-11/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Non-parametric tests are hypothesis-testing methods that do not require assumptions about the population parameters, making them robust alternatives to parametric tests, especially when data violate standard assumptions such as normal distribution and equal variances. Common challenges include ceiling or floor effects, skewness, and the presence of outliers.&lt;/p&gt;&#xA;&lt;p&gt;To address these issues, data transformations—such as square root, logarithmic, or inverse transformations—are employed to normalize distributions. For negatively skewed data, a reflection transformation precedes these adjustments. Alternatively, rank-order transformations convert scores to ranks, resulting in uniform distributions and facilitating rank-order tests. These tests compare group medians rather than means and are advantageous when scores are inherently ranks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 10: Chi-square Tests</title>
-      <link>http://localhost:1313/posts/statistics/lecture-10/stat-post-lecture-10/</link>
-      <pubDate>Sat, 14 Dec 2024 21:31:53 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-10/stat-post-lecture-10/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture on Chi-Square Tests covered statistical methods for analyzing nominal (categorical) data. Two primary tests were discussed:&lt;/p&gt;&#xA;&lt;p&gt;Chi-Square Test for Goodness of Fit: This test evaluates whether the observed frequency distribution of a single nominal variable matches an expected distribution. An example involved the gender representation on cereal boxes, where the observed and expected distributions were compared to determine if discrepancies were due to chance.&lt;/p&gt;&#xA;&lt;p&gt;Chi-Square Test for Independence: This test assesses whether two nominal variables are independent. A case study analyzed whether the age distribution of male and female characters on cereal boxes was related, using a contingency table and calculated expected frequencies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 9: Correlation and Regression</title>
-      <link>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</link>
-      <pubDate>Tue, 10 Dec 2024 22:11:36 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-9/stat-post-lecture-9/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture focused on correlation and regression within the context of statistics, emphasizing their significance in understanding relationships between variables. Correlation measures the association between two variables, typically represented through scatter diagrams, which visually depict the relationship&amp;rsquo;s nature—whether linear, curvilinear, or nonexistent. The correlation coefficient quantifies this relationship, ranging from -1 to +1, indicating the strength and direction of the correlation.&lt;/p&gt;&#xA;&lt;p&gt;Key concepts included the distinction between positive and negative correlations, as well as the importance of understanding correlation&amp;rsquo;s limitations, such as the influence of outliers and the assumptions underlying significance tests. The lecture also introduced Spearman&amp;rsquo;s rho as an alternative for rank-ordered data, highlighting its robustness against outliers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 8: Introduction to Analysis of Variance (ANOVA)</title>
-      <link>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</link>
-      <pubDate>Sat, 30 Nov 2024 22:13:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-8/stat-post-lecture-8/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduced the fundamental concepts of Analysis of Variance (ANOVA), a statistical method used to evaluate differences between the means of three or more independent groups. ANOVA operates under the null hypothesis that all groups share the same mean, and tests whether observed differences exceed what would be expected by chance. This is achieved by comparing two variance estimates: within-group variance (variation among scores within each group) and between-group variance (variation among group means).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 7: Introduction to t Tests</title>
-      <link>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</link>
-      <pubDate>Sat, 30 Nov 2024 21:51:57 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-7/stat-post-lecture-7/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered the use of the t-test in hypothesis testing, focusing on its application when the population variance is unknown. The t-test compares sample means to a population mean or between groups. The session highlighted three types of t-tests: single sample, dependent means, and independent means.&lt;/p&gt;&#xA;&lt;p&gt;A t-test for a single sample compares a sample mean to a known population mean using an estimated population variance. A dependent means t-test examines differences within the same group by comparing scores across conditions or time points, using difference scores and assuming a mean difference of zero under the null hypothesis. Lastly, the independent means t-test compares means from two separate groups, relying on pooled variance estimates and assuming equal population variances.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 6: Decision Errors, Effect Size, and Statistical Power</title>
-      <link>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</link>
-      <pubDate>Thu, 07 Nov 2024 15:38:49 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-6/stat-post-lecture-6/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Decision errors, effect size, and statistical power are key concepts in hypothesis testing. Decision errors include Type I errors, where the null hypothesis is wrongly rejected (false positive), and Type II errors, where it is wrongly retained (false negative). The probability of a Type I error aligns with the significance level (α), while the probability of a Type II error is denoted by beta (β). Statistical power, calculated as , is the likelihood of correctly rejecting the null hypothesis when the research hypothesis is true.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 5: Hypothesis Tests with Means of Samples</title>
-      <link>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</link>
-      <pubDate>Sat, 02 Nov 2024 13:54:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-5/stat-post-lecture-5/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture introduces hypothesis testing with sample means, focusing on the comparison of a sample to a population. It starts with the basics of the research and null hypotheses, where the research hypothesis suggests a specific effect or difference, while the null hypothesis assumes no effect. Hypothesis testing follows a structured process, requiring restating the question in hypothesis terms, identifying comparison distribution characteristics, determining a rejection cutoff, and calculating sample scores to decide on rejecting the null hypothesis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 4: Introduction to Hypothesis Testing</title>
-      <link>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</link>
-      <pubDate>Sat, 26 Oct 2024 13:02:23 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-4/stat-post-lecture-4/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Hypothesis testing is a systematic method to evaluate whether a sample’s results support a particular theory or innovation. It starts with forming hypotheses: the null hypothesis, which suggests no difference between groups, and the research (or alternative) hypothesis, which predicts a difference. Hypothesis testing follows a structured process. First, the question is reformulated as hypotheses about populations. Next, the characteristics of the comparison distribution are identified, typically assuming a normal distribution if the null hypothesis is true. Researchers then set a critical value, the threshold for rejecting the null hypothesis, often using conventional significance levels (e.g., p &amp;lt; .05 or p &amp;lt; .01).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 3: Basics of Inferential Statistics</title>
-      <link>http://localhost:1313/posts/statistics/lecture-3/stat-post-lecture-3/</link>
-      <pubDate>Fri, 18 Oct 2024 20:32:42 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-3/stat-post-lecture-3/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;Inferential statistics allow researchers to make general conclusions based on sample data, extending their findings beyond the participants in a study. Key concepts include scores, outliers, and measures of central tendency (mean, median, mode). Variability is measured using variance and standard deviation, which reflect how spread out the scores are from the mean. A normal distribution follows a bell-shaped curve, which is symmetric and unimodal. The central limit theorem explains that, with enough random influences, a precise normal curve results. Z-scores express how far a particular score is from the mean in terms of standard deviations, offering insight into its position within the distribution. The normal curve allows us to predict the percentage of scores falling above or below any point.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 2: Central Tendency and Variability</title>
-      <link>http://localhost:1313/posts/statistics/lecture-2/stat-post-lecture-2/</link>
-      <pubDate>Sun, 13 Oct 2024 20:13:54 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-2/stat-post-lecture-2/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered the concepts of central tendency and variability, essential tools in descriptive statistics. Central tendency refers to finding a single value that represents a set of scores. The three primary measures are the mean, mode, and median. The mean is the arithmetic average, calculated by summing all values and dividing by the number of values. It is sensitive to outliers, while the median is a more robust measure, representing the middle score when data is ordered. The mode is the most frequent score in a distribution and is typically used for nominal data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
-      <link>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</link>
-      <pubDate>Wed, 09 Oct 2024 14:18:43 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-1/stat-post-lecture-1/</guid>
-      <description>&lt;h4 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture covered foundational concepts in statistics, focusing on measurement, data, distributions, tables, and graphs. It began by emphasizing the importance of statistics for conducting research, understanding scientific literature, and developing critical thinking. The field of statistics was divided into two main areas: descriptive statistics, which involves summarizing and organizing data, and inferential statistics, which focuses on drawing conclusions from sample data to generalize about populations.&lt;/p&gt;&#xA;&lt;p&gt;Key definitions were introduced, such as data, variables, and different levels of measurement. Variables were classified as either discrete or continuous, and the types of data—qualitative and quantitative—were explained. The levels of measurement were outlined, including nominal, ordinal, interval, and ratio, each providing different levels of information.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IMPORTANT: For the Statistics Course, Submit Homework via Microsoft Forms Only</title>
-      <link>http://localhost:1313/posts/statistics/notices/homework-submission/</link>
-      <pubDate>Tue, 08 Oct 2024 16:19:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/notices/homework-submission/</guid>
-      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;&#xA;&lt;p&gt;I’ve noticed that some of you are still sending your homework assignments through email for the Statistics course, despite my multiple reminders and instructions. Please remember that &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;all homework must be submitted via Microsoft Forms&lt;/u&gt;&lt;/strong&gt;. The links to the assignment forms are available on my blog in each of the lecture posts.&lt;/p&gt;&#xA;&lt;p&gt;I won’t be accepting any assignments sent by email, so make sure to use the correct submission method. For this, you need a working university-issued &lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;@ibu.edu.mk email address&lt;/u&gt;&lt;/strong&gt;. This ensures that your work is properly tracked and graded.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>&#39;Statistics&#39; Course Materials</title>
-      <link>http://localhost:1313/posts/statistics/materials/materials/</link>
-      <pubDate>Mon, 07 Oct 2024 20:44:55 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>
-      <description>&lt;h4 id=&#34;brief-course-description&#34;&gt;Brief course description:&lt;/h4&gt;&#xA;&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
+      <title>Statistics Course Description and Materials</title>
+      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</link>
+      <pubDate>Wed, 01 Oct 2025 13:47:11 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</guid>
+      <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

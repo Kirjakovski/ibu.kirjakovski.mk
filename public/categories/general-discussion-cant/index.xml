@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Prof. Kirjakovski IBU Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
+    <title>General Discussion Can&#39;t on Prof. Kirjakovski IBU Blog</title>
+    <link>http://localhost:1313/categories/general-discussion-cant/</link>
+    <description>Recent content in General Discussion Can&#39;t on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:18:09 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cognivite  Process Course Description and Materials</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
-      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
-      <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 12:41:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/general-discussion-cant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to your professor&#39;s blog!</title>
       <link>http://localhost:1313/posts/general-discussion/welcome/</link>

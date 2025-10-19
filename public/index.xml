@@ -6,10 +6,17 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 13:18:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 13:47:11 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cognivite  Process Course Description and Materials</title>
+      <title>Statistics Course Description and Materials</title>
+      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</link>
+      <pubDate>Wed, 01 Oct 2025 13:47:11 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-01/</guid>
+      <description>&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cognitive Process Course Description and Materials</title>
       <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
       <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
