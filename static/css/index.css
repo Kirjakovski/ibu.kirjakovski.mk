@@ -294,6 +294,7 @@ pre {
     display: -webkit-inline-box;
     font-size: 0.8rem;
     text-align: left;
+    font-weight: bold;
     padding: 6px 6px;
     border: #000 2px solid;
     border-radius: 5px;
@@ -304,6 +305,7 @@ pre {
     display: -webkit-inline-box;
     font-size: 0.8rem;
     text-align: left;
+    font-weight: bold;
     padding: 6px 6px;
     border: #000 2px solid;
     border-radius: 5px;
