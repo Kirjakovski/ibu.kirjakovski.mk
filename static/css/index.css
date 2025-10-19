@@ -110,13 +110,6 @@ a:hover {
     margin: 12px 0;
 }
 
-.posts-category {
-    padding: 3px 0;
-    border: #000 2px solid;
-    border-radius: 5px;
-    margin-bottom: 3px;
-}
-
 .site-footer {
     margin-top: 50px;
     margin-bottom: 80px;
@@ -301,10 +294,11 @@ pre {
     display: -webkit-inline-box;
     font-size: 0.8rem;
     text-align: left;
-    padding: 3px 3px;
+    padding: 6px 6px;
     border: #000 2px solid;
     border-radius: 5px;
     margin-bottom: 3px;
+}
 }
 
 .post-category {
