@@ -6,27 +6,34 @@
     <description>Recent content in Cognitive Process on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 17:02:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:02:26 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cognitive-process/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>LECTURE 4: Attention</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-2025-10-22/</link>
+      <pubDate>Wed, 22 Oct 2025 16:02:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-4/cp-2025-10-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture defines attention as the mind taking possession of one object or train of thought, implying a withdrawal from some things to deal effectively with others. This process manifests as selective attention (focusing), divided attention (multitasking), and attentional capture. Early models sought to explain when selection occurs. Broadbent&amp;rsquo;s filter model proposed an early filter based on physical characteristics, blocking unattended information. However, this was challenged by the &amp;ldquo;cocktail party effect&amp;rdquo; (hearing one&amp;rsquo;s name) and findings that meaning could be processed from an unattended ear. Treisman’s attenuation model modified this, suggesting the unattended message is weakened, not blocked, allowing salient information (like one&amp;rsquo;s name) to pass. In contrast, late selection models proposed that all stimuli are processed for meaning before selection. The Load Theory of Attention addresses how we ignore distractions, positing that this depends on the task&amp;rsquo;s perceptual load. Low-load (easy) tasks leave spare processing capacity that &amp;ldquo;spills over&amp;rdquo; to process distractors, making distraction more likely. High-load (hard) tasks consume all resources, leaving none to process distractors.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LECTURE 3: Perception</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-3/cp-2025-10-15/</link>
       <pubDate>Wed, 15 Oct 2025 17:02:14 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-3/cp-2025-10-15/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Perception is the complex process of organizing and interpreting sensory information to understand the environment, going beyond simple sensation, which is the initial neural response to physical energy. This interpretive process is challenging because the sensory information received by our receptors is often ambiguous. For instance, a single two-dimensional image on the retina could correspond to numerous three-dimensional objects in the world. Furthermore, objects can be partially hidden, blurred, or viewed from various angles, yet we can typically still identify them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 2: Cognitive Neuroscience</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-2/cp-2025-10-08/</link>
       <pubDate>Wed, 08 Oct 2025 14:34:45 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-2/cp-2025-10-08/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The study of cognitive neuroscience begins with the brain&amp;rsquo;s fundamental unit, the neuron. Early theories imagined a continuous &amp;ldquo;nerve net,&amp;rdquo; but it was discovered that the nervous system is composed of individual cells. These neurons, with their distinct cell bodies, dendrites, and axons, transmit signals throughout the body. Communication between neurons occurs at the synapse, where an electrical impulse, or action potential, causes the release of chemical neurotransmitters that excite or inhibit the next neuron.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Introduction to Cognitive Psychology</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-1/cp-2025-10-01/</link>
       <pubDate>Wed, 01 Oct 2025 14:01:47 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-1/cp-2025-10-01/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychology is the scientific study of mental processes, viewing the mind as a system that creates representations of the world to control functions like perception, attention, memory, and reasoning. The field&amp;rsquo;s roots are in philosophy, with thinkers like René Descartes proposing mind-body dualism and John Locke suggesting the mind is a &amp;ldquo;tabula rasa,&amp;rdquo; shaped by experience.&lt;/p&gt;&#xA;&lt;p&gt;The scientific study began with Wilhelm Wundt&amp;rsquo;s structuralism, which aimed to identify the basic elements of consciousness through analytic introspection. This was followed by William James&amp;rsquo;s functionalism, which focused on how the mind helps individuals adapt to their environment. Gestalt psychology, founded by Max Wertheimer, shifted focus to how the mind organizes perceptions into meaningful wholes, asserting that the whole is more than the sum of its parts. However, the rise of behaviorism, championed by John B. Watson and B. F. Skinner, led to a period where psychology abandoned the study of the mind in favor of observable stimulus-response behaviors, analyzed through classical and operant conditioning.&lt;/p&gt;</description>
     </item>
     <item>

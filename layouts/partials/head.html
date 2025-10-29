@@ -67,11 +67,16 @@
   <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
   <!-- quicklink require -->
   <!-- <script>
-    /* Disable minification (remove `.min` from URL path) for more info 
+    /* Disable minification (remove `.min` from URL path) for more info
     https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver
     */
     (function (undefined) { }).call('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
   </script> -->
 
   {{ .Site.Params.extraHead | safeHTML }}
+  
+  <!-- Math Rendering -->
+  {{ if or .Params.math .Site.Params.math }}
+    {{ partial "math.html" . }}
+  {{ end }}
 </head>

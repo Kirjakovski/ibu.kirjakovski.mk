@@ -6,41 +6,83 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 17:02:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 16:42:04 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>LECTURE 5: Memory</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</link>
+      <pubDate>Wed, 29 Oct 2025 16:42:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Memory is the process of retaining, retrieving, and using information after the original stimulus is gone. The classic Modal Model of Memory breaks this process into three structural stages. First, Sensory Memory briefly holds all incoming sensory information for less than a second. Sperling&amp;rsquo;s partial report experiments demonstrated that while sensory memory has a large capacity, the information fades rapidly.&lt;/p&gt;&#xA;&lt;p&gt;Information attended to moves into Short-Term Memory (STM), a store with a limited duration and capacity. Without rehearsal, information in STM lasts only about 15-20 seconds. While traditionally thought to hold &amp;ldquo;seven plus or minus two&amp;rdquo; items, modern change detection studies suggest the capacity is closer to four items. This capacity is also affected by information complexity, not just item count. However, capacity can be expanded by chunking—grouping small units into larger, meaningful ones. The concept of STM was refined into Working Memory (WM), which is not just a passive store, but an active system for manipulating information for complex tasks. This multi-component model includes the Phonological Loop for verbal and auditory information and the Visuospatial Sketch Pad for visual and spatial information. These &amp;ldquo;slave systems&amp;rdquo; are coordinated by the Central Executive, which directs attention.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 4: Introduction to Hypothesis Testing</title>
+      <link>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</link>
+      <pubDate>Tue, 28 Oct 2025 16:16:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 2: Working with Data</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</link>
+      <pubDate>Mon, 27 Oct 2025 16:49:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture covers the fundamental aspects of working with quantitative data in research. It begins by exploring Data Theory, defining data not just as raw facts or numbers but as information collected for examination. Data isn&amp;rsquo;t merely &amp;ldquo;given&amp;rdquo; (datum) but actively &amp;ldquo;taken&amp;rdquo; (capta), shaped by the ideas, technologies, and contexts involved in its production. This Non-Neutrality Principle highlights that data are socio-technical constructs, never truly raw or objective.&lt;/p&gt;&#xA;&lt;p&gt;Data can be classified in various ways: discrete (countable) vs. continuous (measurable); small vs. big data (characterized by Volume, Velocity, Variety); structured, semi-structured, or unstructured. Data originates from different sources (captured, exhaust, derived) and can be primary (collected by the researcher) or secondary (collected by others). The DIKW framework illustrates the progression from raw Data to Information (organized), Knowledge (understood patterns), and Wisdom (applied understanding).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 4: Attention</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-2025-10-22/</link>
+      <pubDate>Wed, 22 Oct 2025 16:02:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-4/cp-2025-10-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture defines attention as the mind taking possession of one object or train of thought, implying a withdrawal from some things to deal effectively with others. This process manifests as selective attention (focusing), divided attention (multitasking), and attentional capture. Early models sought to explain when selection occurs. Broadbent&amp;rsquo;s filter model proposed an early filter based on physical characteristics, blocking unattended information. However, this was challenged by the &amp;ldquo;cocktail party effect&amp;rdquo; (hearing one&amp;rsquo;s name) and findings that meaning could be processed from an unattended ear. Treisman’s attenuation model modified this, suggesting the unattended message is weakened, not blocked, allowing salient information (like one&amp;rsquo;s name) to pass. In contrast, late selection models proposed that all stimuli are processed for meaning before selection. The Load Theory of Attention addresses how we ignore distractions, positing that this depends on the task&amp;rsquo;s perceptual load. Low-load (easy) tasks leave spare processing capacity that &amp;ldquo;spills over&amp;rdquo; to process distractors, making distraction more likely. High-load (hard) tasks consume all resources, leaving none to process distractors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 3: Basics of Inferential Statistics</title>
+      <link>http://localhost:1313/posts/statistics/lecture-3/stat-2025-10-21/</link>
+      <pubDate>Tue, 21 Oct 2025 15:55:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-3/stat-2025-10-21/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces inferential statistics, the procedures used for drawing conclusions that extend beyond the specific scores collected in a study. It establishes the fundamental distinction between a population (the entire group of interest) and a sample (the particular group of people studied). Research involves studying a sample and using its sample statistics (like the mean, M, and standard deviation, SD) to make inferences about the unknown population parameters (like μ and σ) . A central tool for this is the normal curve, which is a specific, mathematically defined, bell-shaped, symmetrical, and unimodal frequency distribution. Its importance is highlighted by the Central Limit Theorem (CLT). The CLT states that as sample size increases, the distribution of sample means will approach a normal distribution, regardless of the original population&amp;rsquo;s shape.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 1: Introduction to Quantitative Research Methods</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</link>
+      <pubDate>Mon, 20 Oct 2025 16:08:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality. A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LECTURE 3: Perception</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-3/cp-2025-10-15/</link>
       <pubDate>Wed, 15 Oct 2025 17:02:14 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-3/cp-2025-10-15/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-3/cp-2025-10-15/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Perception is the complex process of organizing and interpreting sensory information to understand the environment, going beyond simple sensation, which is the initial neural response to physical energy. This interpretive process is challenging because the sensory information received by our receptors is often ambiguous. For instance, a single two-dimensional image on the retina could correspond to numerous three-dimensional objects in the world. Furthermore, objects can be partially hidden, blurred, or viewed from various angles, yet we can typically still identify them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 2: Central Tendency and Variability</title>
-      <link>http://localhost:1313/posts/statistics/week-2/stat-2025-10-14/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-2/stat-2025-10-14/</link>
       <pubDate>Tue, 14 Oct 2025 14:49:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/week-2/stat-2025-10-14/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-2/stat-2025-10-14/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Descriptive statistics provide a way to quantify and describe the basic characteristics of a data set. A fundamental aspect of this is identifying a single, representative value that best summarises the entire group of scores. This concept is known as central tendency, and it is measured in three primary ways: the mean, the median, and the mode.&lt;/p&gt;&#xA;&lt;p&gt;The mean represents the arithmetic average of all scores, calculated by summing the scores and dividing by the total number of scores. It acts as the mathematical balance point of the distribution but can be significantly influenced by extreme scores, or outliers. The mode is simply the most frequently occurring value in a data set. It is particularly useful for describing nominal variables. The median is the middle value when all scores are arranged in ascending order. Unlike the mean, the median is not affected by outliers, making it a more robust measure of central tendency for distributions that are skewed or contain extreme values. In a perfectly symmetrical, unimodal distribution, the mean, median, and mode will all be the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 2: Cognitive Neuroscience</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-2/cp-2025-10-08/</link>
       <pubDate>Wed, 08 Oct 2025 14:34:45 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-2/cp-2025-10-08/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-2/cp-2025-10-08/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The study of cognitive neuroscience begins with the brain&amp;rsquo;s fundamental unit, the neuron. Early theories imagined a continuous &amp;ldquo;nerve net,&amp;rdquo; but it was discovered that the nervous system is composed of individual cells. These neurons, with their distinct cell bodies, dendrites, and axons, transmit signals throughout the body. Communication between neurons occurs at the synapse, where an electrical impulse, or action potential, causes the release of chemical neurotransmitters that excite or inhibit the next neuron.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
-      <link>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-1/stat-2025-10-07/</link>
       <pubDate>Tue, 07 Oct 2025 14:21:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/week-1/stat-2025-10-07/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-1/stat-2025-10-07/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistics is a branch of mathematics focused on organizing, analyzing, and interpreting numerical data, primarily divided into two main areas. Descriptive statistics are used to summarize and make sense of a group of scores, while inferential statistics allow for drawing broader conclusions from the data collected in a study. Understanding statistics is crucial for conducting effective research, comprehending scientific literature, and developing critical thinking skills.&lt;/p&gt;&#xA;&lt;p&gt;The foundation of statistical analysis begins with data, which are observations or measurements. A characteristic that can have different values is known as a variable, and a specific person&amp;rsquo;s value on that variable is a score. These variables can be measured on different scales, or levels of measurement. Nominal variables use categories or names, such as gender or ethnicity. Ordinal variables represent a rank order, like competition placements. Interval variables have equal intervals between values but lack a true zero, such as temperature in Celsius. Ratio variables possess all the properties of interval scales plus a true zero point, including measures like age, height, and income.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Introduction to Cognitive Psychology</title>
-      <link>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</link>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-1/cp-2025-10-01/</link>
       <pubDate>Wed, 01 Oct 2025 14:01:47 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/week-1/cp-2025-10-01/</guid>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-1/cp-2025-10-01/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychology is the scientific study of mental processes, viewing the mind as a system that creates representations of the world to control functions like perception, attention, memory, and reasoning. The field&amp;rsquo;s roots are in philosophy, with thinkers like René Descartes proposing mind-body dualism and John Locke suggesting the mind is a &amp;ldquo;tabula rasa,&amp;rdquo; shaped by experience.&lt;/p&gt;&#xA;&lt;p&gt;The scientific study began with Wilhelm Wundt&amp;rsquo;s structuralism, which aimed to identify the basic elements of consciousness through analytic introspection. This was followed by William James&amp;rsquo;s functionalism, which focused on how the mind helps individuals adapt to their environment. Gestalt psychology, founded by Max Wertheimer, shifted focus to how the mind organizes perceptions into meaningful wholes, asserting that the whole is more than the sum of its parts. However, the rise of behaviorism, championed by John B. Watson and B. F. Skinner, led to a period where psychology abandoned the study of the mind in favor of observable stimulus-response behaviors, analyzed through classical and operant conditioning.&lt;/p&gt;</description>
     </item>
     <item>

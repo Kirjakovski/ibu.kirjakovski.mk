@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Quantitative Research Methods on Prof. Kirjakovski IBU Blog</title>
+    <link>http://localhost:1313/categories/advanced-quantitative-research-methods/</link>
+    <description>Recent content in Advanced Quantitative Research Methods on Prof. Kirjakovski IBU Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Oct 2025 16:08:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/advanced-quantitative-research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 1: Introduction to Quantitative Research Methods</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</link>
+      <pubDate>Mon, 20 Oct 2025 16:08:36 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality.&lt;/p&gt;&#xA;&lt;p&gt;A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

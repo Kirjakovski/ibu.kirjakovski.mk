@@ -26,5 +26,6 @@ pygmentsUseClasses = true
   headTitle = "Prof. Kirjakovski IBU Blog"
   disqus = "Kirjakovski" # disqus account name
   deadline = ""
+  math = true
 #  name = "profKirjakovski"
 #  homepage = "https://twitter.com/profKirjakovski"
