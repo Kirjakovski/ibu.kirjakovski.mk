@@ -6,14 +6,28 @@
     <description>Recent content in Advanced Quantitative Research Methods on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 16:08:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 16:49:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/advanced-quantitative-research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 3: Descriptive Statistics</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-3/aqrm-2025-11-03/</link>
+      <pubDate>Mon, 03 Nov 2025 16:49:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-3/aqrm-2025-11-03/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture begins by establishing the fundamental concepts of &lt;strong&gt;populations&lt;/strong&gt; versus &lt;strong&gt;samples&lt;/strong&gt;, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.&lt;/p&gt;&#xA;&lt;p&gt;Following this, the focus shifts to &lt;strong&gt;descriptive statistics&lt;/strong&gt;, starting with measures of &lt;strong&gt;central tendency&lt;/strong&gt;—single values that represent the center of a dataset. The three primary measures are explored: the &lt;strong&gt;mean&lt;/strong&gt;, or arithmetic average, which is widely used but sensitive to outliers; the &lt;strong&gt;mode&lt;/strong&gt;, the most frequently occurring value, ideal for nominal (categorical) data; and the &lt;strong&gt;median&lt;/strong&gt;, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 2: Working with Data</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</link>
+      <pubDate>Mon, 27 Oct 2025 16:49:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture covers the fundamental aspects of working with quantitative data in research. It begins by exploring Data Theory, defining data not just as raw facts or numbers but as information collected for examination. Data isn&amp;rsquo;t merely &amp;ldquo;given&amp;rdquo; (datum) but actively &amp;ldquo;taken&amp;rdquo; (capta), shaped by the ideas, technologies, and contexts involved in its production. This Non-Neutrality Principle highlights that data are socio-technical constructs, never truly raw or objective.&lt;/p&gt;&#xA;&lt;p&gt;Data can be classified in various ways: discrete (countable) vs. continuous (measurable); small vs. big data (characterized by Volume, Velocity, Variety); structured, semi-structured, or unstructured. Data originates from different sources (captured, exhaust, derived) and can be primary (collected by the researcher) or secondary (collected by others). The DIKW framework illustrates the progression from raw Data to Information (organized), Knowledge (understood patterns), and Wisdom (applied understanding).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 1: Introduction to Quantitative Research Methods</title>
       <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</link>
       <pubDate>Mon, 20 Oct 2025 16:08:36 +0200</pubDate>
       <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality.&lt;/p&gt;&#xA;&lt;p&gt;A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality. A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

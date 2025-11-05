@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 16:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 21:29:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 5: Hypothesis Test with Means of Samples</title>
+      <link>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</link>
+      <pubDate>Tue, 04 Nov 2025 21:29:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture provides a review of Z-scores and the foundational five-step hypothesis-testing process. It then transitions from testing a single individual to testing a sample with multiple individuals ($N&amp;gt;1$). This shift requires a new comparison distribution: the &lt;strong&gt;distribution of means&lt;/strong&gt;, also known as the sampling distribution of the mean.&lt;/p&gt;&#xA;&lt;p&gt;The lecture details the three key characteristics of this distribution, which are defined by the &lt;strong&gt;Central Limit Theorem&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mean:&lt;/strong&gt; The mean of the distribution of means ($\mu_M$) is identical to the mean of the population of individuals ($\mu$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variance:&lt;/strong&gt; The distribution is less spread out. Its variance ($\sigma_M^2$) is the population variance ($\sigma^2$) divided by the sample size ($N$). Its standard deviation, $\sigma_M = \sigma / \sqrt{N}$, is called the &lt;strong&gt;standard error of the mean (SEM)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shape:&lt;/strong&gt; The distribution of means will be approximately normal if the population is normal, or if the sample size is 30 or more, regardless of the original population&amp;rsquo;s shape.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This framework allows for the &lt;strong&gt;Z-test&lt;/strong&gt;, a procedure used when the population variance is known. The formula adapts the Z-score to compare a sample mean ($M$) to the population mean: $Z = (M - \mu_M) / \sigma_M$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 5: Memory</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</link>
+      <pubDate>Wed, 29 Oct 2025 16:42:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Memory is the process of retaining, retrieving, and using information after the original stimulus is gone. The classic Modal Model of Memory breaks this process into three structural stages. First, Sensory Memory briefly holds all incoming sensory information for less than a second. Sperling&amp;rsquo;s partial report experiments demonstrated that while sensory memory has a large capacity, the information fades rapidly.&lt;/p&gt;&#xA;&lt;p&gt;Information attended to moves into Short-Term Memory (STM), a store with a limited duration and capacity. Without rehearsal, information in STM lasts only about 15-20 seconds. While traditionally thought to hold &amp;ldquo;seven plus or minus two&amp;rdquo; items, modern change detection studies suggest the capacity is closer to four items. This capacity is also affected by information complexity, not just item count. However, capacity can be expanded by chunking—grouping small units into larger, meaningful ones. The concept of STM was refined into Working Memory (WM), which is not just a passive store, but an active system for manipulating information for complex tasks. This multi-component model includes the Phonological Loop for verbal and auditory information and the Visuospatial Sketch Pad for visual and spatial information. These &amp;ldquo;slave systems&amp;rdquo; are coordinated by the Central Executive, which directs attention.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Introduction to Hypothesis Testing</title>
       <link>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</link>
       <pubDate>Tue, 28 Oct 2025 16:16:18 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces &lt;strong&gt;hypothesis testing&lt;/strong&gt;, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known &lt;strong&gt;sample statistics&lt;/strong&gt; (like the sample mean, $M$) to make inferences about unknown &lt;strong&gt;population parameters&lt;/strong&gt; (like the population mean, $\mu$). This logic is grounded in the properties of the &lt;strong&gt;normal curve&lt;/strong&gt;, a symmetrical, bell-shaped distribution where a &lt;strong&gt;Z score&lt;/strong&gt; indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 2: Working with Data</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</link>
+      <pubDate>Mon, 27 Oct 2025 16:49:12 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture covers the fundamental aspects of working with quantitative data in research. It begins by exploring Data Theory, defining data not just as raw facts or numbers but as information collected for examination. Data isn&amp;rsquo;t merely &amp;ldquo;given&amp;rdquo; (datum) but actively &amp;ldquo;taken&amp;rdquo; (capta), shaped by the ideas, technologies, and contexts involved in its production. This Non-Neutrality Principle highlights that data are socio-technical constructs, never truly raw or objective.&lt;/p&gt;&#xA;&lt;p&gt;Data can be classified in various ways: discrete (countable) vs. continuous (measurable); small vs. big data (characterized by Volume, Velocity, Variety); structured, semi-structured, or unstructured. Data originates from different sources (captured, exhaust, derived) and can be primary (collected by the researcher) or secondary (collected by others). The DIKW framework illustrates the progression from raw Data to Information (organized), Knowledge (understood patterns), and Wisdom (applied understanding).&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 4: Attention</title>
@@ -34,7 +55,7 @@
       <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</link>
       <pubDate>Mon, 20 Oct 2025 16:08:36 +0200</pubDate>
       <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality.&lt;/p&gt;&#xA;&lt;p&gt;A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality. A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 3: Perception</title>

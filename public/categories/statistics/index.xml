@@ -6,14 +6,21 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 16:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 21:29:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 5: Hypothesis Test with Means of Samples</title>
+      <link>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</link>
+      <pubDate>Tue, 04 Nov 2025 21:29:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture provides a review of Z-scores and the foundational five-step hypothesis-testing process. It then transitions from testing a single individual to testing a sample with multiple individuals ($N&amp;gt;1$). This shift requires a new comparison distribution: the &lt;strong&gt;distribution of means&lt;/strong&gt;, also known as the sampling distribution of the mean.&lt;/p&gt;&#xA;&lt;p&gt;The lecture details the three key characteristics of this distribution, which are defined by the &lt;strong&gt;Central Limit Theorem&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mean:&lt;/strong&gt; The mean of the distribution of means ($\mu_M$) is identical to the mean of the population of individuals ($\mu$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variance:&lt;/strong&gt; The distribution is less spread out. Its variance ($\sigma_M^2$) is the population variance ($\sigma^2$) divided by the sample size ($N$). Its standard deviation, $\sigma_M = \sigma / \sqrt{N}$, is called the &lt;strong&gt;standard error of the mean (SEM)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shape:&lt;/strong&gt; The distribution of means will be approximately normal if the population is normal, or if the sample size is 30 or more, regardless of the original population&amp;rsquo;s shape.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This framework allows for the &lt;strong&gt;Z-test&lt;/strong&gt;, a procedure used when the population variance is known. The formula adapts the Z-score to compare a sample mean ($M$) to the population mean: $Z = (M - \mu_M) / \sigma_M$.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Introduction to Hypothesis Testing</title>
       <link>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</link>
       <pubDate>Tue, 28 Oct 2025 16:16:18 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces &lt;strong&gt;hypothesis testing&lt;/strong&gt;, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known &lt;strong&gt;sample statistics&lt;/strong&gt; (like the sample mean, $M$) to make inferences about unknown &lt;strong&gt;population parameters&lt;/strong&gt; (like the population mean, $\mu$). This logic is grounded in the properties of the &lt;strong&gt;normal curve&lt;/strong&gt;, a symmetrical, bell-shaped distribution where a &lt;strong&gt;Z score&lt;/strong&gt; indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 3: Basics of Inferential Statistics</title>

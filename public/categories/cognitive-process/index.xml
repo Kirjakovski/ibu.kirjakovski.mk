@@ -6,8 +6,22 @@
     <description>Recent content in Cognitive Process on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 16:02:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 16:42:04 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cognitive-process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 6: Conceptual Knowledge</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-6/cp-2025-11-05/</link>
+      <pubDate>Wed, 05 Nov 2025 16:42:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-6/cp-2025-11-05/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture examines conceptual knowledge, the system that enables people to recognize objects and make inferences about their properties. This knowledge is organized into concepts (mental representations, like &amp;ldquo;cat&amp;rdquo;) and categories (groups of objects, like &amp;ldquo;furniture&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Early attempts to categorize using rigid definitions (the definitional approach) were found to be inadequate, as many category members (like different types of chairs) do not meet all criteria. This led to the &lt;strong&gt;Prototype Approach&lt;/strong&gt;, which posits that categories are formed around a single &amp;ldquo;average&amp;rdquo; member, or prototype. New items are judged based on their &amp;ldquo;typicality,&amp;rdquo; or resemblance to this prototype. This explains the &amp;ldquo;typicality effect,&amp;rdquo; where highly typical objects (like &amp;ldquo;sparrow&amp;rdquo; for &amp;ldquo;bird&amp;rdquo;) are verified more rapidly than atypical ones (like &amp;ldquo;penguin&amp;rdquo;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 5: Memory</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</link>
+      <pubDate>Wed, 29 Oct 2025 16:42:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-5/cp-2025-10-29/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Memory is the process of retaining, retrieving, and using information after the original stimulus is gone. The classic Modal Model of Memory breaks this process into three structural stages. First, Sensory Memory briefly holds all incoming sensory information for less than a second. Sperling&amp;rsquo;s partial report experiments demonstrated that while sensory memory has a large capacity, the information fades rapidly.&lt;/p&gt;&#xA;&lt;p&gt;Information attended to moves into Short-Term Memory (STM), a store with a limited duration and capacity. Without rehearsal, information in STM lasts only about 15-20 seconds. While traditionally thought to hold &amp;ldquo;seven plus or minus two&amp;rdquo; items, modern change detection studies suggest the capacity is closer to four items. This capacity is also affected by information complexity, not just item count. However, capacity can be expanded by chunking—grouping small units into larger, meaningful ones. The concept of STM was refined into Working Memory (WM), which is not just a passive store, but an active system for manipulating information for complex tasks. This multi-component model includes the Phonological Loop for verbal and auditory information and the Visuospatial Sketch Pad for visual and spatial information. These &amp;ldquo;slave systems&amp;rdquo; are coordinated by the Central Executive, which directs attention.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Attention</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-4/cp-2025-10-22/</link>
