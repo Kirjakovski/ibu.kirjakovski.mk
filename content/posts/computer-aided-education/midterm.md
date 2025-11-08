@@ -18,4 +18,4 @@ Send your PowerPoint project that has to include at least the following:
 
 #### Reading materials:
 
-	* Designing Computer-Based Learning Material.  ({{< a_blank title="DOWNLOAD PDF" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=Evtl5o" >}})
+Designing Computer-Based Learning Material.  ({{< a_blank title="DOWNLOAD PDF" url="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/Ebw6bkjN3TJOg5fCR3Mr7PQBteAScK2-OuTMT83_qQT7mA?e=Evtl5o" >}})
