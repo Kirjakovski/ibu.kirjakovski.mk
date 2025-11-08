@@ -6,112 +6,14 @@
     <description>Recent content in Computer Aided Education on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 May 2025 14:20:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 22:28:01 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/computer-aided-education/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MAKEUP: Computer Aided Education</title>
-      <link>http://localhost:1313/posts/computer-aided-education/makeup/cae-makeup/</link>
-      <pubDate>Mon, 26 May 2025 14:20:53 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/makeup/cae-makeup/</guid>
-      <description>&lt;h2 id=&#34;final-exam-information&#34;&gt;Final exam information:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Date: 30 May 2025 (Friday)&lt;/li&gt;&#xA;&lt;li&gt;Time: Submission before 15:15&lt;/li&gt;&#xA;&lt;li&gt;Place: Online submission (we will not hold presentations)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;midterm-project-upload&#34;&gt;Midterm Project Upload:&lt;/h2&gt;&#xA;&lt;p&gt;You can access and submit your midterm project at the following &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UN1FRTzlBUVBUOUQzN1VNQkNKUlNITlAwQi4u&#34; target=&#34;_blank&#34;&gt;LINK&lt;/a&gt;. &lt;strong&gt;The deadline for submission is 30 May, 15:15.&lt;/strong&gt; Once the deadline has passed, the system will no longer accept any additional submissions. The allowed maximum file size is 100 Mb.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;IMPORTANT: For Computer Aided Education course, you MUST use your university issued email address (@ibu.edu.mk).&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FINAL: Computer Aided Education</title>
-      <link>http://localhost:1313/posts/computer-aided-education/final/cae-final/</link>
-      <pubDate>Sat, 17 May 2025 21:53:46 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/final/cae-final/</guid>
-      <description>&lt;h2 id=&#34;final-exam-information&#34;&gt;Final exam information:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Date: 23 May 2025 (Friday)&lt;/li&gt;&#xA;&lt;li&gt;Time: Submission before 15:15&lt;/li&gt;&#xA;&lt;li&gt;Place: Online submission (we will not hold presentations)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;midterm-project-upload&#34;&gt;Midterm Project Upload:&lt;/h2&gt;&#xA;&lt;p&gt;You can access and submit your midterm project at the following &lt;a href=&#34;https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9URUhSTjcyODhZNkFDTkc1NE4xSkY3STRCQy4u&#34; target=&#34;_blank&#34;&gt;LINK&lt;/a&gt;. &lt;strong&gt;The deadline for submission is 23 May, 15:15.&lt;/strong&gt; Once the deadline has passed, the system will no longer accept any additional submissions. The allowed maximum file size is 100 Mb.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;u class=&#34;text-underline&#34;&gt;IMPORTANT: For Computer Aided Education course, you MUST use your university issued email address (@ibu.edu.mk).&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 12: Content</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-12/week-12-cae-post/</link>
-      <pubDate>Sat, 17 May 2025 20:19:54 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-12/week-12-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;In the design of computer-aided learning materials, the emphasis often falls on presentation, interaction, and technology, while the actual content can be overlooked. Yet, from a learner’s perspective, the content is central to the educational experience. Overlooking this leads to visually appealing but ultimately empty educational packages. Effective development of computer-based materials requires systematic content gathering, ideally by a subject matter expert who can ensure that essential information and valuable new ideas are included.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 11: Screen Layout</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</link>
-      <pubDate>Thu, 08 May 2025 17:18:35 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-11/week-11-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture examined fundamental screen elements and their organization. The design of computer-based learning often draws upon three primary metaphors: frames, which denote single, sequential displays typical in computer-based training; cards, a concept from early hypertext systems linking discrete units of information; and pages, a metaphor that gained prominence with the World Wide Web, facilitating material viewing through a standardized browser interface.&lt;/p&gt;&#xA;&lt;p&gt;Effective screen design considers how users naturally process visual information. Typically, attention moves from the top-left corner clockwise, a pattern that designers can utilize or intentionally disrupt with elements like color or multimedia. Achieving a balanced display is paramount, fostering clarity and predictability through the consistent application of visual tools such as color and graphics. The organization of content through grouping significantly aids perception and retention. Objects are perceived as grouped if they are close, share similar visual characteristics, intersect, or are enclosed by borders.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 10: Online Learning</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-10/week-10-cae-post/</link>
-      <pubDate>Thu, 08 May 2025 12:04:59 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-10/week-10-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;Online learning materials encompass diverse formats. Designers must ensure cross-browser compatibility and consider varying user access speeds and preferences for on-screen or printed content. The choice of delivery platform—internet, intranet, or standalone—profoundly affects administration, update processes, accessibility, content possibilities, and speed. Internet sites allow easy updates and wide access but can be constrained by bandwidth for multimedia, potentially slowing navigation. Standalone applications support rich multimedia and fast interaction but involve higher costs and complexity for version control. Intranets often provide a balanced approach.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 9: Multimedia</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-9/week-9-cae-post/</link>
-      <pubDate>Tue, 29 Apr 2025 12:35:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-9/week-9-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;Multimedia in computer-aided education engages multiple senses—sight, hearing, touch, taste, and smell—to enhance learning effectiveness. Defined as a combination of at least three elements such as video, sound, graphics, text, animation, and photographs, multimedia enriches educational experiences.&lt;/p&gt;&#xA;&lt;p&gt;Hypermedia extends this concept by enabling navigation through linked multimedia elements, supporting clear learning goals while requiring careful design to avoid learner confusion. Video is pervasive and motivating but demands interactive use and careful consideration due to high production costs and technical constraints; it excels in demonstrating actions, interactions, and processes. Still images, though less costly and easier to produce, have limited capacity to show motion but can effectively illustrate detailed content and support engagement when combined with narration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 8: Graphics</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</link>
-      <pubDate>Sat, 19 Apr 2025 14:46:02 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-8/week-8-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture on Graphics emphasized the critical role of illustrations in enhancing learning and retention. It highlighted that images can convey complex information efficiently, especially given the limitations of computer screens compared to printed text. Various types of illustrations were discussed: representational (realistic images like photographs), analogical (images that draw comparisons to aid understanding), and logical (abstract representations such as charts and graphs). Each type serves distinct educational purposes, from motivating learners and contextualizing content to presenting large volumes of data for analysis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MIDTERM: Computer Aided Education</title>
-      <link>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</link>
-      <pubDate>Mon, 07 Apr 2025 10:28:34 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/midterm/cae-midterm/</guid>
-      <description>&lt;h2 id=&#34;midterm-project-content&#34;&gt;Midterm Project Content:&lt;/h2&gt;&#xA;&lt;p&gt;LECTURE 1: Introduction to Computer Aided Education &lt;br&gt;&#xA;LECTURE 2: Computers, Interactions, and Learning &lt;br&gt;&#xA;LECTURE 3: Communication Styles &lt;br&gt;&#xA;LECTURE 4: Types of Computer-Based Material &lt;br&gt;&#xA;LECTURE 5: Assessment Methods &lt;br&gt;&#xA;LECTURE 6: Text &lt;br&gt;&#xA;LECTURE 7: Color&lt;/p&gt;&#xA;&lt;h2 id=&#34;midterm-project-upload&#34;&gt;Midterm Project Upload:&lt;/h2&gt;&#xA;&lt;p&gt;You can access and submit your midterm project at the following &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=_FqJ5k4h7EOVfcOhjK4agRQtemblazZMjLRNMzJCeQ9UMzlLQVZMNFM0OFZEVzBIV0tIRlVLMVVSRy4u&#34; target=&#34;_blank&#34;&gt;LINK&lt;/a&gt;. &lt;strong&gt;The deadline for submission is 11 April, 15:15.&lt;/strong&gt; Once the deadline has passed, the system will no longer accept any additional submissions. The allowed maximum file size is 100 Mb.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 7: Color</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-7/week-7-cae-post/</link>
-      <pubDate>Mon, 07 Apr 2025 09:29:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-7/week-7-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture focused on the role of color in computer-aided education, emphasizing its impact on user engagement, comprehension, and interface design. Color is defined through three variables: hue, saturation, and intensity. Computers use the RGB model to generate colors, and effective use of color can attract attention, reinforce key points, and organize information.&lt;/p&gt;&#xA;&lt;p&gt;Color must be applied systematically to support learning objectives. Random or excessive use can distract or confuse learners. Consistency in color usage helps users develop a visual code, improving navigation and understanding. Designers are advised to limit the number of colors, maintain high contrast for readability, and consider color blindness by testing interfaces in monochrome. Cultural differences influence color perception, making audience testing essential. Specific colors carry common associations—red for danger, green for calm—but these meanings vary. Highlighting with color, especially when combined with graphics or layout elements, enhances clarity and focus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 6: Text</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-6/week-6-cae-post/</link>
-      <pubDate>Mon, 31 Mar 2025 14:50:32 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-6/week-6-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture emphasizes the significance of text in computer-based learning, despite the rise of multimedia. Text remains a powerful communication tool, though presenting it on screens differs from traditional print due to lower resolution and landscape orientation. Reading on screens is slower and less comfortable than on paper, necessitating careful design of digital text.&lt;/p&gt;&#xA;&lt;p&gt;Effective computer-based learning materials should include clear headings, subheadings, and navigation clues, guiding learners through the content. Instructions should outline learning objectives and provide study guidance. An informal, friendly communication style is recommended, using plain language and avoiding jargon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 5: Assessment Methods</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-5/week-5-cae-post/</link>
-      <pubDate>Mon, 31 Mar 2025 13:21:19 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-5/week-5-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;Computer-aided education (CAE) employs digital tools for assessment, providing objective, cost-effective alternatives to traditional methods. Assessments in CAE serve not only to measure learning but also to reinforce knowledge and encourage self-reflection.&lt;/p&gt;&#xA;&lt;p&gt;Pre-tests help customize learning by identifying prior knowledge and learning styles, while post-tests evaluate progress and suggest remedial actions. Adaptive testing adjusts difficulty based on responses, tailoring the experience to individual learners. Feedback is crucial, offering explanations, praise, and corrective guidance to enhance understanding.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 4: Types of Computer-Based Material</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-4/week-4-cae-post/</link>
-      <pubDate>Tue, 18 Mar 2025 11:02:56 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-4/week-4-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture focused on various types of computer-based learning materials. It highlighted the diversity of these materials, which depend on the design strategy, medium, and delivery approach. Key types include computer-based training (CBT), computer-managed learning (CML), integrated learning systems (ILS), intelligent tutoring systems (ITS), electronic performance support systems (EPSS), and computer-aided assessment (CAA).&lt;/p&gt;&#xA;&lt;p&gt;CBT is characterized by a tutorial approach, presenting content through frames of text and graphics, with learner responses guiding the progression. CML involves managing learning activities, assessments, and administration, with different perspectives for tutors, students, administrators, and technicians. ILS combines extensive learning materials with a management system to tailor content to individual learners&amp;rsquo; abilities.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 3: Communication Styles</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-3/week-3-cae-post/</link>
-      <pubDate>Sun, 09 Mar 2025 17:28:49 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-3/week-3-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;The lecture focused on the role of Graphical User Interfaces (GUIs) in modern computing, emphasizing their visual interaction through windows, icons, and menus. It highlighted the importance of informing learners about the nature of their educational experience and outlined key components for building effective computer learning materials, such as introductions, study time advice, and context-sensitive help.&lt;/p&gt;&#xA;&lt;p&gt;The lecture compared computer-based learning (CBL) with traditional educational approaches, noting that CBL offers individualized instruction and flexible learning environments, unlike the one-to-many communication in traditional settings. CBL allows for one-to-one communication and varied media use, providing a more interactive and personalized learning experience. It also reduces costs as the number of students increases, unlike traditional methods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 2: Computers, Interactions, and Learning</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-2/week-2-cae-post/</link>
-      <pubDate>Sun, 09 Mar 2025 16:50:01 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-2/week-2-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;A computer is a programmable device capable of storing, retrieving, and processing data based on instructions. Its key components include storage devices like RAM and hard disks, and the CPU, which controls other parts of the computer. Learning is defined as acquiring knowledge or skills through experience, study, or teaching, resulting in relatively permanent changes. Various learning approaches include the behavioral, cognitive, and constructivist methods, each emphasizing different aspects of the learning process.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 1: Introduction to Computer Aided Education</title>
-      <link>http://localhost:1313/posts/computer-aided-education/week-1/week-1-cae-post/</link>
-      <pubDate>Sun, 09 Mar 2025 16:49:25 +0200</pubDate>
-      <guid>http://localhost:1313/posts/computer-aided-education/week-1/week-1-cae-post/</guid>
-      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture summary:&lt;/h2&gt;&#xA;&lt;p&gt;Computer Aided Education introductory lecture explored the integration of computers into the educational process. The lecture began by defining key terms: computer, aided, and education. It then posed critical questions about the role of computers in enhancing learning, their potential to increase student interest, and whether they could replace teachers. The discussion also considered the future importance of digital literacy compared to traditional literacy.&lt;/p&gt;&#xA;&lt;p&gt;The lecture covered various aspects of computer-aided education, including interaction and learning, communication styles, and types of computer-based learning materials. It looked into assessment methods and the use of text, color, graphics, multimedia, online learning, and networking. Content and layout design were emphasized, along with using computers for research.&lt;/p&gt;</description>
+      <title>Computer Aided Education Midterm</title>
+      <link>http://localhost:1313/posts/computer-aided-education/midterm/</link>
+      <pubDate>Sat, 08 Nov 2025 22:28:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/computer-aided-education/midterm/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;&#xA;&lt;h4 id=&#34;reading-materials&#34;&gt;Reading materials:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h5 id=&#34;mandatory&#34;&gt;Mandatory:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Introduction to Cognitive Psychology (Chapter 1)&lt;/strong&gt; from Goldstein, E. B. (2019). &lt;em&gt;Cognitive psychology: Connecting mind, research, and everyday experience&lt;/em&gt; (5th ed.). Cengage Learning.  (&lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EYG80CtYuvpMijLNa6OTey4BNzVZp0ViA7qmN0Bn2vc5lQ?e=gCJKR8&#34; target=&#34;_blank&#34;&gt;DOWNLOAD PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h5 id=&#34;supplementary&#34;&gt;Supplementary:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Introduction to Cognitive Psychology (Chapter 1)&lt;/strong&gt; from Sternberg, R. J., &amp;amp; Sternberg, K. (2017). &lt;em&gt;Cognitive psychology&lt;/em&gt; (7th ed.). Cengage Learning. (Supplementary; &lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/ERiMyzJ-LotFqEk0Z-J7C8YBIwg23mStYdZ3aR-mc7FLPw?e=sFeRKs&#34; target=&#34;_blank&#34;&gt;DOWNLOAD PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
