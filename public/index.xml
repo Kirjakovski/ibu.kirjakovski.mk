@@ -6,8 +6,15 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 6: Statistical Significance, Decision Errors, Effect Size, and Power</title>
+      <link>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</link>
+      <pubDate>Tue, 18 Nov 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture builds upon the fundamentals of hypothesis testing to explore the critical concepts of decision errors, effect size, and statistical power. While standard hypothesis testing determines whether a sample outcome is unlikely under the null hypothesis, this binary decision-making process is prone to error. A Type I error (α) involves rejecting the null hypothesis when it is actually true—essentially a false positive. A Type II error (β) occurs when one fails to reject a false null hypothesis, resulting in a false negative.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Concepts of Probability</title>
       <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-17/</link>

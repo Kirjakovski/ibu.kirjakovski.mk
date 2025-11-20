@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Nov 2025 22:28:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 16:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Quantitative Research Methods</title>
+      <link>http://localhost:1313/categories/advanced-quantitative-research-methods/</link>
+      <pubDate>Mon, 17 Nov 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/categories/advanced-quantitative-research-methods/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computer Aided Education</title>
       <link>http://localhost:1313/categories/computer-aided-education/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/categories/statistics/</link>
       <pubDate>Tue, 04 Nov 2025 21:29:54 +0200</pubDate>
       <guid>http://localhost:1313/categories/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Advanced Quantitative Research Methods</title>
-      <link>http://localhost:1313/categories/advanced-quantitative-research-methods/</link>
-      <pubDate>Mon, 03 Nov 2025 16:49:12 +0200</pubDate>
-      <guid>http://localhost:1313/categories/advanced-quantitative-research-methods/</guid>
       <description></description>
     </item>
     <item>
