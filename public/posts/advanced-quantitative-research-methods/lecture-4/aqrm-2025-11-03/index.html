@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.152.2">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-03/" />
+  <link rel="canonical" href="http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-03/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 3: Descriptive Statistics",
+      "headline" : "LECTURE 3: Descriptive Statistics",
+      "description" : "\u003ch4 id=\u0022summary\u0022\u003eSummary:\u003c\/h4\u003e\n\u003cp\u003eThis lecture begins by establishing the fundamental concepts of \u003cstrong\u003epopulations\u003c\/strong\u003e versus \u003cstrong\u003esamples\u003c\/strong\u003e, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.\u003c\/p\u003e\n\u003cp\u003eFollowing this, the focus shifts to \u003cstrong\u003edescriptive statistics\u003c\/strong\u003e, starting with measures of \u003cstrong\u003ecentral tendency\u003c\/strong\u003e—single values that represent the center of a dataset. The three primary measures are explored: the \u003cstrong\u003emean\u003c\/strong\u003e, or arithmetic average, which is widely used but sensitive to outliers; the \u003cstrong\u003emode\u003c\/strong\u003e, the most frequently occurring value, ideal for nominal (categorical) data; and the \u003cstrong\u003emedian\u003c\/strong\u003e, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2025",
+      "datePublished": "2025-11-03 16:49:12 \u002b0200 \u002b0200",
+      "dateModified" : "2025-11-03 16:49:12 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/advanced-quantitative-research-methods\/lecture-4\/aqrm-2025-11-03\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 3: Descriptive Statistics - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 3: Descriptive Statistics - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Summary:
+This lecture begins by establishing the fundamental concepts of populations versus samples, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.
+Following this, the focus shifts to descriptive statistics, starting with measures of central tendency—single values that represent the center of a dataset. The three primary measures are explored: the mean, or arithmetic average, which is widely used but sensitive to outliers; the mode, the most frequently occurring value, ideal for nominal (categorical) data; and the median, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations." />
+  <meta name="description" content="Summary:
+This lecture begins by establishing the fundamental concepts of populations versus samples, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.
+Following this, the focus shifts to descriptive statistics, starting with measures of central tendency—single values that represent the center of a dataset. The three primary measures are explored: the mean, or arithmetic average, which is widely used but sensitive to outliers; the mode, the most frequently occurring value, ideal for nominal (categorical) data; and the median, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+  
+  
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    });
+  });
+</script>
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 3: Descriptive Statistics</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2025-11-03 16:49:12 &#43;0200">
+                Date: 03 Nov 2025
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/advanced-quantitative-research-methods/">
+                  Advanced Quantitative Research Methods
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="summary">Summary:</h4>
+<p>This lecture begins by establishing the fundamental concepts of <strong>populations</strong> versus <strong>samples</strong>, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.</p>
+<p>Following this, the focus shifts to <strong>descriptive statistics</strong>, starting with measures of <strong>central tendency</strong>—single values that represent the center of a dataset. The three primary measures are explored: the <strong>mean</strong>, or arithmetic average, which is widely used but sensitive to outliers; the <strong>mode</strong>, the most frequently occurring value, ideal for nominal (categorical) data; and the <strong>median</strong>, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations.</p>
+<p>The lecture then transitions to the concept of <strong>variability</strong>, which describes the spread or dispersion of scores. It introduces the simplest measure, the <strong>range</strong>, before moving to the <strong>Interquartile Range (IQR)</strong>, which captures the middle 50% of the data. The core measures of variability, <strong>variance</strong> (the average of squared deviations from the mean) and <strong>standard deviation</strong> (the square root of the variance), are detailed. The standard deviation is highlighted as the most common measure, expressing the average deviation from the mean in the data&rsquo;s original units.</p>
+<p>Finally, these concepts are integrated with the <strong>normal curve</strong>, a specific, bell-shaped, and symmetrical distribution where the mean, median, and mode coincide. The relationship between the standard deviation and the fixed percentages of scores under this curve is explained. This leads to the definition of a <strong>Z score</strong>, a standardized value that describes a raw score&rsquo;s location in terms of how many standard deviations it lies above or below the mean, allowing for meaningful comparisons.</p>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Homepage</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>
