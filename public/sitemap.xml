@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-18T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</loc>
+    <lastmod>2025-11-18T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-18T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-18T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/statistics/</loc>
+    <lastmod>2025-11-18T11:15:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/advanced-quantitative-research-methods/</loc>
     <lastmod>2025-11-17T16:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-17T16:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-17/</loc>
-    <lastmod>2025-11-17T16:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-17T16:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-17T16:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/computer-aided-education/</loc>
@@ -30,9 +36,6 @@
     <lastmod>2025-11-05T16:42:04+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</loc>
-    <lastmod>2025-11-04T21:29:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/statistics/</loc>
     <lastmod>2025-11-04T21:29:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-3/aqrm-2025-11-03/</loc>

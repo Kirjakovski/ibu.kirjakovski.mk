@@ -6,8 +6,15 @@
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 11:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 7: Visual Imagery</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-7/cp-2025-11-19/</link>
+      <pubDate>Wed, 19 Nov 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-7/cp-2025-11-19/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Visual imagery is defined as the ability to recreate the sensory world in the absence of physical stimuli, a capacity that extends beyond vision to include taste, smell, and touch. Historically, the study of imagery fluctuated, moving from Wundt’s view that images are essential to thought, through the &amp;ldquo;imageless thought&amp;rdquo; debate and Behaviorist rejection, before being revived during the Cognitive Revolution. Alan Paivio’s work on the conceptual peg hypothesis later demonstrated that concrete nouns create mental anchors, making them easier to remember than abstract concepts.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 6: Statistical Significance, Decision Errors, Effect Size, and Power</title>
       <link>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</link>
