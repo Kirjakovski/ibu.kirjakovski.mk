@@ -10,51 +10,51 @@
     <atom:link href="http://localhost:1313/categories/advanced-quantitative-research-methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LECTURE 7: Comparing Groups – ANOVA</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-7/aqrm-2025-12-15/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-07/aqrm-2025-12-15/</link>
       <pubDate>Mon, 15 Dec 2025 16:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-7/aqrm-2025-12-15/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-07/aqrm-2025-12-15/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture provides a comprehensive overview of Analysis of Variance (ANOVA), a statistical procedure utilized to test variations among the means of three or more groups. While independent means t-tests are suitable for comparing two groups, ANOVA is specifically designed to handle the complexity of multiple groups simultaneously, thereby avoiding the redundancy of multiple t-tests. One-way ANOVA focuses on groups differing across a single independent variable, whereas factorial ANOVA examines situations involving more than one dimension.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 6: Comparing Groups – t-Tests</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-6/aqrm-2025-12-01/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-06/aqrm-2025-12-01/</link>
       <pubDate>Mon, 01 Dec 2025 16:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-6/aqrm-2025-12-01/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-06/aqrm-2025-12-01/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistical procedures for comparing groups focus primarily on the t test family and Analysis of Variance (ANOVA). The t test serves as a hypothesis-testing method when population variance is unknown, necessitating estimation from sample data. This estimation process involves degrees of freedom, defined as the number of scores free to vary in a sample once the mean is known. Because sample variance typically underestimates population variance, researchers use an unbiased estimate by dividing the sum of squared deviations by $N-1$ instead of $N$.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 5: Introduction to Statistical Inference</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-5/aqrm-2025-11-24/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-05/aqrm-2025-11-24/</link>
       <pubDate>Mon, 24 Nov 2025 16:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-5/aqrm-2025-11-24/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-05/aqrm-2025-11-24/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistical inference involves procedures for drawing general conclusions about theoretical principles that extend beyond the specific group of research participants studied. Central to this process is the normal distribution, a symmetrical, bell-shaped frequency distribution often observed in nature. The Central Limit Theorem dictates that as sample sizes increase, the sampling distribution of the mean approaches this normal shape, allowing for more accurate estimations of population parameters. Standardized Z scores facilitate comparison by converting raw scores into units of standard deviation, where the distribution mean is always zero and the standard deviation is one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 4: Concepts of Probability</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-17/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-04/aqrm-2025-11-17/</link>
       <pubDate>Mon, 17 Nov 2025 16:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-17/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-04/aqrm-2025-11-17/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Probability theory serves as the mathematical foundation for all statistics, playing a critical role in psychology for designing studies, analyzing data, and interpreting results. It allows researchers to distinguish real effects from chance, model cognitive processes involving uncertainty, and correct common human misjudgments regarding random events. Furthermore, probability is essential for evidence-based practice, such as estimating the likelihood of patient improvement under specific therapies.&lt;/p&gt;&#xA;&lt;p&gt;A basic understanding begins with the &amp;ldquo;simple experiment,&amp;rdquo; a repeatable process yielding a single, unambiguous outcome from a &amp;ldquo;sample space&amp;rdquo; of all possible results. Probability definitions vary: the Analytic view relies on logical, equally likely outcomes; the Frequentist view depends on long-run relative frequency from repeated trials; and the Subjective view represents a degree of belief, which is central to Bayesian reasoning. Calculations often utilize Venn diagrams to visualize relationships such as the &amp;ldquo;intersection&amp;rdquo; (outcomes common to multiple events) and the &amp;ldquo;union&amp;rdquo; (outcomes in either event).&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 3: Descriptive Statistics</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-3/aqrm-2025-11-03/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-03/aqrm-2025-11-03/</link>
       <pubDate>Mon, 03 Nov 2025 16:49:12 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-3/aqrm-2025-11-03/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-03/aqrm-2025-11-03/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture begins by establishing the fundamental concepts of &lt;strong&gt;populations&lt;/strong&gt; versus &lt;strong&gt;samples&lt;/strong&gt;, distinguishing between the entire group of interest and the subset being studied. It clarifies the difference between population parameters and their corresponding sample statistics.&lt;/p&gt;&#xA;&lt;p&gt;Following this, the focus shifts to &lt;strong&gt;descriptive statistics&lt;/strong&gt;, starting with measures of &lt;strong&gt;central tendency&lt;/strong&gt;—single values that represent the center of a dataset. The three primary measures are explored: the &lt;strong&gt;mean&lt;/strong&gt;, or arithmetic average, which is widely used but sensitive to outliers; the &lt;strong&gt;mode&lt;/strong&gt;, the most frequently occurring value, ideal for nominal (categorical) data; and the &lt;strong&gt;median&lt;/strong&gt;, the middle score in an ordered distribution, which is preferred for skewed data. The presentation also briefly introduces other measures like the weighted, trimmed, and geometric means, each suited for specific analytical situations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 2: Working with Data</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-02/aqrm-2025-10-27/</link>
       <pubDate>Mon, 27 Oct 2025 16:49:12 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-2/aqrm-2025-10-27/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-02/aqrm-2025-10-27/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture covers the fundamental aspects of working with quantitative data in research. It begins by exploring Data Theory, defining data not just as raw facts or numbers but as information collected for examination. Data isn&amp;rsquo;t merely &amp;ldquo;given&amp;rdquo; (datum) but actively &amp;ldquo;taken&amp;rdquo; (capta), shaped by the ideas, technologies, and contexts involved in its production. This Non-Neutrality Principle highlights that data are socio-technical constructs, never truly raw or objective.&lt;/p&gt;&#xA;&lt;p&gt;Data can be classified in various ways: discrete (countable) vs. continuous (measurable); small vs. big data (characterized by Volume, Velocity, Variety); structured, semi-structured, or unstructured. Data originates from different sources (captured, exhaust, derived) and can be primary (collected by the researcher) or secondary (collected by others). The DIKW framework illustrates the progression from raw Data to Information (organized), Knowledge (understood patterns), and Wisdom (applied understanding).&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Introduction to Quantitative Research Methods</title>
-      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</link>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-01/aqrm-2025-10-20/</link>
       <pubDate>Mon, 20 Oct 2025 16:08:36 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-1/aqrm-2025-10-20/</guid>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-01/aqrm-2025-10-20/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces quantitative research as an objective, theory-driven approach that quantifies events into numerical data for statistical analysis. It contrasts with qualitative methods, which focus on interpreting social reality. A core component of this process is measurement: the assignment of numerals to objects or events according to rules. For a measure to be useful, it must be both reliable (consistent) and valid (accurately measuring what it intends to measure). Reliability is a necessary prerequisite for validity.&lt;/p&gt;</description>
     </item>
   </channel>

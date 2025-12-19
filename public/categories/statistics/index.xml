@@ -6,13 +6,27 @@
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Dec 2025 20:38:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LECTURE 8: T Test for Independent Means</title>
-      <link>http://localhost:1313/posts/statistics/lecture-8/stat-2025-12-02/</link>
+      <title>LECTURE 10: Correlation and Regression</title>
+      <link>http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-16/</link>
+      <pubDate>Tue, 16 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-16/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Correlation analysis and linear prediction serve as fundamental statistical procedures used to examine relationships between variables and estimate outcomes. A correlation describes the association between two equal-interval numeric variables, where the pattern of scores can be visualized using a scatter diagram. In these diagrams, the predictor variable ($X$) is placed on the horizontal axis and the criterion variable ($Y$) on the vertical axis. Patterns of association are characterized by their direction—positive or negative—and their strength, ranging from weak to perfect. While linear correlations approximate a straight line, curvilinear relationships follow systematic non-linear patterns.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Introduction to the ANOVA</title>
+      <link>http://localhost:1313/posts/statistics/lecture-09/stat-2025-12-09/</link>
+      <pubDate>Tue, 09 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-09/stat-2025-12-09/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Analysis of Variance (ANOVA) is a statistical procedure utilized to test for variations among the means of three or more independent groups. While a t-test is sufficient for comparing two groups, ANOVA is designed to handle the complexity of multiple groups across a single dimension, known as one-way ANOVA. The core logic of the procedure involves comparing two different estimates of population variance: the within-groups estimate and the between-groups estimate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: t-Test for Independent Means</title>
+      <link>http://localhost:1313/posts/statistics/lecture-08/stat-2025-12-02/</link>
       <pubDate>Tue, 02 Dec 2025 20:38:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-8/stat-2025-12-02/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-08/stat-2025-12-02/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves.&lt;/p&gt;</description>
     </item>
     <item>
@@ -24,57 +38,57 @@
     </item>
     <item>
       <title>LECTURE 7: Introduction to t Tests: Single Sample and Dependent Means</title>
-      <link>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-07/stat-2025-11-25/</link>
       <pubDate>Tue, 25 Nov 2025 20:38:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-07/stat-2025-11-25/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Real-world psychological research rarely offers access to the true population variance, making the standard Z test impractical for most experimental studies. To overcome this limitation, the t test (or &amp;ldquo;Student&amp;rsquo;s t&amp;rdquo;) serves as the standard hypothesis-testing procedure when the population variance is unknown and must be estimated directly from sample data. Because the variance of a sample naturally tends to be smaller than the variance of the population from which it is drawn, it is considered a biased estimate. To correct for this bias, the calculation for the estimated population variance ($S^2$) utilizes degrees of freedom ($df=N−1$) in the denominator rather than the total sample size ($N$), ensuring an unbiased estimate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 6: Statistical Significance, Decision Errors, Effect Size, and Power</title>
-      <link>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-06/stat-2025-11-18/</link>
       <pubDate>Tue, 18 Nov 2025 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-06/stat-2025-11-18/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture builds upon the fundamentals of hypothesis testing to explore the critical concepts of decision errors, effect size, and statistical power. While standard hypothesis testing determines whether a sample outcome is unlikely under the null hypothesis, this binary decision-making process is prone to error. A Type I error (α) involves rejecting the null hypothesis when it is actually true—essentially a false positive. A Type II error (β) occurs when one fails to reject a false null hypothesis, resulting in a false negative.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 5: Hypothesis Test with Means of Samples</title>
-      <link>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-05/stat-2025-11-04/</link>
       <pubDate>Tue, 04 Nov 2025 21:29:54 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-5/stat-2025-11-04/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-05/stat-2025-11-04/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture provides a review of Z-scores and the foundational five-step hypothesis-testing process. It then transitions from testing a single individual to testing a sample with multiple individuals ($N&amp;gt;1$). This shift requires a new comparison distribution: the &lt;strong&gt;distribution of means&lt;/strong&gt;, also known as the sampling distribution of the mean.&lt;/p&gt;&#xA;&lt;p&gt;The lecture details the three key characteristics of this distribution, which are defined by the &lt;strong&gt;Central Limit Theorem&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mean:&lt;/strong&gt; The mean of the distribution of means ($\mu_M$) is identical to the mean of the population of individuals ($\mu$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variance:&lt;/strong&gt; The distribution is less spread out. Its variance ($\sigma_M^2$) is the population variance ($\sigma^2$) divided by the sample size ($N$). Its standard deviation, $\sigma_M = \sigma / \sqrt{N}$, is called the &lt;strong&gt;standard error of the mean (SEM)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shape:&lt;/strong&gt; The distribution of means will be approximately normal if the population is normal, or if the sample size is 30 or more, regardless of the original population&amp;rsquo;s shape.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This framework allows for the &lt;strong&gt;Z-test&lt;/strong&gt;, a procedure used when the population variance is known. The formula adapts the Z-score to compare a sample mean ($M$) to the population mean: $Z = (M - \mu_M) / \sigma_M$.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 4: Introduction to Hypothesis Testing</title>
-      <link>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-04/stat-2025-10-28/</link>
       <pubDate>Tue, 28 Oct 2025 16:16:18 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-4/stat-2025-10-28/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-04/stat-2025-10-28/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&amp;rsquo;s location and probability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 3: Basics of Inferential Statistics</title>
-      <link>http://localhost:1313/posts/statistics/lecture-3/stat-2025-10-21/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-03/stat-2025-10-21/</link>
       <pubDate>Tue, 21 Oct 2025 15:55:50 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-3/stat-2025-10-21/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-03/stat-2025-10-21/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture introduces inferential statistics, the procedures used for drawing conclusions that extend beyond the specific scores collected in a study. It establishes the fundamental distinction between a population (the entire group of interest) and a sample (the particular group of people studied). Research involves studying a sample and using its sample statistics (like the mean, M, and standard deviation, SD) to make inferences about the unknown population parameters (like μ and σ) . A central tool for this is the normal curve, which is a specific, mathematically defined, bell-shaped, symmetrical, and unimodal frequency distribution. Its importance is highlighted by the Central Limit Theorem (CLT). The CLT states that as sample size increases, the distribution of sample means will approach a normal distribution, regardless of the original population&amp;rsquo;s shape.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 2: Central Tendency and Variability</title>
-      <link>http://localhost:1313/posts/statistics/lecture-2/stat-2025-10-14/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-02/stat-2025-10-14/</link>
       <pubDate>Tue, 14 Oct 2025 14:49:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-2/stat-2025-10-14/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-02/stat-2025-10-14/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Descriptive statistics provide a way to quantify and describe the basic characteristics of a data set. A fundamental aspect of this is identifying a single, representative value that best summarises the entire group of scores. This concept is known as central tendency, and it is measured in three primary ways: the mean, the median, and the mode.&lt;/p&gt;&#xA;&lt;p&gt;The mean represents the arithmetic average of all scores, calculated by summing the scores and dividing by the total number of scores. It acts as the mathematical balance point of the distribution but can be significantly influenced by extreme scores, or outliers. The mode is simply the most frequently occurring value in a data set. It is particularly useful for describing nominal variables. The median is the middle value when all scores are arranged in ascending order. Unlike the mean, the median is not affected by outliers, making it a more robust measure of central tendency for distributions that are skewed or contain extreme values. In a perfectly symmetrical, unimodal distribution, the mean, median, and mode will all be the same.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LECTURE 1: Measurement, Data, Distributions, Tables, and Graphs</title>
-      <link>http://localhost:1313/posts/statistics/lecture-1/stat-2025-10-07/</link>
+      <link>http://localhost:1313/posts/statistics/lecture-01/stat-2025-10-07/</link>
       <pubDate>Tue, 07 Oct 2025 14:21:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-1/stat-2025-10-07/</guid>
+      <guid>http://localhost:1313/posts/statistics/lecture-01/stat-2025-10-07/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistics is a branch of mathematics focused on organizing, analyzing, and interpreting numerical data, primarily divided into two main areas. Descriptive statistics are used to summarize and make sense of a group of scores, while inferential statistics allow for drawing broader conclusions from the data collected in a study. Understanding statistics is crucial for conducting effective research, comprehending scientific literature, and developing critical thinking skills.&lt;/p&gt;&#xA;&lt;p&gt;The foundation of statistical analysis begins with data, which are observations or measurements. A characteristic that can have different values is known as a variable, and a specific person&amp;rsquo;s value on that variable is a score. These variables can be measured on different scales, or levels of measurement. Nominal variables use categories or names, such as gender or ethnicity. Ordinal variables represent a rank order, like competition placements. Interval variables have equal intervals between values but lack a true zero, such as temperature in Celsius. Ratio variables possess all the properties of interval scales plus a true zero point, including measures like age, height, and income.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Statistics Course Description and Materials</title>
       <link>http://localhost:1313/posts/statistics/materials/materials/</link>
-      <pubDate>Wed, 01 Oct 2025 13:47:11 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2025 11:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/materials/materials/</guid>
       <description>&lt;p&gt;This course introduces students to the fundamental concepts of statistics in psychology, emphasizing data analysis and interpretation. Topics covered include data measurement, central tendency, variability, inferential statistics, hypothesis testing, t-tests, ANOVA, correlation, regression, and chi-square tests. Students will learn how to apply statistical techniques to psychological research, interpret results, and understand the importance of statistical significance, effect size, and power. This course provides essential skills for analyzing psychological data and conducting research.&lt;/p&gt;</description>
     </item>

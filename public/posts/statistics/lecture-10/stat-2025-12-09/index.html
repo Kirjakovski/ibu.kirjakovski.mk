@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.152.2">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-09/" />
+  <link rel="canonical" href="http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-09/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 9: Introduction to the ANOVA",
+      "headline" : "LECTURE 9: Introduction to the ANOVA",
+      "description" : "\u003ch4 id=\u0022summary\u0022\u003eSummary:\u003c\/h4\u003e\n\u003cp\u003eAnalysis of Variance (ANOVA) is a statistical procedure utilized to test for variations among the means of three or more independent groups. While a t-test is sufficient for comparing two groups, ANOVA is designed to handle the complexity of multiple groups across a single dimension, known as one-way ANOVA. The core logic of the procedure involves comparing two different estimates of population variance: the within-groups estimate and the between-groups estimate.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2025",
+      "datePublished": "2025-12-09 11:15:00 \u002b0200 \u002b0200",
+      "dateModified" : "2025-12-09 11:15:00 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/statistics\/lecture-10\/stat-2025-12-09\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 9: Introduction to the ANOVA - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 9: Introduction to the ANOVA - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Summary:
+Analysis of Variance (ANOVA) is a statistical procedure utilized to test for variations among the means of three or more independent groups. While a t-test is sufficient for comparing two groups, ANOVA is designed to handle the complexity of multiple groups across a single dimension, known as one-way ANOVA. The core logic of the procedure involves comparing two different estimates of population variance: the within-groups estimate and the between-groups estimate." />
+  <meta name="description" content="Summary:
+Analysis of Variance (ANOVA) is a statistical procedure utilized to test for variations among the means of three or more independent groups. While a t-test is sufficient for comparing two groups, ANOVA is designed to handle the complexity of multiple groups across a single dimension, known as one-way ANOVA. The core logic of the procedure involves comparing two different estimates of population variance: the within-groups estimate and the between-groups estimate." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+  
+  
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    });
+  });
+</script>
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 9: Introduction to the ANOVA</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2025-12-09 11:15:00 &#43;0200">
+                Date: 09 Dec 2025
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/statistics/">
+                  Statistics
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="summary">Summary:</h4>
+<p>Analysis of Variance (ANOVA) is a statistical procedure utilized to test for variations among the means of three or more independent groups. While a t-test is sufficient for comparing two groups, ANOVA is designed to handle the complexity of multiple groups across a single dimension, known as one-way ANOVA. The core logic of the procedure involves comparing two different estimates of population variance: the within-groups estimate and the between-groups estimate.</p>
+<p>The within-groups estimate, or mean square within, reflects variation caused solely by chance factors, such as individual differences or measurement error. It remains unaffected by whether the research hypothesis is true. Conversely, the between-groups estimate reflects both chance variation and the treatment effect. When the null hypothesis is true—meaning population means are equal—these two estimates should be approximately equal, resulting in an F ratio near 1. If the research hypothesis is true and a treatment effect exists, the between-groups estimate becomes significantly larger than the within-groups estimate, producing an F ratio greater than 1.</p>
+<p>Carrying out an ANOVA requires calculating the F ratio and comparing it against a cutoff score from an F distribution table, determined by the numerator and denominator degrees of freedom. Statistical assumptions for the test include normality, homogeneity of variance, and independence of scores. In instances where the null hypothesis is rejected, the omnibus F test indicates a difference exists but does not specify which groups differ. Researchers may then employ planned contrasts to investigate specific, a priori comparisons or post hoc tests, such as the Bonferroni procedure or Scheffé test, for exploratory analysis. Effect size is typically measured using R-squared or eta-squared, representing the proportion of total variation accounted for by the differences between group means. This comprehensive framework allows for the systematic evaluation of differences across multiple population parameters.</p>
+<h4 id="reading-materials">Reading materials:</h4>
+<h5 id="mandatory">Mandatory:</h5>
+<ul>
+<li>
+<p>Aron, A., Coups, E. J., &amp; Aron, E. N. (2013). <em>Statistics for psychology</em> (6th ed.). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0Bbr8wv638kogwUcTQUzSATQ?e=gCJH5O" target="_blank">DOWNLOAD PDF</a>)</p>
+<ul>
+<li>Introduction to the Analysis of Variance [Chapter 9]</li>
+<li>Factorial Analysis of Variance (OPTIONAL) [Chapter 10]</li>
+</ul>
+</li>
+</ul>
+<h5 id="supplementary">Supplementary:</h5>
+<ul>
+<li>
+<p>Howitt, D., &amp; Cramer, D. (2014). <em>Introduction to statistics in psychology: With SPSS</em> (6th Edition). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBdWjXT3R5JRjz8ha3Smc1aw?e=VKmqI3" target="_blank">DOWNLOAD PDF</a>)</p>
+<ul>
+<li>The Variance Ratio Test: The F-Ratio to Compare Two Variances [Chapter 20]</li>
+<li>Analysis of Variance (ANOVA): Introduction to the One-Way Unrelated or Uncorrelated ANOVA [Chapter 21]</li>
+<li>Two-Way Analysis of Variance for Unrelated/ Uncorrelated Scores: Two Studies for the Price of One? [Chapter 23]</li>
+<li>Multiple Comparisons in ANOVA: Just Where Do the Differences Lie? [Chapter 24]</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Homepage</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>

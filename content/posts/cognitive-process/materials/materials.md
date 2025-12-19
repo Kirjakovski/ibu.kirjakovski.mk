@@ -1,6 +1,6 @@
 ---
 title: Cognitive Process Course Description and Materials
-date: 2025-10-01T13:18:09+02:00
+date: 2025-10-01T11:00:00+02:00
 deadline:
 categories: [Cognitive Process]
 draft: false

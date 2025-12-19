@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.152.2">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-02/" />
+  <link rel="canonical" href="http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-02/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 8: t-Test for Independent Means",
+      "headline" : "LECTURE 8: t-Test for Independent Means",
+      "description" : "\u003ch4 id=\u0022summary\u0022\u003eSummary:\u003c\/h4\u003e\n\u003cp\u003eThe t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2025",
+      "datePublished": "2025-12-02 20:38:00 \u002b0200 \u002b0200",
+      "dateModified" : "2025-12-02 20:38:00 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/statistics\/lecture-10\/stat-2025-12-02\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 8: t-Test for Independent Means - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 8: t-Test for Independent Means - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Summary:
+The t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves." />
+  <meta name="description" content="Summary:
+The t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+  
+  
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    });
+  });
+</script>
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 8: t-Test for Independent Means</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2025-12-02 20:38:00 &#43;0200">
+                Date: 02 Dec 2025
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/statistics/">
+                  Statistics
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="summary">Summary:</h4>
+<p>The t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves.</p>
+<p>A central methodological challenge in this test is combining the variances from two potentially unequal samples to form a single accurate estimate of the population variance. Since larger samples provide more precise estimates, a simple average of the two sample variances is insufficient. Instead, the procedure employs a pooled estimate of the population variance ($S_{Pooled}^2$), which is a weighted average that accounts for the degrees of freedom ($df$) contributed by each sample. This pooled variance is subsequently used to calculate the variance of the distribution of means for each specific population. The logic of the test relies on the &ldquo;distribution of differences between means,&rdquo; which is the comparison distribution representing the probability of obtaining various differences between sample means purely by chance. The variance of this comparison distribution ($S_{Difference}^2$) is the sum of the variances of the two distributions of means. The final t-statistic is computed by dividing the observed difference between the two sample means by the standard deviation of the distribution of differences ($S_{Difference}$). To ensure statistical validity, the data must meet three core assumptions: the populations should follow a normal curve, they must possess homogeneity of variance (equal variance), and the scores must be independent. While the test remains robust to violations of normality and homogeneity when sample sizes are equal, the assumption of independence is non-negotiable. Finally, researchers interpret the magnitude of the results using effect size measures, such as Cohen&rsquo;s $d$, and evaluate the study&rsquo;s sensitivity via statistical power analysis.</p>
+<h4 id="reading-materials">Reading materials:</h4>
+<h5 id="mandatory">Mandatory:</h5>
+<ul>
+<li><strong>The <em>t</em> Test for Independent Means (Chapter 8)</strong> from Aron, A., Coups, E. J., &amp; Aron, E. N. (2013). <em>Statistics for psychology</em> (6th ed.). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0Bbr8wv638kogwUcTQUzSATQ?e=gCJH5O" target="_blank">DOWNLOAD PDF</a>)</li>
+</ul>
+<h5 id="supplementary">Supplementary:</h5>
+<ul>
+<li><strong>Standard Error (Chapter 12)</strong>, <strong>The t-test: Comparing Two Samples of correlated/related/paired scores (Chapter 13)</strong>, and <strong>The t-test: Comparing two samples of unrelated/uncorrelated scores (Chapter 14)</strong> from Howitt, D., &amp; Cramer, D. (2014). <em>Introduction to statistics in psychology: With SPSS</em> (6th Edition). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBdWjXT3R5JRjz8ha3Smc1aw?e=VKmqI3" target="_blank">DOWNLOAD PDF</a>)</li>
+</ul>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Homepage</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.152.2">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/statistics/lecture-04/stat-2025-10-28/" />
+  <link rel="canonical" href="http://localhost:1313/posts/statistics/lecture-04/stat-2025-10-28/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 4: Introduction to Hypothesis Testing",
+      "headline" : "LECTURE 4: Introduction to Hypothesis Testing",
+      "description" : "\u003ch4 id=\u0022summary\u0022\u003eSummary:\u003c\/h4\u003e\n\u003cp\u003eThis lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score\u0026rsquo;s location and probability.\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2025",
+      "datePublished": "2025-10-28 16:16:18 \u002b0200 \u002b0200",
+      "dateModified" : "2025-10-28 16:16:18 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/statistics\/lecture-04\/stat-2025-10-28\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 4: Introduction to Hypothesis Testing - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 4: Introduction to Hypothesis Testing - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Summary:
+This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&rsquo;s location and probability." />
+  <meta name="description" content="Summary:
+This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&rsquo;s location and probability." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+  
+  
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    });
+  });
+</script>
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 4: Introduction to Hypothesis Testing</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2025-10-28 16:16:18 &#43;0200">
+                Date: 28 Oct 2025
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/statistics/">
+                  Statistics
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="summary">Summary:</h4>
+<p>This lecture introduces hypothesis testing, the formal procedure used to decide if the results from a sample study support a theory or prediction about a population. This process involves using known sample statistics (like the sample mean, $M$) to make inferences about unknown population parameters (like the population mean, $\mu$). This logic is grounded in the properties of the normal curve, a symmetrical, bell-shaped distribution where a Z score indicates a specific score&rsquo;s location and probability.</p>
+<p>The testing procedure uses a roundabout, &ldquo;double-negative&rdquo; logic. A researcher starts with a research hypothesis ($H_1$), which is the prediction (e.g., a difference exists, $\mu_1 \neq \mu_2$). To test this, they set up the opposite, the null hypothesis ($H_0$), which posits no difference (e.g., $\mu_1 = \mu_2$). The core question is: &ldquo;What is the probability of obtaining our sample result if the null hypothesis were true?&rdquo;</p>
+<p>A five-step process is followed:</p>
+<ol>
+<li>State the research and null hypotheses.</li>
+<li>Determine the comparison distribution, which represents the population situation if $H_0$ is true.</li>
+<li>Set a cutoff sample score (critical value) based on a significance level (e.g., $p &lt; .05$), defining an &ldquo;unlikely&rdquo; region.</li>
+<li>Calculate the sample&rsquo;s test statistic (e.g., a Z score) on that distribution.</li>
+<li>Decide: If the sample&rsquo;s score falls in the unlikely region (is more extreme than the cutoff), the null hypothesis is rejected, and the result is deemed statistically significant. If not, the result is inconclusive.</li>
+</ol>
+<p>When testing a single sample mean ($M$) against a population with a known mean ($\mu$) and standard deviation ($\sigma$), the Z test is used. The comparison distribution is the distribution of means, which is narrower than the population distribution and has a standard error of $\sigma_M = \sigma/\sqrt{N}$.</p>
+<p>The test can be directional (a one-tailed test for $\mu_1 &gt; \mu_2$) or nondirectional (a two-tailed test for $\mu_1 \neq \mu_2$). A two-tailed test is more conservative because it splits the significance level (e.g., 2.5% in each tail) and requires a more extreme result to reject the null hypothesis.</p>
+<h4 id="reading-materials">Reading materials:</h4>
+<h5 id="mandatory">Mandatory:</h5>
+<ul>
+<li>
+<p>Aron, A., Coups, E. J., &amp; Aron, E. N. (2013). <em>Statistics for psychology</em> (6th ed.). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EY8YX1R78ChDqORSuUCMc-0Bbr8wv638kogwUcTQUzSATQ?e=gCJH5O" target="_blank">DOWNLOAD PDF</a>)</p>
+<ul>
+<li>Introduction to Hypothesis Testing [Chapter 4]</li>
+</ul>
+</li>
+</ul>
+<h5 id="supplementary">Supplementary:</h5>
+<ul>
+<li>
+<p>Howitt, D., &amp; Cramer, D. (2014). <em>Introduction to statistics in psychology: With SPSS</em> (6th Edition). Pearson. (<a href="https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/EVK61aTc5F9Justfth_5xPYBdWjXT3R5JRjz8ha3Smc1aw?e=VKmqI3" target="_blank">DOWNLOAD PDF</a>)</p>
+<ul>
+<li>Samples and Populations: Generalising and Inferring [Chapter 10]</li>
+<li>Standard Error: The Standard Deviation of the Means of Samples [Chapter 12]</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Homepage</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>
