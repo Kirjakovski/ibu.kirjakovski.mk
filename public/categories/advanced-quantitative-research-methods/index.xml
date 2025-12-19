@@ -6,8 +6,29 @@
     <description>Recent content in Advanced Quantitative Research Methods on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/advanced-quantitative-research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 7: Comparing Groups – ANOVA</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-7/aqrm-2025-12-15/</link>
+      <pubDate>Mon, 15 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-7/aqrm-2025-12-15/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture provides a comprehensive overview of Analysis of Variance (ANOVA), a statistical procedure utilized to test variations among the means of three or more groups. While independent means t-tests are suitable for comparing two groups, ANOVA is specifically designed to handle the complexity of multiple groups simultaneously, thereby avoiding the redundancy of multiple t-tests. One-way ANOVA focuses on groups differing across a single independent variable, whereas factorial ANOVA examines situations involving more than one dimension.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 6: Comparing Groups – t-Tests</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-6/aqrm-2025-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-6/aqrm-2025-12-01/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistical procedures for comparing groups focus primarily on the t test family and Analysis of Variance (ANOVA). The t test serves as a hypothesis-testing method when population variance is unknown, necessitating estimation from sample data. This estimation process involves degrees of freedom, defined as the number of scores free to vary in a sample once the mean is known. Because sample variance typically underestimates population variance, researchers use an unbiased estimate by dividing the sum of squared deviations by $N-1$ instead of $N$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 5: Introduction to Statistical Inference</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-5/aqrm-2025-11-24/</link>
+      <pubDate>Mon, 24 Nov 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-5/aqrm-2025-11-24/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistical inference involves procedures for drawing general conclusions about theoretical principles that extend beyond the specific group of research participants studied. Central to this process is the normal distribution, a symmetrical, bell-shaped frequency distribution often observed in nature. The Central Limit Theorem dictates that as sample sizes increase, the sampling distribution of the mean approaches this normal shape, allowing for more accurate estimations of population parameters. Standardized Z scores facilitate comparison by converting raw scores into units of standard deviation, where the distribution mean is always zero and the standard deviation is one.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 4: Concepts of Probability</title>
       <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4/aqrm-2025-11-17/</link>

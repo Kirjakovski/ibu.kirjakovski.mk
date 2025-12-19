@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177760906-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="generator" content="Hugo 0.152.2">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="" />
+  <meta property="og:url" content="http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4-copy/aqrm-2025-11-17/" />
+  <link rel="canonical" href="http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-4-copy/aqrm-2025-11-17/" /><link rel="preload" href="/js/highlight.pack.js" as="script" /><link rel="alternate" type="application/atom+xml" href="http://localhost:1313/index.xml" title="Prof. Kirjakovski IBU Blog">
+
+  <script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": "http:\/\/localhost:1313\/"
+      },
+      "articleSection" : "posts",
+      "name" : "LECTURE 4: Concepts of Probability",
+      "headline" : "LECTURE 4: Concepts of Probability",
+      "description" : "\u003ch4 id=\u0022summary\u0022\u003eSummary:\u003c\/h4\u003e\n\u003cp\u003eProbability theory serves as the mathematical foundation for all statistics, playing a critical role in psychology for designing studies, analyzing data, and interpreting results. It allows researchers to distinguish real effects from chance, model cognitive processes involving uncertainty, and correct common human misjudgments regarding random events. Furthermore, probability is essential for evidence-based practice, such as estimating the likelihood of patient improvement under specific therapies.\u003c\/p\u003e\n\u003cp\u003eA basic understanding begins with the \u0026ldquo;simple experiment,\u0026rdquo; a repeatable process yielding a single, unambiguous outcome from a \u0026ldquo;sample space\u0026rdquo; of all possible results. Probability definitions vary: the Analytic view relies on logical, equally likely outcomes; the Frequentist view depends on long-run relative frequency from repeated trials; and the Subjective view represents a degree of belief, which is central to Bayesian reasoning. Calculations often utilize Venn diagrams to visualize relationships such as the \u0026ldquo;intersection\u0026rdquo; (outcomes common to multiple events) and the \u0026ldquo;union\u0026rdquo; (outcomes in either event).\u003c\/p\u003e",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2025",
+      "datePublished": "2025-11-17 16:00:00 \u002b0200 \u002b0200",
+      "dateModified" : "2025-11-17 16:00:00 \u002b0200 \u002b0200",
+      "url" : "http:\/\/localhost:1313\/posts\/advanced-quantitative-research-methods\/lecture-4-copy\/aqrm-2025-11-17\/",
+      "keywords" : [  ]
+  }
+</script>
+<title>LECTURE 4: Concepts of Probability - Prof. Kirjakovski IBU Blog</title>
+  <meta property="og:title" content="LECTURE 4: Concepts of Probability - Prof. Kirjakovski IBU Blog" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Summary:
+Probability theory serves as the mathematical foundation for all statistics, playing a critical role in psychology for designing studies, analyzing data, and interpreting results. It allows researchers to distinguish real effects from chance, model cognitive processes involving uncertainty, and correct common human misjudgments regarding random events. Furthermore, probability is essential for evidence-based practice, such as estimating the likelihood of patient improvement under specific therapies.
+A basic understanding begins with the &ldquo;simple experiment,&rdquo; a repeatable process yielding a single, unambiguous outcome from a &ldquo;sample space&rdquo; of all possible results. Probability definitions vary: the Analytic view relies on logical, equally likely outcomes; the Frequentist view depends on long-run relative frequency from repeated trials; and the Subjective view represents a degree of belief, which is central to Bayesian reasoning. Calculations often utilize Venn diagrams to visualize relationships such as the &ldquo;intersection&rdquo; (outcomes common to multiple events) and the &ldquo;union&rdquo; (outcomes in either event)." />
+  <meta name="description" content="Summary:
+Probability theory serves as the mathematical foundation for all statistics, playing a critical role in psychology for designing studies, analyzing data, and interpreting results. It allows researchers to distinguish real effects from chance, model cognitive processes involving uncertainty, and correct common human misjudgments regarding random events. Furthermore, probability is essential for evidence-based practice, such as estimating the likelihood of patient improvement under specific therapies.
+A basic understanding begins with the &ldquo;simple experiment,&rdquo; a repeatable process yielding a single, unambiguous outcome from a &ldquo;sample space&rdquo; of all possible results. Probability definitions vary: the Analytic view relies on logical, equally likely outcomes; the Frequentist view depends on long-run relative frequency from repeated trials; and the Subjective view represents a degree of belief, which is central to Bayesian reasoning. Calculations often utilize Venn diagrams to visualize relationships such as the &ldquo;intersection&rdquo; (outcomes common to multiple events) and the &ldquo;union&rdquo; (outcomes in either event)." />
+  <meta property="og:locale" content="en" />
+
+  <link rel="stylesheet" href="/css/flexboxgrid-6.3.1.min.css" />
+  <link rel="stylesheet" href="/css/github-markdown.css" />
+  <link rel="stylesheet" href="/css/highlight/tomorrow.min.css" />
+  <link rel="stylesheet" href="/css/index.css">
+
+  
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+    title="Prof. Kirjakovski IBU Blog">
+  
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
+  
+  
+
+  
+  
+  
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      throwOnError: false,
+      ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
+    });
+  });
+</script>
+  
+</head>
+
+<body>
+  <article class="post English" id="article">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="site-header">
+          
+<header>
+  <div class="signatures site-title">
+    <a href="/">Prof. Kirjakovski IBU Blog</a>
+  </div>
+</header>
+<div class="row end-xs">
+  
+  
+</div>
+<div class="header-line"></div>
+
+        </div>
+        <header class="post-header">
+          <h1 class="post-title">LECTURE 4: Concepts of Probability</h1>
+          
+          <div class="row post-desc">
+
+            <div class="col-xs-3">
+              
+              <time class="post-date" datetime="2025-11-17 16:00:00 &#43;0200">
+                Date: 17 Nov 2025
+              </time>
+              
+            </div>
+
+            <div class="deadline col-xs-5">
+              
+            </div>
+
+            <div class="col-xs-4 end-xs">
+              
+              <div class="post-category">
+                <a href="/categories/advanced-quantitative-research-methods/">
+                  Advanced Quantitative Research Methods
+                </a>
+              </div>
+            </div>
+            
+
+          </div>
+          
+        </header>
+
+        <div class="post-content markdown-body">
+          
+          <h4 id="summary">Summary:</h4>
+<p>Probability theory serves as the mathematical foundation for all statistics, playing a critical role in psychology for designing studies, analyzing data, and interpreting results. It allows researchers to distinguish real effects from chance, model cognitive processes involving uncertainty, and correct common human misjudgments regarding random events. Furthermore, probability is essential for evidence-based practice, such as estimating the likelihood of patient improvement under specific therapies.</p>
+<p>A basic understanding begins with the &ldquo;simple experiment,&rdquo; a repeatable process yielding a single, unambiguous outcome from a &ldquo;sample space&rdquo; of all possible results. Probability definitions vary: the Analytic view relies on logical, equally likely outcomes; the Frequentist view depends on long-run relative frequency from repeated trials; and the Subjective view represents a degree of belief, which is central to Bayesian reasoning. Calculations often utilize Venn diagrams to visualize relationships such as the &ldquo;intersection&rdquo; (outcomes common to multiple events) and the &ldquo;union&rdquo; (outcomes in either event).</p>
+<p>Key distinctions between events determine the appropriate mathematical rules. &ldquo;Mutually exclusive&rdquo; events cannot occur simultaneously, whereas &ldquo;independent&rdquo; events do not influence one another&rsquo;s probabilities. The &ldquo;Addition Rule&rdquo; calculates the probability of obtaining one event or another, subtracting any overlap unless the events are mutually exclusive. Conversely, the &ldquo;Multiplication Rule&rdquo; determines the probability of two independent events occurring together. Conditional probability restricts the sample space to calculate the likelihood of an outcome given that another has already occurred. Finally, Bayes&rsquo; Theorem offers a method to update the probability of a hypothesis by combining prior beliefs (base rates) with new evidence (likelihood) to calculate a posterior probability.</p>
+
+        </div>
+
+        
+        
+        
+          <div class="row">
+            <div class="col-xs-12">
+              
+            </div>
+          </div>
+
+          
+
+
+          
+          
+
+        
+
+        <div class="site-footer">
+  
+  
+  <div class="col-xs-12 start-xs">
+    <a href="http://localhost:1313/"><strong>Homepage</strong></a>
+  </div>
+
+
+
+
+
+
+
+
+
+</div>
+      </div>
+    </div>
+  </article>
+
+  <script src="/js/highlight.pack.js"></script>
+
+
+<script>
+  hljs.initHighlightingOnLoad();
+  
+  
+  
+    
+    
+  
+</script>
+
+  
+
+</body>
+
+</html>

@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Nov 2025 22:39:13 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 21:31:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 9: Problem Solving and Creativity</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-9/cp-2025-12-03/</link>
+      <pubDate>Wed, 03 Dec 2025 21:31:20 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-9/cp-2025-12-03/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychologists define a problem as a situation where an obstacle exists between a present state and a goal state, necessitating specific actions to bridge the gap. The Gestalt approach emphasizes that success depends heavily on how a problem is represented in the mind, often requiring a process of restructuring or reorganizing that representation. This restructuring facilitates insight, a sudden realization or &amp;ldquo;Aha!&amp;rdquo; experience that differs fundamentally from the gradual, step-by-step progress seen in analytical or non-insight problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: T Test for Independent Means</title>
+      <link>http://localhost:1313/posts/statistics/lecture-8/stat-2025-12-02/</link>
+      <pubDate>Tue, 02 Dec 2025 20:38:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-8/stat-2025-12-02/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The t-test for independent means functions as the primary hypothesis-testing procedure for comparing two entirely separate groups of participants, such as an experimental group receiving a specific intervention and a control group receiving a standard protocol. Unlike dependent means tests which analyze repeated measures or matched scores within a single group, this analysis requires that all scores be independent of one another, meaning no participant belongs to both groups. The test is specifically applicable when the true population variance is unknown and must be estimated using data derived from the samples themselves.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IN-CLASS PRESENTATIONS: Cognitive Process</title>
       <link>http://localhost:1313/posts/statistics/activity/in-class-presentations-cognitive-process/</link>
@@ -23,6 +37,20 @@
       <description>&lt;h3 id=&#34;instructions&#34;&gt;Instructions:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;step-1-choose-an-article&#34;&gt;Step 1: Choose an Article&lt;/h4&gt;&#xA;&lt;p&gt;Go to Google Scholar. Find a full-text peer-reviewed, empirical research article (one that collects actual data, not a literature review or meta-analysis) on a topic that interests you. Tip: Don’t pick a 50-page paper with six different experiments. Pick a standard paper with a clear, singular focus.&lt;/p&gt;&#xA;&lt;h4 id=&#34;step-2-the--structure&#34;&gt;Step 2: The  Structure&lt;/h4&gt;&#xA;&lt;p&gt;You only have 3 minutes. That means you cannot read the abstract to us. You must extract the core narrative. Structure your talk using these five specific pillars:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>LECTURE 8: Language</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-8/cp-2025-11-26/</link>
+      <pubDate>Wed, 26 Nov 2025 21:31:20 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-8/cp-2025-11-26/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Human language is defined as a system of communication utilizing sounds or symbols to express feelings, thoughts, ideas, and experiences. Its defining characteristic is creativity, which stems from a structure that is both hierarchical and rule-based, allowing for the generation of unique sequences. Psycholinguistics examines the psychological processes behind this ability, breaking language down into phonology (sounds), syntax (structure), semantics (meaning), and pragmatics (implied meaning).&lt;/p&gt;&#xA;&lt;p&gt;At the lexical level, word frequency heavily influences processing speed, with high-frequency words eliciting faster responses than low-frequency ones. Readers must also navigate lexical ambiguity, where context and meaning dominance help select the correct interpretation of multi-meaning words. When combining words into sentences, the mind engages in parsing. The Garden Path Model suggests this is done via heuristics like late closure, while the constraint-based approach argues that syntax, semantics, and context serve as simultaneous constraints to guide understanding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 7: Introduction to t Tests: Single Sample and Dependent Means</title>
+      <link>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</link>
+      <pubDate>Tue, 25 Nov 2025 20:38:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Real-world psychological research rarely offers access to the true population variance, making the standard Z test impractical for most experimental studies. To overcome this limitation, the t test (or &amp;ldquo;Student&amp;rsquo;s t&amp;rdquo;) serves as the standard hypothesis-testing procedure when the population variance is unknown and must be estimated directly from sample data. Because the variance of a sample naturally tends to be smaller than the variance of the population from which it is drawn, it is considered a biased estimate. To correct for this bias, the calculation for the estimated population variance ($S^2$) utilizes degrees of freedom ($df=N−1$) in the denominator rather than the total sample size ($N$), ensuring an unbiased estimate.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LECTURE 7: Visual Imagery</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-7/cp-2025-11-19/</link>
       <pubDate>Wed, 19 Nov 2025 11:15:00 +0200</pubDate>
@@ -34,13 +62,6 @@
       <link>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</link>
       <pubDate>Tue, 18 Nov 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-6/stat-2025-11-18/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture builds upon the fundamentals of hypothesis testing to explore the critical concepts of decision errors, effect size, and statistical power. While standard hypothesis testing determines whether a sample outcome is unlikely under the null hypothesis, this binary decision-making process is prone to error. A Type I error (α) involves rejecting the null hypothesis when it is actually true—essentially a false positive. A Type II error (β) occurs when one fails to reject a false null hypothesis, resulting in a false negative.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LECTURE 7: Statistical Significance, Decision Errors, Effect Size, and Power</title>
-      <link>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</link>
-      <pubDate>Tue, 18 Nov 2025 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/statistics/lecture-7/stat-2025-11-25/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture builds upon the fundamentals of hypothesis testing to explore the critical concepts of decision errors, effect size, and statistical power. While standard hypothesis testing determines whether a sample outcome is unlikely under the null hypothesis, this binary decision-making process is prone to error. A Type I error (α) involves rejecting the null hypothesis when it is actually true—essentially a false positive. A Type II error (β) occurs when one fails to reject a false null hypothesis, resulting in a false negative.&lt;/p&gt;</description>
     </item>
     <item>
