@@ -5,9 +5,44 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 11:15:00 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 12: Cognitive Disorders</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</link>
+      <pubDate>Wed, 24 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The &amp;ldquo;Cognitive Disorders&amp;rdquo; lecture systematically explores the disruptions of human cognitive processes typically resulting from brain injury, cardiovascular events, or degenerative conditions. Perceptual and attentional disorders provide insight into specialized brain functions. Synesthesia is a condition where sensory input in one modality triggers an automatic experience in another, such as seeing colors while hearing sounds. Conversely, blindsight involves damage to the primary visual cortex; patients detect visual stimuli within a scotoma despite a nominal loss of vision. Unilateral spatial neglect, frequently observed following right-hemisphere strokes, results in the failure to attend to stimuli on one side of space. Visual agnosia further illustrates cognitive dissociation; patients possess intact sensory processes but cannot recognize objects. Specific variations include form agnosia, integrative agnosia, and prosopagnosia, which is the specialized inability to recognize faces.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 11: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</link>
+      <pubDate>Tue, 23 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as hypothesis-testing procedures specifically designed for nominal or categorical variables, where measurements represent frequencies within distinct categories. The chi-square test for goodness of fit examines how an observed frequency distribution of a single nominal variable aligns with an expected pattern based on the null hypothesis. In contrast, the chi-square test for independence evaluates whether a relationship exists between two nominal variables organized in a contingency table. The calculation involves summing the squared differences between observed and expected frequencies, divided by the expected frequencies. Key parameters include degrees of freedom, which depend on the number of categories or cells, and cutoff scores determined by significance levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: Correlation and Regression</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Correlation and regression are fundamental statistical procedures used to analyze relationships between numeric, equal-interval variables. Correlation describes the degree of association between variables, while regression utilizes these associations to facilitate precise outcome predictions. Scatter diagrams provide a visual representation of these patterns, indicating whether a relationship is linear, curvilinear, or absent. Linear correlations are defined by their direction—positive or negative—and their strength, which ranges from weak to perfect.&lt;/p&gt;&#xA;&lt;p&gt;The Pearson correlation coefficient ($r$) serves as both a descriptive and inferential statistic, ranging from -1 to +1. Its logic is rooted in Z-score standardization and the average of cross-products, where positive sums indicate positive linear associations and sums near zero suggest no relationship. Significance testing determines if a sample correlation is likely present in the general population, typically through a t-test. Key assumptions for these procedures include normality, bivariate normality, homoscedasticity, and the independence of scores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as essential hypothesis-testing procedures for nominal data, where variables are categorical rather than quantitative. These tests evaluate frequencies—the number of observations in specific categories—and are divided into two primary types. The chi-square test for goodness of fit analyzes a single nominal variable to determine how well an observed frequency distribution matches an expected pattern. Conversely, the chi-square test for independence examines whether the distribution of one nominal variable relates to another, utilizing contingency tables to organize combinations of categories.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 11: Human Intelligence</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-11/cp-2025-12-17/</link>
+      <pubDate>Wed, 17 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-11/cp-2025-12-17/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Intelligence is defined as the capacity to learn from experience and adapt to the surrounding environment, integrating various cognitive processes such as attention, memory, and reasoning. Historically, measurement approaches evolved from Francis Galton’s psychophysical methods to Alfred Binet’s judgmental approach, which focused on academic learning and higher-level judgment. This led to the development of the Intelligence Quotient (IQ), transitioning from William Stern’s ratio-based formula to the modern deviation IQ, which utilizes a normal distribution bell curve with an average score of 100. Contemporary assessment is primarily conducted through the Stanford-Binet and Wechsler scales, which evaluate domains like fluid reasoning, verbal comprehension, and processing speed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 10: Correlation and Regression</title>
       <link>http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-16/</link>
@@ -23,6 +58,13 @@
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The lecture provides a comprehensive overview of Analysis of Variance (ANOVA), a statistical procedure utilized to test variations among the means of three or more groups. While independent means t-tests are suitable for comparing two groups, ANOVA is specifically designed to handle the complexity of multiple groups simultaneously, thereby avoiding the redundancy of multiple t-tests. One-way ANOVA focuses on groups differing across a single independent variable, whereas factorial ANOVA examines situations involving more than one dimension.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>LECTURE 10: Judgement, Decisions, and Reasoning</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-10/cp-2025-12-10/</link>
+      <pubDate>Wed, 10 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-10/cp-2025-12-10/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Human thinking consists of complex cognitive processes including judgment, reasoning, and decision-making. Judgment involves forming evaluations based on observations, while reasoning represents the process of drawing conclusions from evidence. Decision-making serves as the final selection between alternatives, relying heavily on the preceding judgmental and reasoning stages. These processes are inherently interconnected and often rely on dual systems: the fast, intuitive System 1 and the slow, analytical System 2.&lt;/p&gt;&#xA;&lt;p&gt;Inductive reasoning draws general conclusions from specific observations. The strength of such arguments is determined by the number, quality, and representativeness of the evidence. Because this reasoning is probabilistic rather than definite, humans often employ heuristics, or mental shortcuts. The availability heuristic leads individuals to judge the probability of events based on how easily they can be recalled from memory, often influenced by media salience or emotional charge. The representativeness heuristic causes people to categorize instances based on how well they match a stereotype, frequently leading to base rate neglect or violations of the conjunction rule. Additional cognitive biases, such as confirmation bias, the myside bias, and the backfire effect, further complicate inductive judgments by causing individuals to favor information that supports prior beliefs.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LECTURE 9: Introduction to the ANOVA</title>
       <link>http://localhost:1313/posts/statistics/lecture-09/stat-2025-12-09/</link>
       <pubDate>Tue, 09 Dec 2025 11:15:00 +0200</pubDate>
@@ -32,7 +74,7 @@
     <item>
       <title>LECTURE 9: Problem Solving and Creativity</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-09/cp-2025-12-03/</link>
-      <pubDate>Wed, 03 Dec 2025 21:31:20 +0200</pubDate>
+      <pubDate>Wed, 03 Dec 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-09/cp-2025-12-03/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychologists define a problem as a situation where an obstacle exists between a present state and a goal state, necessitating specific actions to bridge the gap. The Gestalt approach emphasizes that success depends heavily on how a problem is represented in the mind, often requiring a process of restructuring or reorganizing that representation. This restructuring facilitates insight, a sudden realization or &amp;ldquo;Aha!&amp;rdquo; experience that differs fundamentally from the gradual, step-by-step progress seen in analytical or non-insight problems.&lt;/p&gt;</description>
     </item>
@@ -67,7 +109,7 @@
     <item>
       <title>LECTURE 8: Language</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-08/cp-2025-11-26/</link>
-      <pubDate>Wed, 26 Nov 2025 21:31:20 +0200</pubDate>
+      <pubDate>Wed, 26 Nov 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-08/cp-2025-11-26/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Human language is defined as a system of communication utilizing sounds or symbols to express feelings, thoughts, ideas, and experiences. Its defining characteristic is creativity, which stems from a structure that is both hierarchical and rule-based, allowing for the generation of unique sequences. Psycholinguistics examines the psychological processes behind this ability, breaking language down into phonology (sounds), syntax (structure), semantics (meaning), and pragmatics (implied meaning).&lt;/p&gt;&#xA;&lt;p&gt;At the lexical level, word frequency heavily influences processing speed, with high-frequency words eliciting faster responses than low-frequency ones. Readers must also navigate lexical ambiguity, where context and meaning dominance help select the correct interpretation of multi-meaning words. When combining words into sentences, the mind engages in parsing. The Garden Path Model suggests this is done via heuristics like late closure, while the constraint-based approach argues that syntax, semantics, and context serve as simultaneous constraints to guide understanding.&lt;/p&gt;</description>
     </item>
@@ -116,7 +158,7 @@
     <item>
       <title>LECTURE 6: Conceptual Knowledge</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-06/cp-2025-11-05/</link>
-      <pubDate>Wed, 05 Nov 2025 16:42:04 +0200</pubDate>
+      <pubDate>Wed, 05 Nov 2025 11:00:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-06/cp-2025-11-05/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture examines conceptual knowledge, the system that enables people to recognize objects and make inferences about their properties. This knowledge is organized into concepts (mental representations, like &amp;ldquo;cat&amp;rdquo;) and categories (groups of objects, like &amp;ldquo;furniture&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Early attempts to categorize using rigid definitions (the definitional approach) were found to be inadequate, as many category members (like different types of chairs) do not meet all criteria. This led to the &lt;strong&gt;Prototype Approach&lt;/strong&gt;, which posits that categories are formed around a single &amp;ldquo;average&amp;rdquo; member, or prototype. New items are judged based on their &amp;ldquo;typicality,&amp;rdquo; or resemblance to this prototype. This explains the &amp;ldquo;typicality effect,&amp;rdquo; where highly typical objects (like &amp;ldquo;sparrow&amp;rdquo; for &amp;ldquo;bird&amp;rdquo;) are verified more rapidly than atypical ones (like &amp;ldquo;penguin&amp;rdquo;).&lt;/p&gt;</description>
     </item>
@@ -137,7 +179,7 @@
     <item>
       <title>LECTURE 5: Memory</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-05/cp-2025-10-29/</link>
-      <pubDate>Wed, 29 Oct 2025 16:42:04 +0200</pubDate>
+      <pubDate>Wed, 29 Oct 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-05/cp-2025-10-29/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Memory is the process of retaining, retrieving, and using information after the original stimulus is gone. The classic Modal Model of Memory breaks this process into three structural stages. First, Sensory Memory briefly holds all incoming sensory information for less than a second. Sperling&amp;rsquo;s partial report experiments demonstrated that while sensory memory has a large capacity, the information fades rapidly.&lt;/p&gt;&#xA;&lt;p&gt;Information attended to moves into Short-Term Memory (STM), a store with a limited duration and capacity. Without rehearsal, information in STM lasts only about 15-20 seconds. While traditionally thought to hold &amp;ldquo;seven plus or minus two&amp;rdquo; items, modern change detection studies suggest the capacity is closer to four items. This capacity is also affected by information complexity, not just item count. However, capacity can be expanded by chunking—grouping small units into larger, meaningful ones. The concept of STM was refined into Working Memory (WM), which is not just a passive store, but an active system for manipulating information for complex tasks. This multi-component model includes the Phonological Loop for verbal and auditory information and the Visuospatial Sketch Pad for visual and spatial information. These &amp;ldquo;slave systems&amp;rdquo; are coordinated by the Central Executive, which directs attention.&lt;/p&gt;</description>
     </item>
@@ -158,7 +200,7 @@
     <item>
       <title>LECTURE 4: Attention</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-04/cp-2025-10-22/</link>
-      <pubDate>Wed, 22 Oct 2025 16:02:26 +0200</pubDate>
+      <pubDate>Wed, 22 Oct 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-04/cp-2025-10-22/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;This lecture defines attention as the mind taking possession of one object or train of thought, implying a withdrawal from some things to deal effectively with others. This process manifests as selective attention (focusing), divided attention (multitasking), and attentional capture. Early models sought to explain when selection occurs. Broadbent&amp;rsquo;s filter model proposed an early filter based on physical characteristics, blocking unattended information. However, this was challenged by the &amp;ldquo;cocktail party effect&amp;rdquo; (hearing one&amp;rsquo;s name) and findings that meaning could be processed from an unattended ear. Treisman’s attenuation model modified this, suggesting the unattended message is weakened, not blocked, allowing salient information (like one&amp;rsquo;s name) to pass. In contrast, late selection models proposed that all stimuli are processed for meaning before selection. The Load Theory of Attention addresses how we ignore distractions, positing that this depends on the task&amp;rsquo;s perceptual load. Low-load (easy) tasks leave spare processing capacity that &amp;ldquo;spills over&amp;rdquo; to process distractors, making distraction more likely. High-load (hard) tasks consume all resources, leaving none to process distractors.&lt;/p&gt;</description>
     </item>
@@ -179,7 +221,7 @@
     <item>
       <title>LECTURE 3: Perception</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-03/cp-2025-10-15/</link>
-      <pubDate>Wed, 15 Oct 2025 17:02:14 +0200</pubDate>
+      <pubDate>Wed, 15 Oct 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-03/cp-2025-10-15/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Perception is the complex process of organizing and interpreting sensory information to understand the environment, going beyond simple sensation, which is the initial neural response to physical energy. This interpretive process is challenging because the sensory information received by our receptors is often ambiguous. For instance, a single two-dimensional image on the retina could correspond to numerous three-dimensional objects in the world. Furthermore, objects can be partially hidden, blurred, or viewed from various angles, yet we can typically still identify them.&lt;/p&gt;</description>
     </item>
@@ -193,7 +235,7 @@
     <item>
       <title>LECTURE 2: Cognitive Neuroscience</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-02/cp-2025-10-08/</link>
-      <pubDate>Wed, 08 Oct 2025 14:34:45 +0200</pubDate>
+      <pubDate>Wed, 08 Oct 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-02/cp-2025-10-08/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The study of cognitive neuroscience begins with the brain&amp;rsquo;s fundamental unit, the neuron. Early theories imagined a continuous &amp;ldquo;nerve net,&amp;rdquo; but it was discovered that the nervous system is composed of individual cells. These neurons, with their distinct cell bodies, dendrites, and axons, transmit signals throughout the body. Communication between neurons occurs at the synapse, where an electrical impulse, or action potential, causes the release of chemical neurotransmitters that excite or inhibit the next neuron.&lt;/p&gt;</description>
     </item>
@@ -203,13 +245,6 @@
       <pubDate>Tue, 07 Oct 2025 14:21:16 +0200</pubDate>
       <guid>http://localhost:1313/posts/statistics/lecture-01/stat-2025-10-07/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Statistics is a branch of mathematics focused on organizing, analyzing, and interpreting numerical data, primarily divided into two main areas. Descriptive statistics are used to summarize and make sense of a group of scores, while inferential statistics allow for drawing broader conclusions from the data collected in a study. Understanding statistics is crucial for conducting effective research, comprehending scientific literature, and developing critical thinking skills.&lt;/p&gt;&#xA;&lt;p&gt;The foundation of statistical analysis begins with data, which are observations or measurements. A characteristic that can have different values is known as a variable, and a specific person&amp;rsquo;s value on that variable is a score. These variables can be measured on different scales, or levels of measurement. Nominal variables use categories or names, such as gender or ethnicity. Ordinal variables represent a rank order, like competition placements. Interval variables have equal intervals between values but lack a true zero, such as temperature in Celsius. Ratio variables possess all the properties of interval scales plus a true zero point, including measures like age, height, and income.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cognitive Process Course Description and Materials</title>
-      <link>http://localhost:1313/posts/cognitive-process/materials/materials/</link>
-      <pubDate>Wed, 01 Oct 2025 13:18:09 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cognitive-process/materials/materials/</guid>
-      <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to your professor&#39;s blog!</title>
@@ -224,6 +259,13 @@
       <pubDate>Wed, 01 Oct 2025 11:15:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/cognitive-process/lecture-01/cp-2025-10-01/</guid>
       <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Cognitive psychology is the scientific study of mental processes, viewing the mind as a system that creates representations of the world to control functions like perception, attention, memory, and reasoning. The field&amp;rsquo;s roots are in philosophy, with thinkers like René Descartes proposing mind-body dualism and John Locke suggesting the mind is a &amp;ldquo;tabula rasa,&amp;rdquo; shaped by experience.&lt;/p&gt;&#xA;&lt;p&gt;The scientific study began with Wilhelm Wundt&amp;rsquo;s structuralism, which aimed to identify the basic elements of consciousness through analytic introspection. This was followed by William James&amp;rsquo;s functionalism, which focused on how the mind helps individuals adapt to their environment. Gestalt psychology, founded by Max Wertheimer, shifted focus to how the mind organizes perceptions into meaningful wholes, asserting that the whole is more than the sum of its parts. However, the rise of behaviorism, championed by John B. Watson and B. F. Skinner, led to a period where psychology abandoned the study of the mind in favor of observable stimulus-response behaviors, analyzed through classical and operant conditioning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cognitive Process Course Description and Materials</title>
+      <link>http://localhost:1313/posts/cognitive-process/materials/materials/</link>
+      <pubDate>Wed, 01 Oct 2025 11:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/materials/materials/</guid>
+      <description>&lt;p&gt;This course provides an overview of the fundamental processes involved in human cognition. Topics include perception, attention, memory, language, problem-solving, decision-making, and creativity. The course also explores cognitive neuroscience, conceptual knowledge, visual imagery, and human intelligence. Special focus is given to cognitive disorders, offering insights into how these processes can malfunction. Students will gain a deeper understanding of how the brain supports mental functions and how cognitive processes impact everyday life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Statistics Course Description and Materials</title>

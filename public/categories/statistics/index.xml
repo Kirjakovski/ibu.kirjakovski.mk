@@ -5,9 +5,16 @@
     <link>http://localhost:1313/categories/statistics/</link>
     <description>Recent content in Statistics on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 11:15:00 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Dec 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 11: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</link>
+      <pubDate>Tue, 23 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as hypothesis-testing procedures specifically designed for nominal or categorical variables, where measurements represent frequencies within distinct categories. The chi-square test for goodness of fit examines how an observed frequency distribution of a single nominal variable aligns with an expected pattern based on the null hypothesis. In contrast, the chi-square test for independence evaluates whether a relationship exists between two nominal variables organized in a contingency table. The calculation involves summing the squared differences between observed and expected frequencies, divided by the expected frequencies. Key parameters include degrees of freedom, which depend on the number of categories or cells, and cutoff scores determined by significance levels.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 10: Correlation and Regression</title>
       <link>http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-16/</link>

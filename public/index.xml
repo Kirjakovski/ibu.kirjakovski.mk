@@ -5,9 +5,37 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 11:15:00 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 12: Cognitive Disorders</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</link>
+      <pubDate>Wed, 24 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The &amp;ldquo;Cognitive Disorders&amp;rdquo; lecture systematically explores the disruptions of human cognitive processes typically resulting from brain injury, cardiovascular events, or degenerative conditions. Perceptual and attentional disorders provide insight into specialized brain functions. Synesthesia is a condition where sensory input in one modality triggers an automatic experience in another, such as seeing colors while hearing sounds. Conversely, blindsight involves damage to the primary visual cortex; patients detect visual stimuli within a scotoma despite a nominal loss of vision. Unilateral spatial neglect, frequently observed following right-hemisphere strokes, results in the failure to attend to stimuli on one side of space. Visual agnosia further illustrates cognitive dissociation; patients possess intact sensory processes but cannot recognize objects. Specific variations include form agnosia, integrative agnosia, and prosopagnosia, which is the specialized inability to recognize faces.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 11: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</link>
+      <pubDate>Tue, 23 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as hypothesis-testing procedures specifically designed for nominal or categorical variables, where measurements represent frequencies within distinct categories. The chi-square test for goodness of fit examines how an observed frequency distribution of a single nominal variable aligns with an expected pattern based on the null hypothesis. In contrast, the chi-square test for independence evaluates whether a relationship exists between two nominal variables organized in a contingency table. The calculation involves summing the squared differences between observed and expected frequencies, divided by the expected frequencies. Key parameters include degrees of freedom, which depend on the number of categories or cells, and cutoff scores determined by significance levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 8: Correlation and Regression</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Correlation and regression are fundamental statistical procedures used to analyze relationships between numeric, equal-interval variables. Correlation describes the degree of association between variables, while regression utilizes these associations to facilitate precise outcome predictions. Scatter diagrams provide a visual representation of these patterns, indicating whether a relationship is linear, curvilinear, or absent. Linear correlations are defined by their direction—positive or negative—and their strength, which ranges from weak to perfect.&lt;/p&gt;&#xA;&lt;p&gt;The Pearson correlation coefficient ($r$) serves as both a descriptive and inferential statistic, ranging from -1 to +1. Its logic is rooted in Z-score standardization and the average of cross-products, where positive sums indicate positive linear associations and sums near zero suggest no relationship. Significance testing determines if a sample correlation is likely present in the general population, typically through a t-test. Key assumptions for these procedures include normality, bivariate normality, homoscedasticity, and the independence of scores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as essential hypothesis-testing procedures for nominal data, where variables are categorical rather than quantitative. These tests evaluate frequencies—the number of observations in specific categories—and are divided into two primary types. The chi-square test for goodness of fit analyzes a single nominal variable to determine how well an observed frequency distribution matches an expected pattern. Conversely, the chi-square test for independence examines whether the distribution of one nominal variable relates to another, utilizing contingency tables to organize combinations of categories.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 11: Human Intelligence</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-11/cp-2025-12-17/</link>

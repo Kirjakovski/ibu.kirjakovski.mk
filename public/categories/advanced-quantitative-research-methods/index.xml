@@ -5,9 +5,23 @@
     <link>http://localhost:1313/categories/advanced-quantitative-research-methods/</link>
     <description>Recent content in Advanced Quantitative Research Methods on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 16:00:00 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2025 16:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/advanced-quantitative-research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 8: Correlation and Regression</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Correlation and regression are fundamental statistical procedures used to analyze relationships between numeric, equal-interval variables. Correlation describes the degree of association between variables, while regression utilizes these associations to facilitate precise outcome predictions. Scatter diagrams provide a visual representation of these patterns, indicating whether a relationship is linear, curvilinear, or absent. Linear correlations are defined by their direction—positive or negative—and their strength, which ranges from weak to perfect.&lt;/p&gt;&#xA;&lt;p&gt;The Pearson correlation coefficient ($r$) serves as both a descriptive and inferential statistic, ranging from -1 to +1. Its logic is rooted in Z-score standardization and the average of cross-products, where positive sums indicate positive linear associations and sums near zero suggest no relationship. Significance testing determines if a sample correlation is likely present in the general population, typically through a t-test. Key assumptions for these procedures include normality, bivariate normality, homoscedasticity, and the independence of scores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LECTURE 9: Chi-Square Tests and Nonparametric Statistics</title>
+      <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</link>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;Chi-square tests serve as essential hypothesis-testing procedures for nominal data, where variables are categorical rather than quantitative. These tests evaluate frequencies—the number of observations in specific categories—and are divided into two primary types. The chi-square test for goodness of fit analyzes a single nominal variable to determine how well an observed frequency distribution matches an expected pattern. Conversely, the chi-square test for independence examines whether the distribution of one nominal variable relates to another, utilizing contingency tables to organize combinations of categories.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 7: Comparing Groups – ANOVA</title>
       <link>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-07/aqrm-2025-12-15/</link>

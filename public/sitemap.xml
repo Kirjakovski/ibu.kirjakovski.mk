@@ -3,34 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-16T11:15:00+02:00</lastmod>
+    <lastmod>2025-12-24T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cognitive-process/</loc>
+    <lastmod>2025-12-24T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</loc>
+    <lastmod>2025-12-24T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-24T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-24T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/statistics/lecture-11/stat-2025-12-23/</loc>
+    <lastmod>2025-12-23T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/statistics/</loc>
+    <lastmod>2025-12-23T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/advanced-quantitative-research-methods/</loc>
+    <lastmod>2025-12-22T16:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-08/aqrm-2025-12-22/</loc>
+    <lastmod>2025-12-22T16:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-09/aqrm-2025-12-22/</loc>
+    <lastmod>2025-12-22T16:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-11/cp-2025-12-17/</loc>
+    <lastmod>2025-12-17T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-10/stat-2025-12-16/</loc>
     <lastmod>2025-12-16T11:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-16T11:15:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-16T11:15:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/statistics/</loc>
-    <lastmod>2025-12-16T11:15:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/advanced-quantitative-research-methods/</loc>
-    <lastmod>2025-12-15T16:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/advanced-quantitative-research-methods/lecture-07/aqrm-2025-12-15/</loc>
     <lastmod>2025-12-15T16:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/lecture-10/cp-2025-12-10/</loc>
+    <lastmod>2025-12-10T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-09/stat-2025-12-09/</loc>
     <lastmod>2025-12-09T11:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cognitive-process/</loc>
-    <lastmod>2025-12-03T21:31:20+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-09/cp-2025-12-03/</loc>
-    <lastmod>2025-12-03T21:31:20+02:00</lastmod>
+    <lastmod>2025-12-03T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-08/stat-2025-12-02/</loc>
     <lastmod>2025-12-02T20:38:00+02:00</lastmod>
@@ -45,7 +63,7 @@
     <lastmod>2025-11-28T22:15:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-08/cp-2025-11-26/</loc>
-    <lastmod>2025-11-26T21:31:20+02:00</lastmod>
+    <lastmod>2025-11-26T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-07/stat-2025-11-25/</loc>
     <lastmod>2025-11-25T20:38:00+02:00</lastmod>
@@ -69,7 +87,7 @@
     <lastmod>2025-11-08T22:28:01+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-06/cp-2025-11-05/</loc>
-    <lastmod>2025-11-05T16:42:04+02:00</lastmod>
+    <lastmod>2025-11-05T11:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-05/stat-2025-11-04/</loc>
     <lastmod>2025-11-04T21:29:54+02:00</lastmod>
@@ -78,7 +96,7 @@
     <lastmod>2025-11-03T16:49:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-05/cp-2025-10-29/</loc>
-    <lastmod>2025-10-29T16:42:04+02:00</lastmod>
+    <lastmod>2025-10-29T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-04/stat-2025-10-28/</loc>
     <lastmod>2025-10-28T16:16:18+02:00</lastmod>
@@ -87,7 +105,7 @@
     <lastmod>2025-10-27T16:49:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-04/cp-2025-10-22/</loc>
-    <lastmod>2025-10-22T16:02:26+02:00</lastmod>
+    <lastmod>2025-10-22T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-03/stat-2025-10-21/</loc>
     <lastmod>2025-10-21T15:55:50+02:00</lastmod>
@@ -96,19 +114,16 @@
     <lastmod>2025-10-20T16:08:36+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-03/cp-2025-10-15/</loc>
-    <lastmod>2025-10-15T17:02:14+02:00</lastmod>
+    <lastmod>2025-10-15T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-02/stat-2025-10-14/</loc>
     <lastmod>2025-10-14T14:49:31+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-02/cp-2025-10-08/</loc>
-    <lastmod>2025-10-08T14:34:45+02:00</lastmod>
+    <lastmod>2025-10-08T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/lecture-01/stat-2025-10-07/</loc>
     <lastmod>2025-10-07T14:21:16+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/cognitive-process/materials/materials/</loc>
-    <lastmod>2025-10-01T13:18:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/general-discussion/</loc>
     <lastmod>2025-10-01T12:41:36+02:00</lastmod>
@@ -118,6 +133,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/cognitive-process/lecture-01/cp-2025-10-01/</loc>
     <lastmod>2025-10-01T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cognitive-process/materials/materials/</loc>
+    <lastmod>2025-10-01T11:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/statistics/materials/materials/</loc>
     <lastmod>2025-10-01T11:00:00+02:00</lastmod>

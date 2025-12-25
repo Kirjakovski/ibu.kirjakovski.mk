@@ -5,9 +5,16 @@
     <link>http://localhost:1313/categories/cognitive-process/</link>
     <description>Recent content in Cognitive Process on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 11:15:00 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Dec 2025 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cognitive-process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LECTURE 12: Cognitive Disorders</title>
+      <link>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</link>
+      <pubDate>Wed, 24 Dec 2025 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cognitive-process/lecture-12/cp-2025-12-24/</guid>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;p&gt;The &amp;ldquo;Cognitive Disorders&amp;rdquo; lecture systematically explores the disruptions of human cognitive processes typically resulting from brain injury, cardiovascular events, or degenerative conditions. Perceptual and attentional disorders provide insight into specialized brain functions. Synesthesia is a condition where sensory input in one modality triggers an automatic experience in another, such as seeing colors while hearing sounds. Conversely, blindsight involves damage to the primary visual cortex; patients detect visual stimuli within a scotoma despite a nominal loss of vision. Unilateral spatial neglect, frequently observed following right-hemisphere strokes, results in the failure to attend to stimuli on one side of space. Visual agnosia further illustrates cognitive dissociation; patients possess intact sensory processes but cannot recognize objects. Specific variations include form agnosia, integrative agnosia, and prosopagnosia, which is the specialized inability to recognize faces.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LECTURE 11: Human Intelligence</title>
       <link>http://localhost:1313/posts/cognitive-process/lecture-11/cp-2025-12-17/</link>
