@@ -1,6 +1,6 @@
 ---
 title: Welcome to your professor's blog!
-date: 2025-10-01T12:41:36+02:00
+date: 2026-02-04T00:08:18+02:00
 deadline:
 categories: [General Discussion]
 draft: false
