@@ -10,10 +10,17 @@
     <atom:link href="http://localhost:1313/categories/social-psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LECTURE 1: Introduction to Social Psychology</title>
-      <link>http://localhost:1313/posts/social-psychology/materials/reading-materials/</link>
+      <link>http://localhost:1313/posts/social-psychology/lecture-01/sp-l01-2026-02-13/</link>
       <pubDate>Fri, 13 Feb 2026 11:10:30 +0200</pubDate>
-      <guid>http://localhost:1313/posts/social-psychology/materials/reading-materials/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;&#xA;&lt;h4 id=&#34;reading-materials&#34;&gt;Reading materials:&lt;/h4&gt;&#xA;&lt;h5 id=&#34;mandatory&#34;&gt;Mandatory:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aronson, E., Wilson, T. D., Akert, R. M., &amp;amp; Sommers, S. R. (2016). &lt;em&gt;Social psychology&lt;/em&gt; (9th ed.). Pearson. (&lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/IQCGsowgJfaGRKuWBaZkXSbuAQL7Eubyi6AsJTVtrNnBIMU?e=QMD2BV&#34; target=&#34;_blank&#34;&gt;DOWNLOAD PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;supplementary&#34;&gt;Supplementary:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kassin, S., Fein, S., &amp;amp; Markus, H. R. (2017). &lt;em&gt;Social psychology&lt;/em&gt; (10th ed.). Cengage. (&lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/IQDKxHAVeEpaTbFZhB8nmgDyAa5GxU8NuCzHql972QAEvLQ?e=CH3UXM&#34; target=&#34;_blank&#34;&gt;DOWNLOAD PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/posts/social-psychology/lecture-01/sp-l01-2026-02-13/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Why do people act the way they do? Are our behaviors driven primarily by personality, or are they shaped by the situations we find ourselves in? Social psychology begins with these deceptively simple questions and reveals that the answers are often more complex—and more unsettling—than common sense suggests.&lt;/p&gt;&#xA;&lt;p&gt;At its core, social psychology is the scientific study of how people’s thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others. This influence can be subtle, such as adjusting our opinions to fit a group, or extreme, as illustrated by historical tragedies like the Jonestown massacre. Such events demonstrate the profound power of social influence and the capacity of situations to override individual dispositions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SOCIAL PSYCHOLOGY Course Reading Materials</title>
+      <link>http://localhost:1313/posts/social-psychology/materials/sp-reading-materials/</link>
+      <pubDate>Fri, 13 Feb 2026 11:00:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/social-psychology/materials/sp-reading-materials/</guid>
+      <description>&lt;h2 id=&#34;reading-materials&#34;&gt;Reading Materials:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;mandatory&#34;&gt;Mandatory:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aronson, E., Wilson, T. D., Akert, R. M., &amp;amp; Sommers, S. R. (2016). &lt;em&gt;Social psychology&lt;/em&gt; (9th ed.). Pearson. (&lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/IQCGsowgJfaGRKuWBaZkXSbuAQL7Eubyi6AsJTVtrNnBIMU?e=QMD2BV&#34; target=&#34;_blank&#34;&gt;DOWNLOAD&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;supplementary&#34;&gt;Supplementary:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kassin, S., Fein, S., &amp;amp; Markus, H. R. (2017). &lt;em&gt;Social psychology&lt;/em&gt; (10th ed.). Cengage. (&lt;a href=&#34;https://ibuit-my.sharepoint.com/:b:/g/personal/kirjakovski_ibu_edu_mk/IQDKxHAVeEpaTbFZhB8nmgDyAa5GxU8NuCzHql972QAEvLQ?e=CH3UXM&#34; target=&#34;_blank&#34;&gt;DOWNLOAD&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

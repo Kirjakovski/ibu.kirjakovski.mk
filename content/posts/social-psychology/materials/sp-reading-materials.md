@@ -1,6 +1,6 @@
 ---
 title: "SOCIAL PSYCHOLOGY Course Reading Materials"
-date: 2026-02-13T11:00:00+02:00
+date: 2026-02-13T11:00:01+02:00
 deadline:
 categories: [Social Psychology]
 draft: false

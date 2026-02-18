@@ -1,6 +1,6 @@
 ---
 title: "EXPERIMENTAL PSYCHOLOGY Course Reading Materials"
-date: 2026-02-13T11:00:01+02:00
+date: 2026-02-13T11:00:02+02:00
 deadline:
 categories: [Experimental Psychology]
 draft: false

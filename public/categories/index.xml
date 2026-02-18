@@ -6,12 +6,19 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 11:10:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimental Psychology</title>
+      <link>http://localhost:1313/categories/experimental-psychology/</link>
+      <pubDate>Fri, 13 Feb 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/categories/experimental-psychology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social Psychology</title>
       <link>http://localhost:1313/categories/social-psychology/</link>
-      <pubDate>Fri, 13 Feb 2026 11:10:30 +0200</pubDate>
+      <pubDate>Fri, 13 Feb 2026 11:00:00 +0200</pubDate>
       <guid>http://localhost:1313/categories/social-psychology/</guid>
       <description></description>
     </item>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/categories/general-discussion/</link>
       <pubDate>Wed, 04 Feb 2026 00:08:18 +0200</pubDate>
       <guid>http://localhost:1313/categories/general-discussion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cognitive Process</title>
-      <link>http://localhost:1313/categories/cognitive-process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cognitive-process/</guid>
       <description></description>
     </item>
   </channel>
