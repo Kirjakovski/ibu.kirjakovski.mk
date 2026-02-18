@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-04T00:08:18+02:00</lastmod>
+    <lastmod>2026-02-13T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology/materials/reading-materials/</loc>
+    <lastmod>2026-02-13T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-13T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-13T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social-psychology/</loc>
+    <lastmod>2026-02-13T11:10:30+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/general-discussion/</loc>
     <lastmod>2026-02-04T00:08:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-04T00:08:18+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-04T00:08:18+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/general-discussion/welcome/</loc>
     <lastmod>2026-02-04T00:08:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cognitive-process/</loc>
+    <lastmod>2025-10-01T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology/lecture-01/sp-l01-2026-02-13/</loc>
+    <lastmod>2025-10-01T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
