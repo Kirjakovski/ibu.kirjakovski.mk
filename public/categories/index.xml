@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 11:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethical Dilemas and Perspectives in Psychological Research</title>
+      <link>http://localhost:1313/categories/ethical-dilemas-and-perspectives-in-psychological-research/</link>
+      <pubDate>Tue, 17 Feb 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/categories/ethical-dilemas-and-perspectives-in-psychological-research/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Experimental Psychology</title>
       <link>http://localhost:1313/categories/experimental-psychology/</link>
@@ -18,7 +25,7 @@
     <item>
       <title>Social Psychology</title>
       <link>http://localhost:1313/categories/social-psychology/</link>
-      <pubDate>Fri, 13 Feb 2026 11:00:00 +0200</pubDate>
+      <pubDate>Fri, 13 Feb 2026 11:10:30 +0200</pubDate>
       <guid>http://localhost:1313/categories/social-psychology/</guid>
       <description></description>
     </item>
