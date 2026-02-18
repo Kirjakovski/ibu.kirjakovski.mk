@@ -2,7 +2,7 @@
 title: Welcome to your professor's blog!
 date: 2026-02-04T00:08:18+02:00
 deadline:
-categories: [General Discussion]
+categories: [GENERAL DISCUSSION]
 draft: false
 ---
 
