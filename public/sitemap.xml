@@ -23,17 +23,29 @@
     <loc>http://localhost:1313/categories/social-psychology/</loc>
     <lastmod>2026-03-13T11:10:30+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/ethical-dilemas-and-perspectives-in-psychological-research-resources/2026-03-10/</loc>
+    <lastmod>2026-03-10T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ethical-dilemmas-and-perspectives-in-psychological-research/</loc>
+    <lastmod>2026-03-10T11:15:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/experimental-psychology/2026-03-06/</loc>
     <lastmod>2026-03-06T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology/2026-03-06/</loc>
     <lastmod>2026-03-06T11:10:30+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/ethical-dilemas-and-perspectives-in-psychological-research-resources/2026-03-03/</loc>
+    <lastmod>2026-03-03T11:15:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/experimental-psychology/2026-02-27/</loc>
     <lastmod>2026-02-27T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology/2026-02-27/</loc>
     <lastmod>2026-02-27T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ethical-dilemas-and-perspectives-in-psychological-research-resources/2026-02-24/</loc>
+    <lastmod>2026-02-24T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/experimental-psychology/2026-02-20/</loc>
     <lastmod>2026-02-20T11:15:00+02:00</lastmod>
@@ -44,9 +56,6 @@
     <loc>http://localhost:1313/posts/ethical-dilemas-and-perspectives-in-psychological-research-resources/2026-02-17/</loc>
     <lastmod>2026-02-17T11:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ethical-dilemas-and-perspectives-in-psychological-research/</loc>
-    <lastmod>2026-02-17T11:15:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/experimental-psychology/2026-02-13/</loc>
     <lastmod>2026-02-13T11:15:00+02:00</lastmod>
   </url><url>
@@ -54,6 +63,9 @@
     <lastmod>2026-02-13T11:10:30+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ethical-dilemas-and-perspectives-in-psychological-research-resources/reading-materials/</loc>
+    <lastmod>2026-02-13T11:00:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ethical-dilemas-and-perspectives-in-psychological-research/</loc>
     <lastmod>2026-02-13T11:00:03+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/experimental-psychology/reading-materials/</loc>
