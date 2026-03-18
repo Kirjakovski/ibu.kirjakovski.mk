@@ -3,10 +3,11 @@ frontend:
   phases:
     build:
       commands:
-        - hugo
+        - hugo --minify
   artifacts:
     baseDirectory: public
     files:
       - '**/*'
   cache:
-    paths: []
+    paths:
+      - resources/**/*

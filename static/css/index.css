@@ -29,6 +29,7 @@ a:hover {
 .markdown-body {
     font-size: 18px;
     max-width: 100%;
+    font-family: "Bree Serif", serif;
 }
 
 .markdown-body a {

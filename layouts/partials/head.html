@@ -1,27 +1,19 @@
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177760906-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-177760906-1');
-  </script>
-
   <meta charset="utf-8" />
   {{ hugo.Generator }}
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="{{ .Site.Author.name }}" />
+  <meta name="author" content="{{ .Site.Params.author }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <link rel="canonical" href="{{ .Permalink }}" />
 
   {{- if .Site.Params.staticPrefix -}}
   <link rel="dns-prefetch" href="{{ .Site.Params.staticPrefix }}" />
   {{- end -}}
+  {{- if not .IsHome -}}
   <link rel="preload" href="{{ .Site.Params.staticPrefix }}{{ "js/highlight.pack.js" | relURL }}" as="script" />
+  {{- end -}}
 
   {{- if .Site.Params.favicon -}}
   <link rel="apple-touch-icon" href="{{ .Site.Params.favicon }}" />
@@ -49,13 +41,17 @@
   {{- if .Params.album -}}
   <meta property="og:image" content="{{ .Params.album }}" />
   {{ end }}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
+  <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ default .Summary .Description }}{{ end }}" />
 
   <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/flexboxgrid-6.3.1.min.css" | relURL }}" />
   {{ if not .IsHome -}}
-  <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/github-markdown.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/github-markdown.min.css" | relURL }}" />
   <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/highlight/tomorrow.min.css" | relURL }}" />
   {{- end }}
   <link rel="stylesheet" href="{{ "css/index.css" | relURL }}">
+  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
 
   {{ range .Site.Params.extraCSSFiles -}}
   <link rel="stylesheet" href="{{ $.Site.Params.staticPrefix }}{{ . | relURL }}">
@@ -63,16 +59,6 @@
 
   <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml"
     title="{{ .Site.Title }}">
-  <!-- fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker|Bree+Serif" rel="stylesheet">
-  <!-- quicklink require -->
-  <!-- <script>
-    /* Disable minification (remove `.min` from URL path) for more info
-    https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver
-    */
-    (function (undefined) { }).call('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
-  </script> -->
-
   {{ .Site.Params.extraHead | safeHTML }}
   
   <!-- Math Rendering -->

@@ -15,14 +15,14 @@
       "description" : "{{ default .Summary .Description }}",
       {{- end }}
       "inLanguage" : "en-US",
-      "author" : "{{ .Site.Author.name }}",
-      "creator" : "{{ .Site.Author.name }}",
-      "publisher": "{{ .Site.Author.name }}",
-      "accountablePerson" : "{{ .Site.Author.name }}",
-      "copyrightHolder" : "{{ .Site.Author.name }}",
+      "author" : { "@type": "Person", "name": "{{ .Site.Params.author }}" },
+      "creator" : { "@type": "Person", "name": "{{ .Site.Params.author }}" },
+      "publisher": { "@type": "Organization", "name": "{{ .Site.Params.author }}", "url": "{{ .Site.BaseURL }}" },
+      "accountablePerson" : "{{ .Site.Params.author }}",
+      "copyrightHolder" : "{{ .Site.Params.author }}",
       "copyrightYear" : "{{ .Date.Format "2006" }}",
       "datePublished": "{{ .Date }}",
-      "dateModified" : "{{ .Date }}",
+      "dateModified" : "{{ .Lastmod }}",
       "url" : "{{ .Permalink }}",
       "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
   }

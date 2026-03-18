@@ -3,9 +3,10 @@ languageCode = "en-us"
 title = "Prof. Kirjakovski IBU Blog"
 theme = "hugo-theme-yinyang"
 DefaultContentLanguage = "en"
-googleAnalytics = "UA-177760906-1"
+# googleAnalytics = "G-XXXXXXXXXX"  # Replace with your GA4 Measurement ID
 # Enable for syntax highlighting
 pygmentsUseClasses = true
+enableRobotsTXT = true
 
 #[author]
 #  name = "profKirjakovski"
@@ -22,10 +23,9 @@ pygmentsUseClasses = true
   tag = "tags"
 
 [params]
+  authorHomepage = "https://ibu.kirjakovski.mk"
+  author = "Atanas Kirjakovski"
   mainSections = ["posts"]
   headTitle = "Prof. Kirjakovski IBU Blog"
   disqus = "Kirjakovski" # disqus account name
   deadline = ""
-  math = true
-#  name = "profKirjakovski"
-#  homepage = "https://twitter.com/profKirjakovski"
