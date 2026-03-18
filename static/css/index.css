@@ -78,6 +78,7 @@ a:hover {
     font-family: "Permanent Marker", Impact, Charcoal, sans-serif;
     font-size: 3rem;
     margin-top: 32px;
+    line-height: 1;
 }
 
 .signatures a {
