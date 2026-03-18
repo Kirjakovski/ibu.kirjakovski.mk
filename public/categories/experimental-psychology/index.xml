@@ -6,8 +6,29 @@
     <description>Recent content in EXPERIMENTAL PSYCHOLOGY on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 11:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/experimental-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#05: Surveys and Interviews</title>
+      <link>http://localhost:1313/posts/experimental-psychology/2026-03-13/</link>
+      <pubDate>Fri, 13 Mar 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/2026-03-13/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The landscape of psychological research is fundamentally divided between experimental manipulations and nonexperimental observations. While true laboratory experiments offer high internal validity and causal certainty, nonexperimental methodologies—specifically correlational and quasi-experimental designs—excel in external validity by evaluating behaviors as they naturally occur. Correlational investigations serve a critical heuristic function, quantifying preexisting associations between variables that may be unsuitable for direct manipulation due to ethical or practical constraints. By utilizing statistical tools like the Pearson Product Moment Coefficient, researchers can define the strength and direction of these relationships, though they must remain vigilant against distortions caused by nonlinear trends, range truncation, and extreme outliers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#04: Surveys and Interviews</title>
+      <link>http://localhost:1313/posts/experimental-psychology/2026-03-06/</link>
+      <pubDate>Fri, 06 Mar 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/2026-03-06/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The evolution of the survey method reflects a sophisticated journey from rudimentary Roman census-taking to a rigorous branch of psychological science that balances mathematical precision with the complexities of human cognition. At its core, modern self-reporting functions as a standardized probe into the internal states of representative populations. The scientific validity of these measures depends heavily on the level of measurement employed, ranging from simple nominal categorizations to high-precision ratio scales. By prioritizing precise operationalization and strategic questionnaire construction, such as the elimination of double-barreled prompts and the careful sequencing of inquiries, researchers can transform vague psychological constructs into actionable, quantifiable data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#03: Non-experimental Designs</title>
+      <link>http://localhost:1313/posts/experimental-psychology/2026-02-27/</link>
+      <pubDate>Fri, 27 Feb 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/2026-02-27/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The shift from controlled laboratory experiments to nonexperimental research designs marks a critical expansion in the methodology of psychological science. While traditional experiments excel at establishing internal validity through the rigorous manipulation of antecedent conditions, they often struggle with the &amp;ldquo;validity trade-off,&amp;rdquo; where the artificiality of the lab limits the generalizability of findings to the real world. Nonexperimental approaches—ranging from the deep personal reflections of phenomenology to the unobtrusive oversight of naturalistic observation—prioritize external validity. By studying behaviors as they occur spontaneously, researchers can capture the complexity of the human experience in its natural habitat, bypassing the ethical and practical constraints that make certain variables, such as fixed personality traits or harmful environmental conditions, impossible to manipulate.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>#02: Research Ethics</title>
       <link>http://localhost:1313/posts/experimental-psychology/2026-02-20/</link>
