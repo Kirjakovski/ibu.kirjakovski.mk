@@ -102,29 +102,27 @@ a:hover {
     min-height: 600px;
 }
 
-.posts-date,
-.posts-title {
+.posts-date {
     font-size: 1.2rem;
 }
 
+.posts-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
 .posts-line {
-    margin: 12px 0;
+    margin: 24px 0;
 }
 
 .site-footer {
     margin-top: 50px;
-    margin-bottom: 80px;
-    display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
-    padding: 12px 0;
-    border-width: 3px;
-    border-style: solid none;
-    border-color: #000;
-}
-
-.site-footer-item {
-    margin-right: 12px;
+    margin-bottom: 40px;
+    padding-top: 12px;
+    border-top: 0.5px solid #000;
+    font-size: 0.8rem;
+    color: #666;
+    text-align: left;
 }
 
 
@@ -215,11 +213,11 @@ a:hover {
 /* gallery */
 
 .gallery-img {
-    text-align: center;
+    text-align: left;
 }
 
 .gallery-img span {
-    text-align: center;
+    text-align: left;
 }
 
 .gallery-img-desc {
@@ -291,24 +289,50 @@ pre {
     max-width: 100%;
 }
 
+.posts-categories {
+    margin-top: 0px;
+}
+
 .posts-category {
-    display: -webkit-inline-box;
-    font-size: 0.8rem;
-    text-align: left;
-    font-weight: bold;
-    padding: 6px 6px;
-    border: #000 2px solid;
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: normal;
+    padding: 2px 4px;
+    border: #666 0.5px solid;
     border-radius: 5px;
     margin-bottom: 3px;
+    margin-right: 4px;
+    background-color: #f5f5f5;
+    text-align: left;
+}
+
+.posts-category a {
+    color: #666;
+    font-variant: small-caps;
+}
+
+.post-categories {
+    margin-top: -16px;
+    margin-bottom: 8px;
 }
 
 .post-category {
-    display: -webkit-inline-box;
-    font-size: 0.8rem;
-    text-align: left;
+    display: inline-block;
     font-weight: bold;
-    padding: 6px 6px;
-    border: #000 2px solid;
+    padding: 2px 4px;
+    border: #666 0.5px solid;
     border-radius: 5px;
     margin-bottom: 3px;
+    margin-right: 4px;
+    background-color: #f5f5f5;
+    text-align: left;
+    white-space: nowrap;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.post-category a {
+    color: #666;
+    font-variant: small-caps;
 }

@@ -1,5 +1,5 @@
 ---
-title: "ETHICAL DILEMAS AND PERSPECTIVES IN PSYCHOLOGICAL RESEARCH Course Reading Materials"
+title: "Course Reading Materials"
 date: 2026-02-13T11:00:03+02:00
 deadline:
 categories: [ETHICAL DILEMAS AND PERSPECTIVES IN PSYCHOLOGICAL RESEARCH]
