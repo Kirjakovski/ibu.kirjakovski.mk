@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 11:10:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:10:30 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#05: Persuasion</title>
+      <link>http://localhost:1313/posts/social-psychology/2026-03-13/</link>
+      <pubDate>Fri, 13 Mar 2026 11:10:30 +0200</pubDate>
+      <guid>http://localhost:1313/posts/social-psychology/2026-03-13/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The transformation of human attitudes is a sophisticated process governed by both external communication and internal cognitive reconciliation. At the heart of this dynamic lies the Elaboration Likelihood Model, which suggests that individuals process persuasive messages through two distinct pathways: a central route and a peripheral route. When a recipient is motivated and possesses the cognitive capacity to engage, they scrutinize the quality of arguments, leading to enduring attitude changes. Conversely, when involvement is low, individuals rely on peripheral cues such as source attractiveness, perceived expertise, or emotional appeals. This duality highlights that persuasion is not merely about the content of a message but is deeply contingent upon the audience&amp;rsquo;s psychological state and the context in which the information is delivered.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>#04: Attitudes</title>
       <link>http://localhost:1313/posts/social-psychology/2026-03-06/</link>
@@ -21,6 +28,13 @@
       <pubDate>Fri, 27 Feb 2026 11:10:30 +0200</pubDate>
       <guid>http://localhost:1313/posts/social-psychology/2026-02-27/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Social cognition serves as the intricate framework through which individuals process, store, and apply information about others and the surrounding social environment. This cognitive journey begins with automatic thinking, a non-conscious and effortless mechanism that utilizes mental structures known as schemas to organize knowledge and fill gaps in situational understanding. These schemas are highly accessible due to past experiences, current goals, or recent priming, often influencing perceptions so profoundly that they can lead to self-fulfilling prophecies. In such instances, an individual&amp;rsquo;s expectations of another person can inadvertently shape their own behavior, which then elicits a response that confirms the original, perhaps erroneous, belief.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#02: Research Ethics</title>
+      <link>http://localhost:1313/posts/experimental-psychology/2026-02-20/</link>
+      <pubDate>Fri, 20 Feb 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/2026-02-20/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The pursuit of psychological knowledge exists in a state of perpetual tension between the amoral nature of objective fact-finding and the moral obligations of the researcher. While science itself focuses on understanding the universe through impartial data, the scientists conducting these studies are moral agents who must navigate the delicate balance between gaining new insights and ensuring the humane treatment of their subjects. This ethical landscape is often defined by the core principle that the well-being of the participant must always supersede the search for wisdom. Research that prioritizes idle curiosity over participant welfare or utilizes flawed designs that squander resources is considered inherently unethical, regardless of the physical safety of the procedures involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>#02: Methodology in Social Psychology</title>

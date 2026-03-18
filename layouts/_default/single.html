@@ -26,7 +26,7 @@
             <div class="col-xs-3">
               {{ if .Date }}
               <time class="post-date" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">
-                Date: {{ .Date.Format "02 Jan 2006" }}
+                {{ .Date.Format "02 Jan 2006" }}
               </time>
               {{ end }}
             </div>
