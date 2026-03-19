@@ -14,12 +14,3 @@
   {{ end }}
 </div>
 <div class="header-line"></div>
-<div class="row" style="margin-bottom: 30px;">
-  {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-  <div class="col-xs-6">
-    <nav class="category-nav-compact">
-      <a href="/categories/{{ $name | urlize }}/">{{ $name | upper }}</a>
-    </nav>
-  </div>
-  {{ end }}
-</div>
