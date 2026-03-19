@@ -144,6 +144,9 @@ a:hover {
     .post-content p {
         letter-spacing: 0.05em;
     }
+    .posts-title {
+        line-height: 1.4;
+    }
     .posts-title a {
         display: block;
         margin-bottom: 4px;
