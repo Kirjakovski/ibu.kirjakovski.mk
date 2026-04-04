@@ -37,6 +37,16 @@ a:hover {
     text-decoration-color: #000;
 }
 
+.markdown-body table {
+    display: table;
+    width: 100%;
+}
+
+.markdown-body table th {
+    background-color: #000;
+    color: #fff;
+}
+
 .markdown-body pre {
     padding: 16px;
     overflow: auto;
@@ -69,6 +79,11 @@ a:hover {
 
 
 /* header */
+
+header {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
 
 .site-date-catalog {
     font-size: 2rem;
@@ -165,7 +180,8 @@ a:hover {
 }
 
 .post-header {
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .post-title {

@@ -6,41 +6,55 @@
     <description>Recent content in EXPERIMENTAL PSYCHOLOGY on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/experimental-psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Presentations</title>
+      <link>http://localhost:1313/posts/experimental-psychology/presentations/</link>
+      <pubDate>Sat, 04 Apr 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/presentations/</guid>
+      <description>&lt;p&gt;To achieve activity points for the course, you must identify a peer-reviewed experimental psychology study—via your textbook or Google Scholar—and distill its essence into a sharp, &lt;strong&gt;two-minute rapid oral presentation&lt;/strong&gt;. Because &lt;strong&gt;no visual aids or notes&lt;/strong&gt; are permitted, you must rely entirely on your verbal delivery to hook your audience, explain the experimental manipulation, and communicate the significance of the findings. You need to clearly explain the research question the study addresses, the hypotheses, the methodology, and the conclusions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#06: Formulating a Hypothesis</title>
+      <link>http://localhost:1313/posts/experimental-psychology/lec06-2026-04-03/</link>
+      <pubDate>Fri, 03 Apr 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec06-2026-04-03/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;A hypothesis serves as the formal predictive idea of an experiment, acting as a specific and measurable bridge between at least two variables. It is the end product of a rigorous thinking process rather than a simple hunch. In research, hypotheses are divided into experimental and nonexperimental types. Nonexperimental designs focus on describing potential correlations or relationships without claiming direct cause and effect. In contrast, experimental hypotheses use conditional logic to predict exactly how specific antecedent conditions will influence measured behavior, allowing researchers to make robust causal claims through the manipulation of independent variables.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>#05: Correlation and Quasi-experiments</title>
-      <link>http://localhost:1313/posts/experimental-psychology/2026-03-13/</link>
+      <link>http://localhost:1313/posts/experimental-psychology/lec05-2026-03-13/</link>
       <pubDate>Fri, 13 Mar 2026 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/experimental-psychology/2026-03-13/</guid>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec05-2026-03-13/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The landscape of psychological research is fundamentally divided between experimental manipulations and nonexperimental observations. While true laboratory experiments offer high internal validity and causal certainty, nonexperimental methodologies—specifically correlational and quasi-experimental designs—excel in external validity by evaluating behaviors as they naturally occur. Correlational investigations serve a critical heuristic function, quantifying preexisting associations between variables that may be unsuitable for direct manipulation due to ethical or practical constraints. By utilizing statistical tools like the Pearson Product Moment Coefficient, researchers can define the strength and direction of these relationships, though they must remain vigilant against distortions caused by nonlinear trends, range truncation, and extreme outliers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>#04: Surveys and Interviews</title>
-      <link>http://localhost:1313/posts/experimental-psychology/2026-03-06/</link>
+      <link>http://localhost:1313/posts/experimental-psychology/lec04-2026-03-06/</link>
       <pubDate>Fri, 06 Mar 2026 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/experimental-psychology/2026-03-06/</guid>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec04-2026-03-06/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The evolution of the survey method reflects a sophisticated journey from rudimentary Roman census-taking to a rigorous branch of psychological science that balances mathematical precision with the complexities of human cognition. At its core, modern self-reporting functions as a standardized probe into the internal states of representative populations. The scientific validity of these measures depends heavily on the level of measurement employed, ranging from simple nominal categorizations to high-precision ratio scales. By prioritizing precise operationalization and strategic questionnaire construction, such as the elimination of double-barreled prompts and the careful sequencing of inquiries, researchers can transform vague psychological constructs into actionable, quantifiable data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>#03: Non-experimental Designs</title>
-      <link>http://localhost:1313/posts/experimental-psychology/2026-02-27/</link>
+      <link>http://localhost:1313/posts/experimental-psychology/lec03-2026-02-27/</link>
       <pubDate>Fri, 27 Feb 2026 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/experimental-psychology/2026-02-27/</guid>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec03-2026-02-27/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The shift from controlled laboratory experiments to nonexperimental research designs marks a critical expansion in the methodology of psychological science. While traditional experiments excel at establishing internal validity through the rigorous manipulation of antecedent conditions, they often struggle with the &amp;ldquo;validity trade-off,&amp;rdquo; where the artificiality of the lab limits the generalizability of findings to the real world. Nonexperimental approaches—ranging from the deep personal reflections of phenomenology to the unobtrusive oversight of naturalistic observation—prioritize external validity. By studying behaviors as they occur spontaneously, researchers can capture the complexity of the human experience in its natural habitat, bypassing the ethical and practical constraints that make certain variables, such as fixed personality traits or harmful environmental conditions, impossible to manipulate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>#02: Research Ethics</title>
-      <link>http://localhost:1313/posts/experimental-psychology/2026-02-20/</link>
+      <link>http://localhost:1313/posts/experimental-psychology/lec02-2026-02-20/</link>
       <pubDate>Fri, 20 Feb 2026 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/experimental-psychology/2026-02-20/</guid>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec02-2026-02-20/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;The pursuit of psychological knowledge exists in a state of perpetual tension between the amoral nature of objective fact-finding and the moral obligations of the researcher. While science itself focuses on understanding the universe through impartial data, the scientists conducting these studies are moral agents who must navigate the delicate balance between gaining new insights and ensuring the humane treatment of their subjects. This ethical landscape is often defined by the core principle that the well-being of the participant must always supersede the search for wisdom. Research that prioritizes idle curiosity over participant welfare or utilizes flawed designs that squander resources is considered inherently unethical, regardless of the physical safety of the procedures involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>#01: The Scientific Method in Psychology</title>
-      <link>http://localhost:1313/posts/experimental-psychology/2026-02-13/</link>
+      <link>http://localhost:1313/posts/experimental-psychology/lec01-2026-02-13/</link>
       <pubDate>Fri, 13 Feb 2026 11:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/experimental-psychology/2026-02-13/</guid>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec01-2026-02-13/</guid>
       <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;We often rely on intuitive sayings to explain human behavior. Phrases like “birds of a feather flock together” and “opposites attract” both seem plausible—yet they contradict each other. This tension captures a central problem in psychology: commonsense explanations can justify almost any outcome after the fact, but they rarely allow us to predict behavior in advance.&lt;/p&gt;&#xA;&lt;p&gt;Science emerges as a response to these limitations. Unlike intuition, scientific methodology is systematic and structured. Commonsense reasoning is vulnerable to confirmation bias (seeking only evidence that supports our beliefs), authority bias (accepting claims from high-status individuals without proof), and overconfidence. Errors such as the gambler’s fallacy—believing that independent events influence one another—demonstrate how easily human judgment deviates from probability and logic. Scientific thinking is designed to guard against these cognitive traps.&lt;/p&gt;</description>
     </item>
     <item>
