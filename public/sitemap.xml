@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-04-07T21:26:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/general-discussion/excuse-exam/</loc>
+    <lastmod>2026-04-07T21:26:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/general-discussion/</loc>
+    <lastmod>2026-04-07T21:26:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-07T21:26:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-07T21:26:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/experimental-psychology/</loc>
+    <lastmod>2026-04-04T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/experimental-psychology/presentations/</loc>
+    <lastmod>2026-04-04T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology/presentations/</loc>
+    <lastmod>2026-04-04T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social-psychology/</loc>
+    <lastmod>2026-04-04T11:10:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/experimental-psychology/lec06-2026-04-03/</loc>
+    <lastmod>2026-04-03T11:15:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-psychology/lec06-2026-04-03/</loc>
+    <lastmod>2026-04-03T11:10:30+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/ethical-dilemmas-and-perspectives-in-psychological-research-resources/lec06-2026-03-31/</loc>
     <lastmod>2026-03-31T11:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-31T11:15:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/ethical-dilemmas-and-perspectives-in-psychological-research/</loc>
-    <lastmod>2026-03-31T11:15:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-31T11:15:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-31T11:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ethical-dilemmas-and-perspectives-in-psychological-research-resources/lec05-2026-03-17/</loc>
@@ -23,13 +47,7 @@
     <loc>http://localhost:1313/posts/experimental-psychology/lec05-2026-03-13/</loc>
     <lastmod>2026-03-13T11:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/experimental-psychology/</loc>
-    <lastmod>2026-03-13T11:15:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/social-psychology/lec05-2026-03-13/</loc>
-    <lastmod>2026-03-13T11:10:30+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/social-psychology/</loc>
     <lastmod>2026-03-13T11:10:30+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ethical-dilemmas-and-perspectives-in-psychological-research-resources/lec04-2026-03-10/</loc>
@@ -76,9 +94,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/social-psychology/reading-materials/</loc>
     <lastmod>2026-02-13T11:00:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/general-discussion/</loc>
-    <lastmod>2026-02-04T00:08:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/general-discussion/welcome/</loc>
     <lastmod>2026-02-04T00:08:18+02:00</lastmod>
