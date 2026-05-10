@@ -6,8 +6,43 @@
     <description>Recent content in Posts on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 21:26:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#08: The Basic of Experimentation: Between-Subjects Designs</title>
+      <link>http://localhost:1313/posts/experimental-psychology/lec08-2026-04-24/</link>
+      <pubDate>Fri, 24 Apr 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec08-2026-04-24/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Between-subjects designs assign each participant to only one condition, ensuring groups remain independent. In basic versions, subjects are randomly assigned to specific levels of a single independent variable (IV), such as an experimental or control group. Differences between groups are analyzed using independent-samples t-tests or one-way ANOVAs. This design eliminates carry-over effects but requires large samples to overcome between-person variability.&lt;/p&gt;&#xA;&lt;p&gt;Factorial designs involve two or more IVs where every level is crossed, assigning participants to exactly one cell. A 2×2 design involves four groups, while a 2×3 involves six; the total cells equal the product of all factor levels. These designs reveal main effects for each IV and interaction effects, which show if one IV’s impact depends on another level. Significant interactions require cautious interpretation of main effects and follow-up via simple effects analyses. For example, a 2×2×3 notation indicates three factors totaling 12 cells. While between-subjects factorials prevent order confounds, they&amp;rsquo;re participant-intensive; a 3×4 design with 20 people per cell needs 240 individuals. so, researchers often use mixed factorial designs to boost statistical power.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#08: Aggression</title>
+      <link>http://localhost:1313/posts/social-psychology/lec08-2026-04-24/</link>
+      <pubDate>Fri, 24 Apr 2026 11:10:30 +0200</pubDate>
+      <guid>http://localhost:1313/posts/social-psychology/lec08-2026-04-24/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Aggression is intentional behavior aimed at causing physical or psychological harm, regardless of success. Hostile aggression stems from anger, whereas instrumental aggression serves as a tool for other goals. Violence represents extreme aggression, such as murder or assault. Debate continues over whether aggression is innate or learned. Evolutionarily, men physically aggressed to protect groups and status, while women did so to protect offspring. Research shows experience can override instinct, though biological patterns remain. High testosterone levels correlate with aggression, though behavior also influences hormone levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#07: The Basic of Experimentation</title>
+      <link>http://localhost:1313/posts/experimental-psychology/lec07-2026-04-17/</link>
+      <pubDate>Fri, 17 Apr 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec07-2026-04-17/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Psychology experiments center on two variables: the independent variable (IV), which researchers manipulate, like administering drugs or varying exposure, and the dependent variable (DV), which they measure. Trustworthy studies require operationalization, turning abstract concepts like anxiety into observable procedures. Measurements must also be reliable, providing consistent results across time and raters, and valid, capturing the intended construct. Construct validity occurs when a measure correlates specifically with related criteria. Internal validity ensures only the IV caused changes in the DV. Uncontrolled variables, or confounds, prevent causal conclusions. Common threats include history, maturation, statistical regression, and attrition. Researchers counter these by eliminating extraneous factors, standardizing conditions, and using random assignment to distribute individual differences evenly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#07: Conformity and Obedience</title>
+      <link>http://localhost:1313/posts/social-psychology/lec07-2026-04-17/</link>
+      <pubDate>Fri, 17 Apr 2026 11:10:30 +0200</pubDate>
+      <guid>http://localhost:1313/posts/social-psychology/lec07-2026-04-17/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Social influence manifests through persuasion, compliance, conformity, and obedience. Persuasion actively targets beliefs via communication, while compliance involves behavioral changes following requests, often without genuine internal agreement. Conformity occurs when individuals adopt group norms to fit in, and obedience results from direct orders by authority figures.&lt;/p&gt;&#xA;&lt;p&gt;People conform due to informational social influence, using others for guidance in ambiguous crises or expert settings, or normative social influence to gain acceptance. Sherif’s autokinetic studies demonstrated private acceptance through group consensus, while Baron found higher conformity when accuracy importance increased. Conversely, Asch’s line-judgment studies showed people knowingly provide wrong answers to match a unanimous group. Conformity risk grows with group importance and size, though having an ally or belonging to an individualistic culture reduces this pressure. Minorities may influence majorities through informational means. While injunctive norms define social approval, descriptive norms define actual behavior; however, the latter can unintentionally encourage negative behavioral shifts. Techniques like foot-in-the-door further manipulate behavior.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#08: Colleagues and Academia</title>
+      <link>http://localhost:1313/posts/ethical-dilemmas-and-perspectives-in-psychological-research-resources/lec07-2026-04-14/</link>
+      <pubDate>Tue, 14 Apr 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/ethical-dilemmas-and-perspectives-in-psychological-research-resources/lec07-2026-04-14/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;Academic collegiality is a moral obligation rooted in trust, respect, and shared commitment to research and teaching. Ethical life involves both mandatory compliance and aspirational striving for high standards. While professional codes educate and create accountability, they can&amp;rsquo;t replace individual moral judgment. Academics must ask if they&amp;rsquo;re becoming better professionals, not just following rules.&lt;/p&gt;&#xA;&lt;p&gt;Genuine support requires intellectual honesty, rigorous peer review, and fair resource sharing, while avoiding gossip, gatekeeping, or undermining juniors. Silence regarding misconduct is a violation; unethical behavior should be addressed directly or escalated to supervisors. Authorship must reflect actual contribution, avoiding guest, gift, or ghost statuses.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Excuse Exams</title>
       <link>http://localhost:1313/posts/general-discussion/excuse-exam/</link>

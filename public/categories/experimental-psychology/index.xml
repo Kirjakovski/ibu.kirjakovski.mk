@@ -6,8 +6,15 @@
     <description>Recent content in EXPERIMENTAL PSYCHOLOGY on Prof. Kirjakovski IBU Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/experimental-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#09: The Basic of Experimentation: Within-Subjects Designs</title>
+      <link>http://localhost:1313/posts/experimental-psychology/lec09-2026-05-08/</link>
+      <pubDate>Fri, 08 May 2026 11:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/experimental-psychology/lec09-2026-05-08/</guid>
+      <description>&lt;h2 id=&#34;lecture-summary&#34;&gt;Lecture Summary:&lt;/h2&gt;&#xA;&lt;p&gt;In experimental psychology, signals get drowned out by individual differences. One participant reacts strongly to a manipulation, another barely at all, and between-person variability swallows the effect you care about. Within-subjects designs (or repeated-measures, depending on your textbook) are the standard response: every participant goes through every condition, each serving as their own control. The payoff is statistical power. When the same participant contributes scores across conditions, between-person variance gets partitioned out of the error term, leaving the within-person change you wanted to detect. Experiments therefore need fewer participants. A four-condition study requiring around sixty between-subjects can sometimes run with fifteen within-subjects, depending on how large the individual differences were that you just cancelled out.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>#08: The Basic of Experimentation: Between-Subjects Designs</title>
       <link>http://localhost:1313/posts/experimental-psychology/lec08-2026-04-24/</link>
